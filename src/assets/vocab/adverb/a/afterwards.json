@@ -1,0 +1,57 @@
+{
+    "word": "afterwards",
+    "part": "adverb",
+    "transcription": "[ˈɑːftəwədz]",
+    "level": ["B2"],
+    "translation": ["позже, после этого"],
+    "topics": ["Time-B2"],
+    "type": [],
+    "verbForms": {},
+    "meanings": [
+        {
+            "1": {
+                "en": "at a later time; after an event that has already been mentioned",
+                "ru": "позже; после события, которое уже было упомянуто"
+            }
+        }
+    ],
+    "adjectives": [
+    ],
+    "adverbs": [
+        "shortly",
+        "soon",
+        "not long",
+        "only"
+    ],
+    "phrases": [
+    ],
+    "verbs": [
+    ],
+    "examples": [
+        {
+            "en": "Afterwards she was sorry for what she'd said.",
+            "ru": "После этого она сожалела о том, что сказала.",
+            "meaning": 1
+        },
+        {
+            "en": "<adv>Shortly</adv> afterwards he met her again.",
+            "ru": "Вскоре после этого он встретил ее снова.",
+            "meaning": 1
+        },
+        {
+            "en": "He took his family to supper at a restaurant, and <adv>soon</adv> afterwards, he fell ill.",
+            "ru": "Он взял свою семью на ужин в ресторане, и вскоре после этого он заболел.",
+            "meaning": 1
+        },
+        {
+            "en": "They decided to have another child, and Jake was born <adv>not long</adv> afterwards.",
+            "ru": "Они решили завести еще одного ребенка, и Джейк родился вскоре после этого.",
+            "meaning": 1
+        },
+        {
+            "en": "<adv>Only</adv> afterwards did we realise how lucky we were to get away.",
+            "ru": "Только после этого мы поняли, как нам повезло, что мы ушли.",
+            "meaning": 1
+        }
+    ]
+}

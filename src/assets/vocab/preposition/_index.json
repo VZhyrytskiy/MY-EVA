@@ -1,0 +1,61 @@
+{
+    "about": {
+      "level": ["A1"],
+      "topics": ["Suggestions and advice A1"]
+    },
+    "according to": {
+      "level": ["A2", "B2"],
+      "topics": ["Opinion and argument A2", "Opinion and argument B2"]
+    },
+    "as": {
+      "level": ["A1"]
+    },
+    "at": {
+      "level": ["A1", "A2", "B1"]
+    },
+    "between": {
+      "level": ["A1", "B1"]
+    },
+    "beyond": {
+      "level": ["B2"],
+      "topics": ["Time B2"]
+    },
+    "by": {
+      "level": ["A1", "A2", "B1", "B2"]
+    },
+    "concerning": {
+      "level": []
+    },
+    "during": {
+      "level": ["A1"]
+    },
+    "for": {
+      "level": ["A1", "B1"]
+    },
+    "from": {
+      "level": ["A1", "A2"]
+    },
+    "in": {
+      "level": ["A1","A2", "B1"],
+      "topics": ["Time A1", "Time B1"]
+    },
+    "into": {
+      "level": ["A1", "A2", "B1"]
+    },
+    "of": {
+      "level": ["A1"]
+    },
+    "on": {
+      "level": ["A1", "A2", "B1", "B2"]
+    },
+    "out": {
+        "level": ["A1", "B1", "B2"]
+    },
+    "with": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Discussion and agreement C2"]
+    },
+    "without": {
+      "level": ["A1"]
+    }
+  }

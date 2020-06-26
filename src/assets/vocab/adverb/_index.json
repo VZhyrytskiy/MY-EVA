@@ -1,0 +1,203 @@
+{
+  "afterwards": {
+    "level": ["B2"],
+    "topics": ["Time B2"]
+  },
+  "annually": {
+    "level": ["B2"],
+    "topics": ["Time B2"]
+  },
+  "carefully": {
+    "level": ["A2"]
+  },
+  "clearly": {
+    "level": ["A2"]
+  },
+  "conclusively": {
+    "level": []
+  },
+  "conservatively": {
+    "level": []
+  },
+  "considerable": {
+    "level": ["B2"]
+  },
+  "critically": {
+    "level": ["B2", "C1"],
+    "topics": ["Danger B2"]
+  },
+  "currently": {
+    "level": ["B1"]
+  },
+  "definitely": {
+    "level": ["A2"],
+    "topics": ["Doubt, guessing and certainty A2"]
+  },
+  "definitively": {
+    "level": []
+  },
+  "dramatically": {
+    "level": ["B2"]
+  },
+  "effectively": {
+    "level": ["B1"],
+    "topics": ["Success B1", "Change, cause and effect B1"]
+  },
+  "entirely": {
+    "level": ["B2"]
+  },
+  "eventually": {
+    "level": ["B1"]
+  },
+  "extremely": {
+    "level": ["A2"]
+  },
+  "fairly": {
+    "level": ["B1"]
+  },
+  "far": {
+    "level": ["A1", "B1", "B2"]
+  },
+  "few": {
+    "level": ["A1", "A2"]
+  },
+  "firmly": {
+    "level": ["B2"]
+  },
+  "first": {
+    "level": ["A1", "A2"]
+  },
+  "formally": {
+    "level": []
+  },
+  "fully": {
+    "level": ["B2"]
+  },
+  "gradually": {
+    "level": ["B2"]
+  },
+  "greatly": {
+    "level": ["B2"]
+  },
+  "hourly": {
+    "level": ["B2"],
+    "topics": ["Time B2"]
+  },
+  "immediately": {
+    "level": ["A2", "B2"],
+    "topics": ["Time A2"]
+  },
+  "inevitably": {
+    "level": ["B2"],
+    "topics": ["Doubt, guessing and certainty B2"]
+  },
+  "initially": {
+    "level": ["B2"]
+  },
+  "largely": {
+    "level": ["B2"]
+  },
+  "latly": {
+    "level": ["B2"],
+    "topics": ["Time B2"]
+  },
+  "later": {
+    "level": ["A1", "B2"],
+    "topics": ["Time B2"]
+  },
+  "monthly": {
+    "level": ["B2"],
+    "topics": ["Time B2"]
+  },
+  "much": {
+    "level": ["A1"]
+  },
+  "newly": {
+    "level": ["B2"]
+  },
+  "not long": {
+    "level": []
+  },
+  "officially": {
+    "level": []
+  },
+  "only": {
+    "level": ["A1"]
+  },
+  "openly": {
+    "level": ["B2"]
+  },
+  "originally": {
+    "level": ["B1"]
+  },
+  "particularly": {
+    "level": ["B1"]
+  },
+  "positively": {
+    "level": ["B1"],
+    "topics": ["Opinion and argument B1"]
+  },
+  "practically": {
+    "level": []
+  },
+  "properly": {
+    "level": ["B1"]
+  },
+  "quickly": {
+    "level": ["A1"]
+  },
+  "quite": {
+    "level": ["A1", "A2", "B1"],
+    "topics": ["Opinion and argument C2"]
+  },
+  "rapidly": {
+    "level": ["B2"]
+  },
+  "regularly": {
+    "level": ["B1", "B2"]
+  },
+  "scientifically": {
+    "level": []
+  },
+  "securely": {
+    "level": ["B2"],
+    "topics": ["Success B2"]
+  },
+  "shortly": {
+    "level": ["B2"]
+  },
+  "slowly": {
+    "level": ["A2"]
+  },
+  "somehow": {
+    "level": ["B2"],
+    "topics": ["Doubt, guessing and certainty B2"]
+  },
+  "soon": {
+    "level": ["A1"]
+  },
+  "subsequently": {
+    "level": ["B2"],
+    "topics": ["Time B2"]
+  },
+  "successfully": {
+    "level": ["B1"],
+    "topics": ["Success B1"]
+  },
+  "suddenly": {
+    "level": ["A2"]
+  },
+  "very": {
+    "level": ["A1", "B2"]
+  },
+  "virtually": {
+    "level": []
+  },
+  "weekdays": {
+    "level": ["B2"],
+    "topics": ["Time B2"]
+  },
+  "wildly": {
+    "level": []
+  }
+}

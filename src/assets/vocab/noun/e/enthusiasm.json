@@ -1,0 +1,217 @@
+{
+  "word": "enthusiasm",
+  "part": "noun",
+  "transcription": "[ɪnˈθjuːziæzəm]",
+  "level": ["B2"],
+  "translation": ["энтузиазм", "увлечение"],
+  "topics": ["Feelings B2"],
+  "type": ["countable", "uncountable", "singular"],
+  "plural": [],
+  "verbForms": {},
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+              "en": "[uncountable, singular] a strong feeling of excitement and interest in something and a desire to become involved in it",
+              "ru": "[неисчислимое, единственное число] сильное чувство волнения и интереса к чему-либо и желание участвовать в этом"
+          },
+          "2": {
+              "en": "​[countable] (formal) something that you are very interested in and spend a lot of time doing",
+              "ru": "[исчислимое] (формально) то, что вас очень интересует и вы проводите много времени делая это"
+          }
+      }
+  ],
+  "adjectives": [
+    "boundless",
+    "boyish",
+    "burning",
+    "enormous",
+    "extraordinary",
+    "feigned",
+    "great",
+    "immense",
+    "initial",
+    "little",
+    "many",
+    "real",
+    "renewed"
+  ],
+  "adverbs": [
+    "much"
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+  ],
+  "patterns": [
+    "enthusiasm for doing something",
+    "enthusiasm for something"
+  ],
+  "phrasal verbs": [
+    "wear off"
+  ],
+  "phrases": [
+    "a lack of enthusiasm",
+    "burst of enthusisasm",
+    "energy and enthusiasm",
+    "full of enthusiasm",
+    "somebody can’t contain their enthusiasm",
+    "surge of enthusiasm",
+    "without much enthusiasm"
+  ],
+  "prepositions": [
+    "about",
+    "for",
+    "of",
+    "with",
+    "without"
+  ],
+  "verbs": [
+    "arise",
+    "contain",
+    "convey",
+    "dampen",
+    "demonstrate",
+    "express",
+    "feel",
+    "fire",
+    "have",
+    "hide",
+    "loose",
+    "share",
+    "show"
+  ],
+  "+verbs": [
+    "bubble over",
+    "bubble up",
+    "grow"
+  ],
+  "wordfinder": [
+    "adrenaline",
+    "adventure",
+    "attempt",
+    "challenge",
+    "enthusiasm",
+    "escapade",
+    "excitement",
+    "explore",
+    "kick",
+    "thrill"
+  ],
+  "examples": [
+      {
+          "en": "Her voice was <phrase>full of enthusiasm</phrase>.",
+          "ru": "Ее голос был полон энтузиазма.",
+          "meaning": 1
+      },
+      {
+          "en": "The news was greeted with <phrase>a lack of enthusiasm</phrase> by those at the meeting.",
+          "ru": "Новость была встречена без энтузиазма со стороны тех, кто был на встрече.",
+          "meaning": 1
+      },
+      {
+          "en": "Bella responded with <adjective>great</adjective> enthusiasm.",
+          "ru": "Белла ответила с большим энтузиазмом.",
+          "meaning": 1
+      },
+      {
+          "en": "‘I don't mind’, she said, <phrase>without <adv>much</adv> enthusiasm</phrase>.",
+          "ru": "‘Я не против’, - сказала она без особого энтузиазма.",
+          "meaning": 1
+      },
+      {
+          "en": "The threat of violence did not <verb>dampen</verb> the enthusiasm of voters.",
+          "ru": "Угроза насилия не ослабила энтузиазма избирателей.",
+          "meaning": 1
+      },
+      {
+          "en": "I can't say I <verb>share</verb> your <pattern>enthusiasm <prep>for</prep> the idea</pattern>.",
+          "ru": "Не могу сказать, что разделяю ваш энтузиазм по поводу этой идеи.",
+          "meaning": 1,
+          "pattern": "enthusiasm for something"
+      },
+      {
+          "en": "He <verb>had</verb> a <adj>real</adj> <pattern>enthusiasm for<> the work</pattern>.",
+          "ru": "У него был настоящий энтузиазм к работе.",
+          "meaning": 1,
+          "verb": "have",
+          "pattern": "enthusiasm for something"
+      },
+      {
+          "en": "She never <verb>lost</verb> her <pattern>enthusiasm for teaching</pattern>.",
+          "ru": "Она никогда не теряла энтузиазм по поводу преподавания.",
+          "meaning": 1,
+          "verb": "loose",
+          "pattern": "enthusiasm for something"
+      },
+      {
+          "en": "He has <verb>shown</verb> <adj>little</adj> or no <pattern>enthusiasm for regulating financial markets</pattern> before now.",
+          "ru": "До сих пор он не проявлял особого энтузиазма в отношении регулирования финансовых рынков.",
+          "meaning": 1,
+          "pattern":"enthusiasm for doing something",
+          "verb": "show"
+      },
+      {
+          "en": "Few people <verb>expressed</verb> enthusiasm <prep>about</prep> the current leaders.",
+          "ru": "Мало кто выразил энтузиазм по поводу нынешних лидеров.",
+          "meaning": 1,
+          "verb": "express"
+      },
+      {
+        "en": "He accepted the invitation with <adj>feigned</adj> enthusiasm.",
+        "ru": "Он принял приглашение с притворным энтузиазмом.",
+        "meaning": 1
+      },
+      {
+        "en": "He tried to <verb>hide</verb> the <adj>boyish</adj> enthusiasm bubbling up inside him.",
+        "ru": "Он пытался скрыть внутри себя мальчишеский энтузиазм.",
+        "meaning": 1
+      },
+      {
+        "en": "She grinned, unable to <verb>contain</verb> her enthusiasm.",
+        "ru": "Она улыбнулась, не в силах сдержать свой энтузиазм.",
+        "meaning": 1
+      },
+      {
+        "en": "She managed to <verb>convey</verb> an enthusiasm she did not feel.",
+        "ru": "Ей удалось передать энтузиазм, которого она не чувствовала.",
+        "meaning": 1
+      },
+      {
+        "en": "The cruise director <verb>demonstrated<verb> <adj>boundless</adj> enthusiasm and energy.",
+        "ru": "Директор круиза продемонстрировал безграничный энтузиазм и энергию.",
+        "meaning": 1,
+        "verb": "demonstrate"
+      },
+      {
+        "en": "The idea <verb>aroused</verb> <adj>immense</adj> enthusiasm among party workers.",
+        "ru": "Идея вызвала огромный энтузиазм среди партийных работников.",
+        "meaning": 1,
+        "verb": "arise"
+      },
+      {
+        "en": "The <adj>initial</adj> enthusiasm for the project was <phrverb>wearing off</phrverb>.",
+        "ru": "Первоначальный энтузиазм по поводу проекта прошел.",
+        "meaning": 1,
+        "phrverb": "wear of"
+      },
+      {
+        "en": "The trip has <verb>fired</verb> his <pattern>enthusiasm for all things French</pattern>.",
+        "ru": "Первоначальный энтузиазм по поводу проекта прошел.",
+        "meaning": 1,
+        "verb": "fire",
+        "pattern": "enthusiasm for something"
+      },
+      {
+        "en": "We went about our task with <adj>renewed</adj> enthusiasm.",
+        "ru": "Мы взялись за нашу задачу с новым энтузиазмом.",
+        "meaning": 1
+      },
+      {
+        "en": "Reading is one of her <adj>many</adj> enthusiasms.",
+        "ru": "Чтение - одно из ее многочисленных увлечений.",
+        "meaning": 2
+      }
+
+  ]
+}

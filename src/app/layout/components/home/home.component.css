@@ -1,0 +1,29 @@
+.level-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+.level-row {
+  display: flex;
+}
+.level-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 200px;
+  height: 200px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  margin: 25px;
+  cursor: pointer;
+}
+.level-card:hover {
+  box-shadow: 3px 3px 3px #ccc;
+  background-color: antiquewhite;
+}
+.level-card-text {
+  font-size: 400%;
+}

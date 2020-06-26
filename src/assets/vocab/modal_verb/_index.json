@@ -1,0 +1,21 @@
+{
+  "may": {
+    "level": ["A2", "B1", "B2"]
+  },
+  "must": {
+    "level": ["A1", "B1"],
+    "topics": ["Permission and obligation A1", "Suggestions and advice B1"]
+  },
+  "ought to": {
+    "level": ["B1", "B2"],
+    "topics": ["Suggestions and advice B1", "Doubt, guessing and certainty B2"]
+  },
+  "should": {
+    "level": ["A2", "A2", "B1", "B2"],
+    "topics": ["Suggestions and advice A2", "Suggestions and advice B2", "Doubt, guessing and certainty B2", " Opinion and argument B2", "Opinion and argument C2"]
+  },
+  "would": {
+    "level": ["A1", "B1", "B2"],
+    "topics": ["Preferences and decisions A1", "Doubt, guessing and certainty B2", " Opinion and argument B2", "Suggestions and advice B2"]
+  }
+}

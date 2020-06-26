@@ -1,0 +1,62 @@
+{
+    "word": "day-to-day",
+    "part": "adjective",
+    "transcription": "[ˌdeɪ tə ˈdeɪ]",
+    "level": ["B2"],
+    "translation": ["ежедневный", "повседневный"],
+    "topics": ["Time-B2"],
+    "type": [],
+    "verbForms": {},
+    "use": "only before noun",
+    "meanings": [
+        {
+            "1": {
+                "en": "​planning for only one day at a time",
+                "ru": "планирование только на один день за один раз"
+            },
+            "2": {
+                "en": "​involving the usual events or tasks of each day",
+                "ru": "включая обычные события или задачи на каждый день"
+            }
+        }
+    ],
+    "adjectives": [
+    ],
+    "adverbs": [
+    ],
+    "noun": [
+        "basis",
+        "experience",
+        "work"
+    ],
+    "phrases": [
+    ],
+    "prepositions": [
+    ],
+    "verbs": [
+    ],
+    "idioms": [
+    ],
+    "examples": [
+        {
+            "en": "I have organized the cleaning on a day-to-day <noun>basis</noun>, until our usual cleaner returns.",
+            "ru": "Я организовал уборку на ежедневной основе, пока не вернется наш обычный уборщик.",
+            "meaning": 1
+        },
+        {
+            "en": "She has been looking after the day-to-day running of the school.",
+            "ru": "Она присматривала за повседневной работой школы.",
+            "meaning": 2
+        },
+        {
+            "en": "Most of the training was not relevant to their day-to-day <noun>work</noun>.",
+            "ru": "Большая часть обучения не была связана с их повседневной работой.",
+            "meaning": 2
+        },
+        {
+            "en": "The day-to-day <noun>experience</noun> of dealing with difficult people develops the skills of tact and diplomacy.",
+            "ru": "Повседневный опыт общения с трудными людьми развивает навыки такта и дипломатии.",
+            "meaning": 2
+        }
+    ]
+}

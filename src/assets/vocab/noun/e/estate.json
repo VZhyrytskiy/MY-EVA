@@ -1,0 +1,174 @@
+{
+  "word": "estate",
+  "part": "noun",
+  "transcription": "[ɪˈsteɪt]",
+  "level": ["B2"],
+  "translation": ["недвижимость", "усадьба", "поместье", "имущество", "универсал (авто)"],
+  "topics": ["Building B2"],
+  "type": ["countable", "uncountable"],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "[countable] (British English) an area of land with a lot of houses or factories of the same type on it",
+            "ru": "[исчисляемый] (Британский английский) участок земли с множеством домов или фабрик одного типа"
+          },
+          "2": {
+            "en": "[countable] a large area of land, usually in the country, that is owned by one person or family",
+            "ru": "[исчисляемый] большой участок земли, обычно в стране, который принадлежит одному человеку или семье"
+          },
+          "3": {
+            "en": "(law) [countable, uncountable] all the money and property that a person owns, especially everything that is left when they die",
+            "ru": "(закон) [исчисляемый, неисчисляемый] все деньги и имущество, которыми владеет человек, особенно все, что остается после его смерти"
+          },
+          "4": {
+            "en": "​[countable] (also estate car (both British English), North American English station wagon) a car with a lot of space behind the back seats and a door at the back for loading large items",
+            "ru": "[исчисляемый] (также универсал (оба Британский английский), Североамериканский английский универсал) автомобиль с большим количеством места за задними сиденьями и дверью сзади для загрузки крупных предметов"
+          }
+      }
+  ],
+  "adjectives": [
+    "big",
+    "extensive",
+    "family",
+    "great",
+    "huge",
+    "industrial",
+    "landed",
+    "large",
+    "massive",
+    "palatial",
+    "personal",
+    "real",
+    "small",
+    "taxable"
+
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "council",
+    "country",
+    "housing",
+    "land",
+    "manager",
+    "owner",
+    "sale",
+    "tax",
+    "trading",
+    "worker"
+  ],
+  "ordinal numbers": [
+    "fourth"
+  ],
+  "patterns": [
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "an heir to an estate",
+    "estate was bequeathed to",
+    "on an estate"
+  ],
+  "prepositions": [
+    "of",
+    "on"
+  ],
+  "verbs": [
+    "bequeath",
+    "build",
+    "buy",
+    "have",
+    "inherit",
+    "leave",
+    "own",
+    "settle"
+  ],
+  "+verbs": [
+    "be valued at something",
+    "be worth something"
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "She lives in a tower block <phrase>on an estate</phrase> in London.",
+          "ru": "Она живет в многоэтажном доме в Лондоне.",
+          "meaning": 1,
+          "phrase": "on an estate"
+      },
+      {
+          "en": "The poet's childhood was spent <phrase>on a <noun>country</noun> estate</phrase>.",
+          "ru": "Детство поэта прошло в усадьбе.",
+          "meaning": 2,
+          "phrase": "on an estate"
+
+      },
+      {
+          "en": "She receives rent from all the people whose cottages are <phrase>on estate</phrase> <noun>land</noun>.",
+          "ru": "Она получает арендную плату от всех людей, чьи коттеджи находятся на земельном участке.",
+          "meaning": 2,
+          "phrase": "on an estate"
+      },
+      {
+          "en": "Gilbert was <phrase>heir to an <adj>extensive</adj> <adj>landed</adj> estate</phrase>.",
+          "ru": "Гилберт был наследником обширного помещичьего поместья.",
+          "meaning": 2,
+          "phrase": "an heir to an estate"
+      },
+      {
+          "en": "He owned a <adj>palatial</adj> estate in California.",
+          "ru": "Ему принадлежало роскошное поместье в Калифорнии.",
+          "meaning": 2
+      },
+      {
+          "en": "Queen Victoria <verb>bought</verb> the estate in 1848.",
+          "ru": "Королева Виктория купила поместье в 1848 году.",
+          "meaning": 2,
+          "verb": "buy"
+      },
+      {
+          "en": "The family <verb>owns</verb> a <adj>large</adj> estate in the north of the country.",
+          "ru": "Семья владеет большим поместьем на севере страны.",
+          "meaning": 2,
+          "verb": "own"
+      },
+      {
+          "en": "Her estate was left to her daughter.",
+          "ru": "Ее имущество было оставлено ее дочери.",
+          "meaning": 3
+      },
+      {
+          "en": "He left estate valued at a million dollars.",
+          "ru": "Он оставил имущество стоимостью в миллион долларов.",
+          "meaning": 3
+      },
+      {
+          "en": "He <verb>owns</verb> <adj>personal</adj> estate worth $30 million.",
+          "ru": "Ему принадлежит личное имущество стоимостью 30 миллионов долларов.",
+          "meaning": 3,
+          "verb": "own"
+      },
+      {
+          "en": "It took seven years to <verb>settle</verb> the estate.",
+          "ru": "Прошло семь лет, чтобы урегулировать имущество.",
+          "meaning": 3
+      },
+      {
+          "en": "The bulk of his <phrase>estate was bequeathed to</phrase> his son Jacob.",
+          "ru": "Большая часть его имущества была завещана его сыну Иакову.",
+          "meaning": 3,
+          "phrase": "estate was bequeathed to"
+      }
+  ]
+}

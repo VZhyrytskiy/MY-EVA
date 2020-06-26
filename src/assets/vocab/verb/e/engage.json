@@ -1,0 +1,202 @@
+{
+    "word": "engage",
+    "part": "verb",
+    "transcription": "[ɪnˈɡeɪdʒ]",
+    "level": "B2",
+    "translation": ["привлекать", "привлечь", "нанимать", "пригласить", "взаимодействовать", "учавствовать", "вовлекаться", "сражаться", "вступить в бой", "задействовать", "включить"],
+    "type": ["intransitive", "transitive"],
+    "verbForms": {
+        "presentSimple_1_2": "engage",
+        "presentSimple_3": "engages",
+        "pastSimple": "engaged",
+        "pastParticiple": "engaged",
+        "ingForm": "engaging"
+    },
+    "meanings": [
+        { 
+            "1": {
+                "en": "[transitive] engage something/somebody (formal) to succeed in attracting and keeping somebody’s attention and interest",
+                "ru": "[переходный] привлечь что-то/кого-то (формально), преуспеть в привлечении и удержании чьего-либо внимания и интереса"
+            }
+        },
+        { 
+            "2": {
+                "en": "[transitive] (formal) to employ a person, company, etc. to do a particular job",
+                "ru": "[переходный] (формально), нанять человека, компанию и т. д. для выполнения определенной работы"
+            }
+        },
+        { 
+            "3": {
+                "en": "​[intransitive] engage (with something/somebody) to become involved with and try to understand something/somebody",
+                "ru": "[непереходный] вовлекать (чем-то/кем-то), стать вовлеченным и попытаться понять что-то/кого-то",
+                "seeAlso": [],
+                "synonyms": []
+            }
+        },
+        { 
+            "4": {
+                "en": "​[transitive, intransitive] (formal) to begin fighting with somebody",
+                "ru": "[переходный, непереходный] (формально), начать борьбу с кем-то"
+            }
+        },
+        {    
+            "5": {
+                "en": "​[intransitive, transitive] when a part of a machine engages, or when you engage it, it fits together with another part of the machine and the machine begins to work",
+                "ru": "[переходный, непереходный] когда часть машины включается или когда вы включаете ее, она соединяется с другой частью машины, и машина начинает работать",
+                "oposite": "disengage"
+            }
+        }
+    ],
+    "adverbs": [
+        "actively",
+        "constructively",
+        "directly",
+        "fully",
+        "immediately",
+        "openly",
+        "regularly"
+    ],
+    "noun": [
+        "audience",
+        "eye",
+        "mind",
+        "public",
+        "reader",
+        "viewer"
+    ],
+    "phrasal verbs": [
+        {
+            "phrase": "engage in (engage in something | engage somebody in something)",
+            "explanation": "​(formal) to take part in something; to make somebody take part in something",
+            "translation": "(формально) принять участие в чем-либо; заставить кого-то принять участие в чем-то",
+            "examples": [
+                {
+                    "en": "She tried desperately to <phrv>engage him in<phrv> conversation.",
+                    "ru": "Она отчаянно пыталась вовлечь его в разговор."
+                },
+                {
+                    "en": "The army was <adv>regularly</adv> <phrv>engaged in</phrv> combat.",
+                    "ru": "Она отчаянно пыталась вовлечь его в разговор."
+                },
+                {
+                    "en": "They <adv>constructively</adv> <phrv>engage critics in</phrv> debates.",
+                    "ru": "Они конструктивно вовлекают критиков в дебаты."
+                }
+            ]
+        }
+    ],
+    "prepositions": [
+        "with"
+    ],
+    "pattern": [
+        "engage somebody/something as something",
+        "engage somebody/something to do something",
+        "engage somebody/something",
+        "engage with somebody/something"
+    ],
+    "verbs": [
+        "attempt to",
+        "fail to",
+        "refuse to",
+        "seek to",
+        "try to"
+    ],
+    "examples": [
+        {
+            "en": "It is a movie that engages both the <noun>mind</noun> and the <noun>eye</noun>.",
+            "ru": "Это фильм, который привлекает внимание и глаз.",
+            "meaning": 1
+        },
+        {
+            "en": "to engage the <noun>public</noun>",
+            "ru": "привлечь публику",
+            "meaning": 1
+        },
+        {
+            "en": "to engage the <noun>audience</noun>",
+            "ru": "привлечь аудиторию",
+            "meaning": 1
+        },
+        {
+            "en": "to engage the <noun>viewer</noun>",
+            "ru": "привлечь зрителя",
+            "meaning": 1
+        },
+        {
+            "en": "to engage the <noun>reader</noun>",
+            "ru": "привлечь читателя",
+            "meaning": 1
+        },
+        {
+            "en": "She has already <pattern>engaged a lawyer</pattern>.",
+            "ru": "Она уже наняла адвоката.",
+            "meaning": 2,
+            "pattern": "engage somebody/something"
+        },
+        {
+            "en": "We will have to <pattern>engage the services of a translator</pattern>.",
+            "ru": "Придется привлекать услуги переводчика.",
+            "meaning": 2,
+            "pattern": "engage somebody/something"
+        },
+        {
+            "en": "He was <adv>immediately</adv> <pattern>engaged as a consultant</pattern>.",
+            "ru": "Он был немедленно нанят в качестве консультанта.",
+            "meaning": 2,
+            "pattern": "engage somebody/something as something"
+        },
+        {
+            "en": "He <pattern>engaged her to sing</pattern> in Vienna.",
+            "ru": "Он пригласил ее петь в Вене.",
+            "meaning": 2,
+            "pattern": "engage somebody/somethig to do something"
+        },
+        {
+            "en": "She has the ability <pattern>to engage with young minds</pattern>.",
+            "ru": "У нее есть способность взаимодействовать с молодыми умами.",
+            "meaning": 3,
+            "pattern": "engage with somebody/something"
+        },
+        {
+            "en": "We acknowledge the need to <pattern>engage <adv>directly</adv> with these problems</pattern>.",
+            "ru": "Мы признаем необходимость непосредственного участия в решении этих проблем.",
+            "meaning": 3,
+            "pattern": "engage with somebody/something"
+        },
+        {
+            "en": "Our contributors are <adv>actively</adv> <pattern>engaging with tradition</pattern>.",
+            "ru": "Наши участники активно вовлечены традицией.",
+            "meaning": 3,
+            "pattern": "engage with somebody/something"
+        },
+        {
+            "en": "He ordered his men to <pattern>engage the enemy</pattern>.",
+            "ru": "Он приказал своим людям сражаться с врагом.",
+            "meaning": 4,
+            "pattern": "engage somebody"
+        },
+        {
+            "en": "The fleet sailed out of Cadiz to <pattern>engage with the enemy</pattern>.",
+            "ru": "Флот отплыл из Кадиса, чтобы вступить в бой с врагом.",
+            "meaning": 4,
+            "pattern": "engage with somebody/something"
+        },
+        {
+            "en": "The cogwheels are not engaging.",
+            "ru": "Зубчатые колеса не взаимодействуют.",
+            "meaning": 5
+        },
+        {
+            "en": "One cogwheel <pattern>engages with the next</pattern>.",
+            "ru": "Одно зубчатое колесо взаимодействует со следующим.",
+            "meaning": 5,
+            "pattern": "engage with somebody/something"
+        },
+        {
+            "en": "Engage the clutch before selecting a gear.",
+            "ru": "Включите сцепление перед выбором передачи.",
+            "meaning": 5,
+            "pattern": "engage somebody/something"
+        }
+    ] 
+}

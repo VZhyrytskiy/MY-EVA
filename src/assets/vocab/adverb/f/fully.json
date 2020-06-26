@@ -1,0 +1,78 @@
+{
+    "word": "fully",
+    "part": "adverb",
+    "transcription": "[ˈfʊli]",
+    "level": ["B2"],
+    "translation": ["полностью", "в полной мере"],
+    "type": [],
+    "verbForms": {},
+    "meanings": [
+        {
+            "1": {
+                "en": "completely",
+                "ru": "полностью"
+            },
+            "2": {
+                "en": "​(used to emphasize an amount) the whole of; as much as",
+                "ru": "(Формальный) (используется, чтобы подчеркнуть количество) в целом; столько, сколько, в полной мере",
+                "used": "formal"
+            }
+        }
+    ],
+    "adjectives": [
+        "aware"
+    ],
+    "phrases": [
+        "fully 30 percent"
+    ],
+    "verbs": [
+        "cooperate",
+        "equip",
+        "recover",
+        "support",
+        "understand"
+    ],
+    "examples": [
+        {
+            "en": "I fully <verb>understand</verb> your motives",
+            "ru": "Я полностью понимаю ваши мотивы",
+            "meaning": 1,
+            "verb": "understand"
+        },
+        {
+            "en": "She never fully <verb>recovered</verb> from the accident.",
+            "ru": "Она так и не оправилась полностью от аварии.",
+            "meaning": 1,
+            "verb": "recover"
+        },
+        {
+            "en": "She fully <verb>supports</verb> her daughter's plans.",
+            "ru": "Она полностью поддерживает планы своей дочери.",
+            "meaning": 1,
+            "verb": "support"
+        },
+        {
+            "en": "We are fully <adj>aware</adj> of the dangers.",
+            "ru": "Мы полностью осознаем опасности.",
+            "meaning": 1
+        },
+        {
+            "en": "The classrooms are fully <verb>equipped</verb>.",
+            "ru": "Классы полностью оборудованы.",
+            "meaning": 1,
+            "verb": "equip"
+        },
+        {
+            "en": "Everyone <verb>cooperated</verb> fully with the investigation.",
+            "ru": "Все полностью сотрудничали со следствием.",
+            "meaning": 1,
+            "verb": "cooperate"
+        },
+        {
+            "en": "The disease affects fully <phrase>30 percent</phrase> of the population.",
+            "ru": "Болезнь поражает в полной мере 30 процентов населения.",
+            "meaning": 2,
+            "phrase": "30 percent"
+        }
+    ]
+}

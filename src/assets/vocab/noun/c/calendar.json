@@ -1,0 +1,106 @@
+{
+    "word": "calendar",
+    "part": "noun",
+    "transcription": "[ˈkælɪndə(r)]",
+    "level": ["B2"],
+    "translation": ["календарь"],
+    "topics": ["Time-B2"],
+    "type": [],
+    "verbForms": {},
+    "use": "",
+    "meanings": [
+        {
+            "1": {
+                "en": "a page or series of pages showing the days, weeks and months of a particular year, especially one that you hang on a wall",
+                "ru": "страница или серия страниц с указанием дней, недель и месяцев определенного года, главным образом та, которую вы вешаете на стену"
+            },
+            "2": {
+                "en": "(especially North American English) a record of what you have to do each day; the book or piece of software in which you record this",
+                "ru": "(особенно североамериканский английский) запись того, что вы должны делать каждый день; книга или часть программного обеспечения, в которой вы записываете это"
+            },
+            "3": {
+                "en": "​[usually singular] a list of important events or dates of a particular type during the year",
+                "ru": "[обычно в единственном числе] список важных событий или дат определенного типа в течение года"
+            },
+            "4": {
+                "en": "​a system by which time is divided into fixed periods, showing the beginning and end of a year",
+                "ru": "cистема, по которой время делится на фиксированные периоды, показывая начало и конец года"
+            }
+        }
+    ],
+    "adjectives": [
+        "busy",
+        "full",
+        "Gregorian",
+        "Islamic",
+        "Julian",
+        "sporting"
+    ],
+    "adverbs": [
+    ],
+    "noun": [
+    ],
+    "phrases": [
+        "mark something on the calendar",
+        "put something on the calendar"
+    ],
+    "prepositions": [
+        "for",
+        "in",
+        "on"
+    ],
+    "verbs": [
+        "check",
+        "consult"
+    ],
+    "idioms": [
+    ],
+    "examples": [
+        {
+            "en": "a calendar <prep>for</prep> 2020",
+            "ru": "календарь на 2020 год",
+            "meaning": 1
+        },
+        {
+            "en": "I think I'm free on that day — let me <verb>check</verb> my calendar.",
+            "ru": "Я думаю, что я свободен в тот день - позвольте мне проверить мой календарь.",
+            "meaning": 2,
+            "verb": "check"
+        },
+        {
+            "en": "This is one of the biggest weeks <prep>in</prep> the racing calendar.",
+            "ru": "Это одна из самых больших недель в гоночном календаре.",
+            "meaning": 3
+        },
+        {
+            "en": "The group has a <adj>busy</adj> social calendar.",
+            "ru": "Группа имеет напряженный социальный календарь.",
+            "meaning": 3
+        },
+        {
+            "en": "a major festival <prep>in</prep> the church’s calendar",
+            "ru": "главный праздник в церковном календаре",
+            "meaning": 3
+        },
+        {
+            "en": "These days the tennis calendar has become so crowded.",
+            "ru": "В эти дни теннисный календарь стал настолько переполненным.",
+            "meaning": 3
+        },
+        {
+            "en": "the <adj>Islamic</adj> calendar",
+            "ru": "Исламский календарь",
+            "meaning": 4
+        },
+        {
+            "en": "the <adj>Gregorian</adj> calendar",
+            "ru": "Григорианский календарь",
+            "meaning": 4
+        },
+        {
+            "en": "the <adj>Julian</adj> calendar",
+            "ru": "Юлианский календарь",
+            "meaning": 4
+        }
+    ]
+}

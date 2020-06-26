@@ -1,0 +1,121 @@
+{
+  "word": "esthical",
+  "part": "adjective",
+  "transcription": "[ˈeθɪkl]",
+  "level": ["B2"],
+  "translation": ["этический"],
+  "topics": ["Personal qualities B2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "pronunciation changes by part of speech": false,
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "connected with beliefs and principles about what is right and wrong",
+            "ru": "связано с убеждениями и принципами о том, что правильно и что неправильно"
+          },
+          "2": {
+            "en": "morally correct or acceptable",
+            "ru": "морально правильный или приемлемый"
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "argument",
+    "dilemmas",
+    "ground",
+    "guideline",
+    "investment",
+    "issue",
+    "principle",
+    "problem",
+    "question",
+    "standard",
+    "value"
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+    "it is ethical to do something",
+    "it is ethical for somebody to do something"
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+  ],
+  "prepositions": [
+  ],
+  "verbs": [
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "The ethical problems of human embryo research",
+          "ru": "Этические проблемы исследования эмбриона человека",
+          "meaning": 1
+      },
+      {
+          "en": "She objected on purely ethical <noun>grounds</noun>.",
+          "ru": "Она возражала по чисто этическим соображениям.",
+          "meaning": 1,
+          "noun": "ground"
+      },
+      {
+          "en": "Doctors were expected to draw up ethical <noun>guidelines</noun> regarding relationships with patients.",
+          "ru": "Предполагалось, что врачи разработают этические принципы, касающиеся отношений с пациентами.",
+          "meaning": 1,
+          "noun":"guideline"
+      },
+      {
+          "en": "Our overseas suppliers are obliged to comply with certain ethical <noun>principles</noun>.",
+          "ru": "Наши зарубежные поставщики обязаны соблюдать определенные этические принципы.",
+          "meaning": 1,
+          "noun": "principle"
+      },
+      {
+          "en": "There's an overwhelming ethical <noun>argument</noun> for the protection of the environment.",
+          "ru": "Существует неопровержимый этический аргумент в пользу защиты окружающей среды.",
+          "meaning": 1
+      },
+      {
+          "en": "What kind of ethical and political <noun>values</noun> underpin our society?",
+          "ru": "Какие этические и политические ценности лежат в основе нашего общества?",
+          "meaning": 1,
+          "noun": "value"
+      },
+      {
+          "en": "<pattern>Is it ethical to keep</pattern> animals in zoos?",
+          "ru": "Этично ли держать животных в зоопарках?",
+          "meaning": 2,
+          "pattern": "it is ethical to do something"
+      },
+      {
+          "en": "<pattern>It would have been more ethical for him to resign</pattern>.",
+          "ru": "Для него было бы более этично уйти в отставку.",
+          "meaning": 2,
+          "pattern": "it is ethical for somebody to do something"
+      },
+      {
+          "en": "I don't consider the arms trade to be an ethical one.",
+          "ru": "Я не считаю торговлю оружием этичной.",
+          "meaning": 2
+      }
+  ]
+}

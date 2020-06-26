@@ -1,0 +1,127 @@
+{
+    "word": "annual",
+    "part": "adjective",
+    "transcription": "[ˈænjuəl]",
+    "level": ["B2"],
+    "translation": ["ежегодный", "годовой"],
+    "topics": ["Time-B2", "Money-B2"],
+    "type": [],
+    "verbForms": {},
+    "use": "usually before noun",
+    "meanings": [
+        {
+            "1": {
+                "en": "happening or done once every year",
+                "ru": "происходит или делается раз в год"
+            },
+            "2": {
+                "en": "relating to a period of one year",
+                "ru": "относится к периоду в одн год"
+            }
+        }
+    ],
+    "adjectives": [
+        "average",
+        "total"
+    ],
+    "adverbs": [
+    ],
+    "noun": [
+        "basis",
+        "budget",
+        "conference",
+        "costs",
+        "event",
+        "fee",
+        "income",
+        "leave",
+        "meeting",
+        "rainfall",
+        "rate",
+        "report",
+        "revenue",
+        "salary",
+        "turnover"
+    ],
+    "phrases": [
+    ],
+    "verbs": [
+    ],
+    "examples": [
+        {
+            "en": "an annual <noun>meeting<noun>",
+            "ru": "ежегодное собрание",
+            "meaning": 1
+        },
+        {
+            "en": "an annual <noun>event<noun>",
+            "ru": "ежегодное метоприятие",
+            "meaning": 1
+        },
+        {
+            "en": "an annual <noun>report<noun>",
+            "ru": "ежегодный отчет",
+            "meaning": 1
+        },
+        {
+            "en": "an annual <noun>conference<noun>",
+            "ru": "ежегодная конференция",
+            "meaning": 1
+        },
+        {
+            "en": "Funding will be awarded on an annual <noun>basis</noun>.",
+            "ru": "Финансирование будет присуждаться на ежегодной основе.",
+            "meaning": 1
+        },
+        {
+            "en": "an annual <noun>income</noun>",
+            "ru": "годовая прибыль",
+            "meaning": 2
+        },
+        {
+            "en": "an annual <noun>revenue</noun>",
+            "ru": "годовой доход",
+            "meaning": 2
+        },
+        {
+            "en": "an annual <noun>budget</noun>",
+            "ru": "годовой бюджет",
+            "meaning": 2
+        },
+        {
+            "en": "an annual <noun>fee</noun>",
+            "ru": "годовой взнос",
+            "meaning": 2
+        },
+        {
+            "en": "an annual <noun>salary</noun>",
+            "ru": "годовой зарплата",
+            "meaning": 2
+        },
+        {
+            "en": "an annual <noun>turnover</noun>",
+            "ru": "годовой оборот",
+            "meaning": 2
+        },
+        {
+            "en": "an <adj>average</adj> annual growth <noun>rate</noun> of 8%",
+            "ru": "среднегодовой темп роста 8%",
+            "meaning": 2
+        },
+        {
+            "en": "Our <adj>total</adj> annual <noun>costs</noun> have declined.",
+            "ru": "Наши общие годовые расходы снизились.",
+            "meaning": 2
+        },
+        {
+            "en": "I have decided to take my annual <noun>leave</noun> to be with my wife and baby.",
+            "ru": "Я решил взять свой ежегодный отпуск, чтобы быть с моей женой и ребенком.",
+            "meaning": 2
+        },
+        {
+            "en": "annual <noun>rainfall</noun>",
+            "ru": "годовое количество осадков",
+            "meaning": 2
+        }
+    ]
+}

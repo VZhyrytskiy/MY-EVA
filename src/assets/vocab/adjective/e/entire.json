@@ -1,0 +1,161 @@
+{
+  "word": "entire",
+  "part": "adjective",
+  "transcription": "[ɪnˈtaɪə(r)]",
+  "level": ["B2"],
+  "translation": ["весь", "вся"],
+  "topics": [],
+  "type": [],
+  "plural": [],
+  "verbForms": {},
+  "use": "only before noun",
+  "meanings": [
+      {
+          "1": {
+              "en": "(used when you are emphasizing that the whole of something is involved) including everything, everyone or every part",
+              "ru": "(используется, когда вы подчеркиваете, что все что-то вовлечено) включая все, каждого или каждую часть",
+              "synonym": ["whole"]
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "body",
+    "budget",
+    "building",
+    "career",
+    "city",
+    "collection",
+    "community",
+    "country",
+    "day",
+    "family",
+    "generation",
+    "industry",
+    "length",
+    "life",
+    "nation",
+    "population",
+    "process",
+    "range",
+    "region",
+    "season",
+    "system",
+    "team",
+    "village",
+    "world"
+  ],
+  "patterns": [
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+  ],
+  "prepositions": [
+  ],
+  "verbs": [
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "The entire <noun>village</noun> was destroyed.",
+          "ru": "Вся деревня была разрушена.",
+          "meaning": 1
+      },
+      {
+          "en": "You two are her favourite people in the entire <noun>world</noun>.",
+          "ru": "Вы двое ее любимые люди во всем мире.",
+          "meaning": 1
+      },
+      {
+          "en": "The film is perfect for the entire <noun>family</noun>.",
+          "ru": "Фильм идеально подходит для всей семьи.",
+          "meaning": 1
+      },
+      {
+          "en": "I wasted an entire <noun>day</noun> on it.",
+          "ru": "Я потратил на это целый день.",
+          "meaning": 1
+      },
+      {
+          "en": "I have never in my entire <noun>life</noun> heard such nonsense!",
+          "ru": "Я никогда в жизни не слышал такой ерунды!",
+          "meaning": 1
+      },
+      {
+          "en": "The disease threatens to wipe out the entire <noun>population</noun>.",
+          "ru": "Болезнь грозит уничтожить все население.",
+          "meaning": 1
+      },
+      {
+          "en": "She has spent her entire <noun>career</noun> teaching in higher education.",
+          "ru": "Она провела всю свою карьеру, преподавая в высшем образовании.",
+          "meaning": 1
+      },
+      {
+          "en": "This is a great workout for the entire <noun>body</noun>.",
+          "ru": "Это отличная тренировка для всего тела.",
+          "meaning": 1
+      },
+      {
+          "en": "The entire <noun>process</noun> takes less than 15 minutes.",
+          "ru": "Весь процесс занимает менее 15 минут.",
+          "meaning": 1
+      },
+      {
+          "en": "The gallery runs the entire <noun>length</noun> of the building.",
+          "ru": "Галерея проходит по всей длине здания.",
+          "meaning": 1
+      },
+      {
+        "en": "The issues identified by Canadian officials affected the entire <noun>industry</noun>.",
+        "ru": "Проблемы, выявленные канадскими официальными лицами, затронули всю отрасль.",
+        "meaning": 1
+      },
+      {
+        "en": "She said the public education system was failing an entire <noun>generation</noun> of Americans.",
+        "ru": "Она сказала, что система государственного образования подводит целое поколение американцев.",
+        "meaning": 1
+      },
+      {
+        "en": "Street gangs had gained control of neighbourhoods and even entire <noun>cities</noun>.",
+        "ru": "Уличные банды получили контроль над районами и даже целыми городами.",
+        "meaning": 1,
+        "noun": "city"
+      },
+      {
+        "en": "They have only won six games the entire <noun>season</noun>.",
+        "ru": "Они выиграли всего шесть игр за весь сезон.",
+        "meaning": 1
+      },
+      {
+        "en": "Viruses can wipe out an entire computer <noun>system</noun>.",
+        "ru": "Вирусы могут уничтожить всю компьютерную систему.",
+        "meaning": 1
+      },
+      {
+        "en": "The company is planning to promote its entire <noun>range</noun> of products across Europe.",
+        "ru": "Компания планирует продвигать весь свой ассортимент по всей Европе.",
+        "meaning": 1
+      },
+      {
+        "en": "The entire <noun>team</noun> played well.",
+        "ru": "Вся команда играла хорошо.",
+        "meaning": 1
+      },
+      {
+        "en": "My entire music <noun>collection</noun> is on my laptop.",
+        "ru": "Вся моя коллекция музыки на моем ноутбуке.",
+        "meaning": 1
+      }
+
+  ]
+}

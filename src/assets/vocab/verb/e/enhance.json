@@ -1,0 +1,126 @@
+{
+  "word": "enhance",
+  "part": "verb",
+  "transcription": "[ɪnˈhɑːns]",
+  "level": "B2",
+  "translation": ["улучшить, повысить, расширить"],
+  "type": ["transitive"],
+  "verbForms": {
+      "presentSimple_1_2": "enhance",
+      "presentSimple_3": "enhances",
+      "pastSimple": "enhanced",
+      "pastParticiple": "enhanced",
+      "ingForm": "enhancing"
+  },
+  "meanings": [
+      {
+          "1": {
+              "en": "to increase or further improve the good quality, value or status of somebody/something",
+              "ru": "повысить или улучшить качество, ценность или статус кого-либо / чего-либо"
+          }
+      }
+  ],
+  "adjectives": [
+    "further"
+  ],
+  "adverbs": [
+    "considerably",
+    "digitally",
+    "dramatically",
+    "greatly",
+    "much",
+    "surgically"
+  ],
+  "noun": [
+    "ability",
+    "efficiency",
+    "experience",
+    "performance",
+    "prospect",
+    "quality",
+    "reputation",
+    "status"
+  ],
+  "phrase": [
+    "digitally enhanced",
+    "surgically enhanced"
+  ],
+  "phrasal verbs": [
+  ],
+  "prepositions": [
+    "by"
+  ],
+  "pattern": [
+    "enhance best features",
+    "enhance somebody/something"
+  ],
+  "modal verbs": [
+    "can",
+    "could",
+    "may"
+  ],
+  "examples": [
+      {
+          "en": "This is an opportunity to enhance the <noun>reputation</noun> of the company.",
+          "ru": "Это возможность повысить репутацию компании.",
+          "meaning": 1
+      },
+      {
+          "en": "things that can significantly enhance the <noun>quality</noun> of your life",
+          "ru": "вещи, которые могут значительно улучшить качество вашей жизни",
+          "meaning": 1
+      },
+      {
+          "en": "The runner says he's never used steroids to enhance his <noun>performance</noun>.",
+          "ru": "Бегун говорит, что он никогда не использовал стероиды для улучшения своих результатов.",
+          "meaning": 1
+      },
+      {
+          "en": "The new initiative will enhance our <noun>ability</noun> to respond to threats abroad.",
+          "ru": "Новая инициатива расширит нашу способность реагировать на угрозы за рубежом.",
+          "meaning": 1
+      },
+      {
+          "en": "The project was designed to enhance the <noun>experience</noun> of museum visitors.",
+          "ru": "Проект был призван повысить познание посетителей музея.",
+          "meaning": 1
+      },
+      {
+          "en": "the skilled use of make-up to <pattern>enhance your best features</pattern>",
+          "ru": "умелое использование макияжа, улучшает ваши лучшие черты",
+          "meaning": 1,
+          "pattern": "enhance best features"
+      },
+      {
+          "en": "The techniques should <adv>greatly</adv> enhance the <noun>prospects</noun> for children with learning difficulties.",
+          "ru": "Методы должны значительно улучшить перспективы для детей с трудностями в обучении.",
+          "meaning": 1,
+          "noun": "prospect"
+      },
+      {
+          "en": "These latest discoveries have <adj>further</adj> enhanced our <noun>understanding</noun> of the origins of the universe.",
+          "ru": "Эти последние открытия еще больше расширили наше понимание происхождения вселенной.",
+          "meaning": 1
+      },
+      {
+          "en": "The attractiveness of the book is <adv>much</adv> enhanced <prep>by</prep> Mark Stevens' drawings.",
+          "ru": "Привлекательность книги значительно усиливается рисунками Марка Стивенса.",
+          "meaning": 1
+      },
+      {
+          "en": "The images have been <phrase>digitally enhanced</phrase>.",
+          "ru": "Изображения были улучшены в цифровом виде.",
+          "meaning": 1
+      },
+      {
+          "en": "reforms designed to enhance market <noun>efficiency</noun>",
+          "ru": "реформы, направленные на повышение эффективности рынка",
+          "meaning": 1
+      },
+      {
+          "en": "Most people seek to enhance their <noun>status</noun> at work in whatever ways they can.",
+          "ru": "Большинство людей стремятся улучшить свой статус на работе всеми возможными способами.",
+          "meaning": 1
+      }
+  ]
+}

@@ -1,0 +1,96 @@
+<div class="breadcrumbs">
+  <div><a class="link" [routerLink]="['/home']"><mat-icon >home</mat-icon></a></div>
+  <div>&nbsp;/&nbsp;</div>
+  <div><a class="link" (click)="onGotoAlphabet(level)">{{level}}</a></div>
+  <div>&nbsp;/&nbsp;</div>
+  <div><a class="link" (click)="onGotoWordsList(level, letter)">{{letter}}</a></div>
+  <div>&nbsp;/&nbsp;</div>
+  <div>{{word}}</div>
+</div>
+
+
+
+<div class="word-list-container">
+  <div class="flex-item-meaning">
+    <h4>Значение слова <mat-icon class="pointer" (click)="onOpenDialog()" matTooltip="Перевод на русский">translate</mat-icon></h4>
+    <ol>
+      <li *ngFor="let obj of listofMeanings$ | async"
+          class="meaning-item"
+          matTooltip="{{obj.ru}}"
+          [matTooltipShowDelay]="1000"
+          [matTooltipHideDelay]="2000">{{obj.en}}</li>
+    </ol>
+  </div>
+</div>
+
+<div class="word-list-container">
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Существительные</h5>
+    <ul>
+      <li *ngFor="let o of listOfNouns$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Прилагательные</h5>
+    <ul>
+      <li *ngFor="let o of listOfAdjectives$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Наречия</h5>
+    <ul>
+      <li *ngFor="let o of listOfAdverbs$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Предлоги</h5>
+    <ul>
+      <li *ngFor="let o of listOfPrepositions$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Глаголы</h5>
+    <ul>
+      <li *ngFor="let o of listOfVerbs$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Фразеологические Глаголы</h5>
+    <ul>
+      <li *ngFor="let o of listOfPhrasalVerbs$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>+Глаголы</h5>
+    <ul>
+      <li *ngFor="let o of listOfPlusVerbs$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Фразы</h5>
+    <ul>
+      <li *ngFor="let o of listOfPhrases$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Шаблоны</h5>
+    <ul>
+      <li *ngFor="let o of listOfPatterns$ | async">{{o}}</li>
+    </ul>
+  </div>
+
+  <div *ngIf="1 > 0" class="flex-item">
+    <h5>Идиомы</h5>
+    <ul>
+      <li *ngFor="let o of listOfIdioms$ | async">{{o}}</li>
+    </ul>
+  </div>
+</div>

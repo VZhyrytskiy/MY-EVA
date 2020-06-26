@@ -1,0 +1,399 @@
+{
+  "word": "establish",
+  "part": "verb",
+  "transcription": "[ɪˈstæblɪʃ]",
+  "level": ["B2"],
+  "translation": ["создавать", "основывать", "установить", "утвердить", "зарекомендовать"],
+  "topics": ["Success B2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "establish",
+    "presentSimple_3": "establishes",
+    "pastSimple": "established",
+    "pastParticiple": "established",
+    "ingForm": "establishing"
+  },
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "establish something / to start or create an organization, a system, etc. that is meant to last for a long time",
+            "ru": "создать что-то / начать или создать организацию, систему и т. д., которая рассчитана на долгое время",
+            "synonym": "set up"
+          },
+          "2": {
+            "en": "establish something / to start having a relationship, especially a formal one, with another person, group or country",
+            "ru": "установить что-то / начать отношения, особенно формальные, с другим человеком, группой или страной"
+          },
+          "3": {
+            "en": "to hold a position for long enough or succeed in something well enough to make people accept and respect you",
+            "ru": "занимать должность достаточно долго или преуспеть в чем-то достаточно хорошо, чтобы заставить людей принять и уважать вас"
+          },
+          "4": {
+            "en": "to make people accept a belief, claim, custom etc.",
+            "ru": "заставить людей принять убеждения, претензии, обычаи и т. д."
+          },
+          "5": {
+            "en": "to discover or prove the facts of a situation",
+            "ru": "раскрыть или доказать факты ситуации",
+            "synonym": "ascertain"
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+    "clearly",
+    "conclusively",
+    "definitely",
+    "definitively",
+    "firmly",
+    "formally",
+    "fully",
+    "initially",
+    "newly",
+    "originally",
+    "quickly",
+    "scientifically",
+    "securely",
+    "successfully"
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "base",
+    "cause",
+    "centre",
+    "colony",
+    "committee",
+    "company",
+    "connection",
+    "contact",
+    "convent",
+    "dictatorship",
+    "dynasty",
+    "effectiveness",
+    "empire",
+    "fact",
+    "framework",
+    "fund",
+    "government",
+    "group",
+    "guilt",
+    "identity",
+    "internet",
+    "league",
+    "link",
+    "network",
+    "position",
+    "practice",
+    "principle",
+    "relation",
+    "relationship",
+    "reputation",
+    "rule",
+    "school",
+    "settlement",
+    "standard",
+    "state",
+    "system",
+    "tradition",
+    "zone"
+  ],
+  "patterns": [
+    "establish something with",
+    "establish something",
+    "establish something/somebody/yourself as something",
+    "establish something/somebody/yourself in something",
+    "establish something/somebody/yourself",
+    "establish that...",
+    "establish where, what, etc..."
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "an attempt to establish something",
+    "an effort to establish something",
+    "become established",
+    "get established",
+    "it is established that",
+    "previously established"
+  ],
+  "prepositions": [
+    "as",
+    "by",
+    "from",
+    "in",
+    "on",
+    "with"
+  ],
+  "verbs": [
+    "agree to",
+    "attempt to",
+    "be",
+    "become",
+    "help to",
+    "seek to",
+    "try to"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "The <noun>committee</noun> was established <prep>in</prep> 1912.",
+          "ru": "Комитет был создан в 1912 году.",
+          "meaning": 1
+      },
+      {
+          "en": "They now hope to <pattern>establish a centre</pattern> <prep>in</prep> Cuba.",
+          "ru": "Теперь они надеются создать центр на Кубе.",
+          "meaning": 1,
+          "pattern": "establish something"
+      },
+      {
+          "en": "Let’s establish some ground <noun>rules</noun>.",
+          "ru": "Давайте установим некоторые основные правила.",
+          "meaning": 1,
+          "noun": "rule"
+      },
+      {
+          "en": "The proposal would establish a <noun>system</noun> of inspections of prisons worldwide.",
+          "ru": "Это предложение позволит создать систему инспекций тюрем по всему миру.",
+          "meaning": 1
+      },
+      {
+          "en": "They are establishing a <noun>network</noun> of pumps and pipelines to move the oil.",
+          "ru": "Они создают сеть насосных станций и трубопроводов для перекачки нефти.",
+          "meaning": 1
+      },
+      {
+          "en": "The new treaty establishes a free trade <noun>zone</noun>.",
+          "ru": "Новый договор устанавливает зону свободной торговли.",
+          "meaning": 1
+      },
+      {
+          "en": "Its goal is to establish a <noun>fund</noun> which will support young people in need of help.",
+          "ru": "Его цель - создать фонд поддержки молодых людей, нуждающихся в помощи.",
+          "meaning": 1
+      },
+      {
+          "en": "He sought to establish a <noun>dynasty</noun> as well as a business <noun>empire</noun>.",
+          "ru": "Он стремился создать династию, а также бизнес-империю.",
+          "meaning": 1
+      },
+      {
+          "en": "The king supported <phrase>efforts to establish an opera <noun>company<noun></phrase> <prep>in</prep> England.",
+          "ru": "Король поддержал усилия по созданию оперной труппы в Англии.",
+          "meaning": 1,
+          "phrase": "an effort to establish something"
+      },
+      {
+          "en": "They have established a basic <noun>framework</noun> of ground rules for discussions.",
+          "ru": "Они создали основные рамки базовых правил для дискуссий.",
+          "meaning": 1
+      },
+      {
+          "en": "The <noun>internet</noun> was <adv>originally</adv> established <prep>by</prep> scientists to share information.",
+          "ru": "Интернет был изначально создан учеными для обмена информацией.",
+          "meaning": 1
+      },
+      {
+          "en": "The <noun>League</noun> was <adv>formally</adv> established <prep>in</prep> 1920.",
+          "ru": "Интернет был изначально создан учеными для обмена информацией.",
+          "meaning": 1,
+          "noun": "league"
+      },
+      {
+          "en": "We have <adv>successfully</adv> established clear <noun>rules</noun> that most students accept.",
+          "ru": "Мы успешно установили четкие правила, которые принимает большинство студентов.",
+          "meaning": 1,
+          "noun": "rule"
+      },
+      {
+          "en": "A straightforward complaints procedure must <verb>be<verb> established <prep>from</prep> the outset.",
+          "ru": "Простая процедура подачи жалоб должна быть установлена с самого начала.",
+          "meaning": 1
+      },
+      {
+          "en": "Settlers established a new <noun>colony</noun> <prep>in</prep> the early 18th century.",
+          "ru": "Поселенцы основали новую колонию в начале 18 века.",
+          "meaning": 1
+      },
+      {
+          "en": "The Americans established a naval <noun>base</noun> <prep>on</prep> the island in the 1960s.",
+          "ru": "Американцы создали военно-морскую базу на острове в 1960-х годах.",
+          "meaning": 1
+      },
+      {
+          "en": "The Romans established a <noun>settlement</noun> <prep>on</prep> the south shore.",
+          "ru": "Римляне основали поселение на южном берегу.",
+          "meaning": 1
+      },
+      {
+          "en": "The generals established a military <noun>dictatorship</noun>.",
+          "ru": "Генералы установили военную диктатуру.",
+          "meaning": 1
+      },
+      {
+          "en": "The nuns established a <noun>convent</noun> here <prep>in</prep> 1692.",
+          "ru": "Монахини основали здесь монастырь в 1692 году.",
+          "meaning": 1
+      },
+      {
+          "en": "The school is <verb>trying to</verb> establish a <noun>relationship</noun> <prep>with</prep> the local community.",
+          "ru": "Школа пытается установить отношения с местным сообществом.",
+          "meaning": 2
+      },
+      {
+          "en": "The two countries <verb>agreed to</verb> establish full diplomatic <noun>relations</noun>.",
+          "ru": "Обе страны договорились установить полные дипломатические отношения.",
+          "meaning": 2,
+          "noun": "relation"
+      },
+      {
+          "en": "We <verb>try to</verb> establish <noun>links</noun> <prep>with</prep> schools.",
+          "ru": "Мы стараемся установить связи со школами.",
+          "meaning": 2,
+          "noun": "link"
+      },
+      {
+          "en": "He has now <adv>firmly</adv> <pattern>established his <noun>position</noun> <prep>in</prep> the organization</pattern>.",
+          "ru": "Теперь он твердо утвердил свою позицию в организации.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself in something"
+      },
+      {
+          "en": "The school has <pattern>established a <noun>reputation</noun></pattern> for academic excellence.",
+          "ru": "Школа утвердила репутацию за академическое превосходство.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself"
+      },
+      {
+          "en": "It took him a long time to <pattern>establish himself</pattern>.",
+          "ru": "Ему потребовалось много времени, чтобы утвердиться.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself"
+      },
+      {
+          "en": "He has just set up his own business but it will take him a while <pattern>to get established</pattern>.",
+          "ru": "Он только что основал свой собственный бизнес, но ему потребуется некоторое время, чтобы утвердиться.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself"
+      },
+      {
+          "en": "The exhibition helped to <pattern>establish her as an artist</pattern>.",
+          "ru": "Выставка помогла утвердить ее как художника.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself as something"
+      },
+      {
+          "en": "By then she <pattern>was established as a star</pattern>.",
+          "ru": "К тому времени она была установлена как звезда.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself as something"
+      },
+      {
+          "en": "Not long after that she <pattern>established herself in business</pattern>.",
+          "ru": "Вскоре после этого она утвердилась в бизнесе.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself in something"
+      },
+      {
+          "en": "It was his second symphony that <pattern>established him</pattern>.",
+          "ru": "Это была его вторая симфония, которая утвердила его.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself"
+      },
+      {
+          "en": "She has <pattern>established herself as one of the country's top new female artists</pattern>.",
+          "ru": "Она зарекомендовала себя как одна из лучших новых женщин-художников страны.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself as something"
+      },
+      {
+          "en": "He <adv>quickly</adv> <pattern>established his reputation as a popular musician</pattern>.",
+          "ru": "Он быстро утвердил свою репутацию популярного музыканта.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself as something"
+      },
+      {
+          "en": "We have now <adv>clearly</adv> <pattern>established ourselves as the leader</pattern> in the market.",
+          "ru": "Теперь мы четко зарекомендовали себя как лидер на рынке.",
+          "meaning": 3,
+          "pattern": "establish something/somebody/yourself as something"
+      },
+      {
+          "en": "This success <verb>helped to</verb> establish the <noun>practice</noun> of vaccination.",
+          "ru": "Этот успех помог установить практику вакцинации.",
+          "meaning": 4,
+          "verb": "help to"
+      },
+      {
+          "en": "Traditions <phrase>get established</phrase> over time.",
+          "ru": "Традиции устанавливаются со временем.",
+          "meaning": 4,
+          "phrase": "get established"
+      },
+      {
+          "en": "It was the outbreak of the Second World War that established the <noun>tradition</noun> of the monarch's Christmas broadcast.",
+          "ru": "Это было начало Второй мировой войны, которая установила традицию рождественской передачи монарха.",
+          "meaning": 4
+      },
+      {
+          "en": "The festival has <verb>become</verb> <pattern>established as an annual event</pattern>.",
+          "ru": "Фестиваль стал ежегодным.",
+          "meaning": 4,
+          "pattern": "establish something/somebody/yourself as something"
+      },
+      {
+          "en": "Police are still trying to <pattern>establish the <noun>cause</noun></pattern> of the accident.",
+          "ru": "Полиция все еще пытается установить причину аварии.",
+          "meaning": 5,
+          "pattern": "establish something"
+      },
+      {
+          "en": "There will be an investigation to <pattern>establish the <noun>facts</noun></pattern>.",
+          "ru": "Будет проведено расследование, чтобы установить факты.",
+          "meaning": 5,
+          "pattern": "establish something",
+          "noun": "fact"
+      },
+      {
+          "en": "We are still trying to <pattern>establish the <noun>identity</noun></pattern> of the dead man.",
+          "ru": "Мы все еще пытаемся установить личность покойника.",
+          "meaning": 5,
+          "pattern": "establish something"
+      },
+      {
+          "en": "His <noun>guilt</noun> has been <adv>clearly</adv> established",
+          "ru": "Его вина была четко установлена",
+          "meaning": 5
+      },
+      {
+          "en": "The <noun>effectiveness</noun> of the new drug has not yet been <adv>scientifically</adv> established.",
+          "ru": "Эффективность нового препарата еще не была научно установлена.",
+          "meaning": 5
+      },
+      {
+          "en": "They have <pattern>established that</pattern> his injuries were caused by a fall.",
+          "ru": "Они установили, что его травмы были вызваны падением.",
+          "meaning": 5,
+          "pattern": "establish that..."
+      },
+      {
+          "en": "We need to <pattern>establish where</pattern> she was at the time of the shooting.",
+          "ru": "Нам нужно установить, где она была во время стрельбы.",
+          "meaning": 5,
+          "pattern": "establish where, what, etc..."
+      },
+      {
+          "en": "<phrase>It has since been established that</phrase> the horse was drugged.",
+          "ru": "С тех пор было установлено, что лошадь под воздействием наркотиков.",
+          "meaning": 5,
+          "phrase": "it is established that"
+      }
+  ]
+}

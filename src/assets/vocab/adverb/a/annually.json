@@ -1,0 +1,38 @@
+{
+    "word": "annually",
+    "part": "adverb",
+    "transcription": "[ˈænjuəli]",
+    "level": ["B2"],
+    "translation": ["ежегодно"],
+    "topics": ["Time-B2"],
+    "type": [],
+    "verbForms": {},
+    "meanings": [
+        {
+            "1": {
+                "en": "once a year",
+                "ru": "раз в год"
+            }
+        }
+    ],
+    "adjectives": [
+    ],
+    "adverbs": [
+    ],
+    "phrases": [
+    ],
+    "verbs": [
+        "award",
+        "elect",
+        "hold",
+        "inspect"
+    ],
+    "examples": [
+        {
+            "en": "The exhibition is <verb>held</verb> annually.",
+            "ru": "Выставка проводится ежегодно.",
+            "meaning": 1,
+            "verb": "hold"
+        }
+    ]
+}

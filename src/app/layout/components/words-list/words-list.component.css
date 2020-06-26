@@ -1,0 +1,11 @@
+.breadcrumbs {
+  display: flex;
+}
+.link {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  color: red;
+}

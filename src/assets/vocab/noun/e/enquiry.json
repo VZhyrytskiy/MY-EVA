@@ -1,0 +1,180 @@
+{
+  "word": "enquiry",
+  "part": "noun",
+  "transcription": "[ɪnˈkwaɪəri]",
+  "level": ["B2"],
+  "translation": ["расследование", "запрос", "исследование"],
+  "topics": [],
+  "type": ["countable", "uncountable"],
+  "plural": ["enquiries"],
+  "verbForms": {},
+  "use": "Also inquiry North American English, British English. In British English people sometimes distinguish between enquiry and inquiry, using enquiry for the general meaning of ‘a request for information’ and inquiry for the more particular meaning of ‘official investigation’ enquiries from prospective students • a murder inquiry . However, you can use either spelling in either meaning. In American English inquiry is usually used in both meanings.",
+  "meanings": [
+      {
+          "1": {
+              "en": "[countable] an official process to find out the cause of something or to find out information about something",
+              "ru": "[исчислимое] официальный процесс, чтобы выяснить причину чего-либо или узнать информацию о чем-то"
+          },
+          "2": {
+              "en": "[countable] a request for information about somebody/something; a question about somebody/something",
+              "ru": "[исчисляемое] запрос информации о ком-то/чем-либо; вопрос о ком-то/чем-то"
+          },
+          "3": {
+              "en": "​[uncountable] the act of asking questions or collecting information about somebody/something",
+              "ru": "[неисчислимое] процесс задавания вопросов или сбора информации о ком-то/чем-то"
+          },
+          "4": {
+              "en": "[plural] (British English) a place where you can get information",
+              "ru": "[множественное число] (Британский английский) место, где вы можете получить информацию"
+          }
+      }
+  ],
+  "adjectives": [
+    "careful",
+    "detailed",
+    "direct",
+    "exhaustive",
+    "extensive",
+    "full",
+    "further",
+    "pending",
+    "public",
+    "systematic",
+    "thorough"
+  ],
+  "adverbs": [
+    "few"
+  ],
+  "noun": [
+    "desk",
+    "murder",
+    "office",
+    "process",
+    "report",
+    "service",
+    "team"
+  ],
+  "pattern": [
+    "enquiry into something",
+    "enquiry (from somebody) (about something)"
+  ],
+  "phrasal verbs": [
+    "carry out"
+  ],
+  "phrases": [
+    "a board of enquiry",
+    "a commission of enquiry",
+    "a steward's enquiry",
+    "all enquiries should be addressed to",
+    "an area of enquiry",
+    "committee of enquiry",
+    "direct an enquiry to somebody",
+    "directory enquiries",
+    "flood of enquiries",
+    "follow several lines of enquiry",
+    "stream of enquires",
+    "the outcome of the enquiry",
+    "the result of the enquiry",
+    "enquiries take place"
+  ],
+  "prepositions": [
+    "about",
+    "as",
+    "at",
+    "concerning",
+    "during",
+    "from",
+    "in",
+    "into"
+  ],
+  "verbs": [
+    "conduct",
+    "encourage",
+    "have",
+    "hold",
+    "launch",
+    "make",
+    "pursue",
+    "receive",
+    "send"
+  ],
+  "+verbs": [
+    "be underway",
+    "begin"
+  ],
+  "idioms": [
+  ],
+  "examples": [
+      {
+          "en": "a <noun>murder</noun> enquiry",
+          "ru": "расследование убийства",
+          "meaning": 1
+      },
+      {
+          "en": "a <patern><adj>public</adj> enquiry <prep>into</prep> the environmental effects</pattern> of the proposed new road",
+          "ru": "общественное расследование экологических последствий предлагаемой новой дороги",
+          "meaning": 1,
+          "pattern": "enquiry into something"
+      },
+      {
+          "en": "to <verb>hold</verb> an enquiry <prep>into</prep> the affair",
+          "ru": "провести расследование по делу",
+          "meaning": 1
+      },
+      {
+          "en": "to <verb>conduct</verb> an enquiry <verb>into</verb> the affair",
+          "ru": "провести запустить расследование по делу",
+          "meaning": 1
+      },
+      {
+          "en": "to <verb>launch</verb> an enquiry <verb>into</verb> the affair",
+          "ru": "запустить расследование по делу",
+          "meaning": 1
+      },
+      {
+          "en": "<pattern>enquiries <prep>from prospective</prep> students <prep>about</prep> courses</pattern>",
+          "ru": "запросы от будущих студентов о курсах",
+          "meaning": 2,
+          "pattern": "enquiry (from somebody) (about something)"
+      },
+      {
+          "en": "We <verb>received</verb> over 300 <pattern>enquiries <prep>about</prep> the job</pattern>.",
+          "ru": "Мы получили более 300 запросов о работе.",
+          "meaning": 2,
+          "verb": "receive",
+          "pattern": "enquiry (from somebody) (about something)"
+      },
+      {
+          "en": "I'll have to <verb>make</verb> a <adv>few</adv> enquiries (= try to find out about it) and get back to you.",
+          "ru": "Я должен сделать несколько запросов (= попытаться узнать об этом) и вернуться к вам.",
+          "meaning": 2
+      },
+      {
+          "en": "For <adj>further</adj> enquiries, please call…",
+          "ru": "Для дальнейших запросов, пожалуйста, позвоните ...",
+          "meaning": 2
+      },
+      {
+          "en": "<phrase>All enquiries should be addressed to</phrase> the customer services department.",
+          "ru": "Все запросы следует направлять в отдел обслуживания клиентов.",
+          "meaning": 2,
+          "phrase": "all enquiries should be addressed to"
+      },
+      {
+        "en": "<adj>scientific</adj> enquiry",
+        "ru": "научное исследование",
+        "meaning": 3
+      },
+      {
+        "en": "The police are <phrase>following several lines of enquiry</phrase>.",
+        "ru": "Полиция следит за несколькими линиями расследования.",
+        "meaning": 3,
+        "phrase": "follow several lines of enquiry"
+      },
+      {
+        "en": "Ask at enquiries to see if your bag has been handed in.",
+        "ru": "Спросите в столе запросов, чтобы понимать, была ли ваша сумка сдана.",
+        "meaning": 4
+      }
+  ]
+}

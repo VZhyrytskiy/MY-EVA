@@ -1,0 +1,171 @@
+{
+    "word": "emerge",
+    "part": "verb",
+    "transcription": "[ɪˈmɜːdʒ]",
+    "level": "B2",
+    "translation": ["появляться", "возникать (из)", "вытекать", "выходить (из/на)", "превратится (в)"],
+    "type": ["intransitive", "transitive"],
+    "verbForms": {
+        "presentSimple_1_2": "emerge",
+        "presentSimple_3": "emerges",
+        "pastSimple": "emerged",
+        "pastParticiple": "emerged",
+        "ingForm": "emerging"
+    },
+    "meanings": [
+        { "1": {
+                "en": "[intransitive] to move out of or away from something and become possible to see",
+                "ru": "[непереходный] отойти от чего-то или отойти от него и стать видимым"
+            }
+        },
+        { "2": {
+                "en": "[intransitive, transitive] (of facts, ideas, etc.) to become known",
+                "ru": "[непереходный, переходный] (фактов, идей и т. д.), становиться известным",
+                "synonyms": ["transpire"]
+            }
+        },
+        { "3": {
+                "en": "[intransitive] to start to exist; to appear or become known",
+                "ru": "[непереходный] начать существовать; появиться или стать известным",
+                "seeAlso": ["re-emerge"]
+            }
+        },
+        { "4": {
+                "en": "​[intransitive] emerge (from something) to survive a difficult situation or experience",
+                "ru": "[непереходный] возникать (из чего-то), чтобы пережить трудную ситуацию или опыт"
+            }
+        }
+    ],
+    "patterns": [
+        "emerge from something",
+        "emerge into something",
+        "emerge as somethig",
+        "it emerges that ..."
+    ],
+    "adverbs": [
+        "clearly",
+        "eventually",
+        "first",
+        "fully",
+        "gradually",
+        "quickly",
+        "rapidly",
+        "slovly",
+        "slowly",
+        "subsequently",
+        "suddenly"
+    ],
+    "prepositions": [
+        "at",
+        "during",
+        "from",
+        "into",
+        "of",
+        "out"
+    ],
+    "phrases": [
+        "emerge fully formed",
+        "newly emerged",
+        "newly emerging"
+    ],
+    "verbs": [
+        "begin to",
+        "start to"
+    ],
+    "examples": [
+        {
+            "en": "The crabs emerge <prep>at</prep> low tide to look for food",
+            "ru": "Крабы появляются во время отлива, чтобы искать еду",
+            "meaning": 1
+        },
+        {
+            "en": "She finally emerged <prep>from</prep> her room at noon.",
+            "ru": "Наконец она вышла из своей комнаты в полдень.",
+            "meaning": 1
+        },
+        {
+            "en": "The plant has <adv>fully</adv> emerged from the soil.",
+            "ru": "Растение полностью появилось из почвы.",
+            "meaning": 1
+        },
+        {
+            "en": "They <adv>suddenly</adv> emerged <prep>into</prep> bright sunlight.",
+            "ru": "Они внезапно вышли на яркий солнечный свет.",
+            "meaning": 1
+        },
+        {
+            "en": "No new evidence emerged <prep>during</prep> the investigation.",
+            "ru": "Никаких новых доказательств не появилось в ходе расследования.",
+            "meaning": 2
+        },
+        {
+            "en": "More details have emerged <prep>of<prep> his relationship with the film star.",
+            "ru": "Появилась более подробная информация о его отношениях с кинозвездой.",
+            "meaning": 2
+        },
+        {
+            "en": "Problems with this drug are now <verb>beginning</verb> to emerge.",
+            "ru": "Проблемы с этим препаратом сейчас начинают возникать.",
+            "meaning": 2,
+            "verb": "begin"
+        },
+        {
+            "en": "<phrase>It emerged that</phrase> the company was going to be sold.",
+            "ru": "Выяснилось, что компания собирается быть проданной.",
+            "meaning": 2
+        },
+        {
+            "en": "<phrase>It <adv>subsequently</adv> emerged that</phrase> he had known about the deal all along.",
+            "ru": "Впоследствии выяснилось, что он знал об этой сделке все время.",
+            "meaning": 2
+        },
+        {
+            "en": "One thing emerges very <adv>clearly</adv> <prep>from</prep> this study.",
+            "ru": "Из этого исследования ясно вытекает одна вещь.",
+            "meaning": 2
+        },
+        {
+            "en": "Several facts <verb>started</verb> to emerge <prep>from</prep> my investigation.",
+            "ru": "Несколько фактов начали появляться из моего расследования.",
+            "meaning": 2,
+            "verb": "start"
+
+        },
+        {
+            "en": "The answer to the problem <adv>quickly</adv> emerged.",
+            "ru": "Ответ на проблему быстро возник.",
+            "meaning": 2
+        },
+        {
+            "en": "What <adv>eventually</adv> emerged <prep>from<prep> the election disaster was a realization that it was time for change.",
+            "ru": "В результате избирательной катастрофы в конечном итоге возникло понимание того, что настало время перемен.",
+            "meaning": 2
+        },
+        {
+            "en": "After the elections opposition groups <verb>began</verb> to emerge.",
+            "ru": "После выборов начали появляться оппозиционные группы.",
+            "meaning": 3,
+            "verb": "begin"
+        },
+        {
+            "en": "He emerged <prep>as</prep> a key figure in the campaign",
+            "ru": "Он стал ключевой фигурой в кампании",
+            "meaning": 3
+        },
+        {
+            "en": "The Pacific region has <adv>rapidly</adv> emerged <prep>as</prep> a leading force on the world stage.",
+            "ru": "Тихоокеанский регион быстро превратился в ведущую силу на мировой арене.",
+            "meaning": 3
+        },
+        {
+            "en": "the musical forms that emerged <prep>out</prep> of the American black experience",
+            "ru": "музыкальные формы, которые возникли из американского черного опыта",
+            "meaning": 3
+        },
+        {
+            "en": "The city <adv>first</adv> emerged <prep>as</prep> a significant artistic centre in the 11th century.",
+            "ru": "Город впервые появился как значительный художественный центр в 11 веке.",
+            "meaning": 3
+        }
+    ] 
+}

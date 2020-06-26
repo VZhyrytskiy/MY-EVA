@@ -1,0 +1,49 @@
+.breadcrumbs {
+  display: flex;
+}
+.link {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+.link:hover {
+  color: red;
+}
+
+
+.word-list-container {
+  display: flex;
+  justify-content: space-around;
+  align-items:stretch;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.flex-item {
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  margin: 15px;
+  padding: 25px;
+}
+.flex-item-meaning {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  margin: 15px;
+  padding: 25px;
+}
+.flex-item:hover {
+  box-shadow: 3px 3px 3px #ccc;
+  background-color: antiquewhite;
+}
+.meaning-item {
+  padding: 10px;
+  font-size: large;
+}
+.meaning-item:hover {
+  background-color: lightgray;
+}
+.pointer {
+  cursor: pointer;
+}
+

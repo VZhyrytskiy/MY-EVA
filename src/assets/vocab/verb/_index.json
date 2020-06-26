@@ -1,0 +1,344 @@
+{
+  "abandon": {
+    "level": ["B2"]
+  },
+  "absorb": {
+    "level": ["B2", "C1"]
+  },
+  "accumulate": {
+    "level": ["C1"]
+  },
+  "agree": {
+    "level": ["A1", "A2"],
+    "topics": ["Opinion and argument A1", "Discussion and agreement A2", "Language B2", "Opinion and argument C2", "Discussion and agreement C2"]
+  },
+  "aim": {
+    "level": ["B1", "B2"],
+    "topics": ["Success B1"]
+  },
+  "arise": {
+    "level": ["B2"],
+    "topics": ["Change, cause and effect B2", "Social issues C2"]
+  },
+  "attempt": {
+    "level": ["B2"],
+    "topics": ["Difficulty and failure B2"]
+  },
+  "award": {
+    "level": ["B1"]
+  },
+  "be": {
+    "level": ["A1", "A2"]
+  },
+  "become": {
+      "level": ["A1"]
+  },
+  "begin": {
+    "level": ["A1", "A2"]
+  },
+  "bequeath": {
+    "level": []
+  },
+  "bet": {
+    "level": ["B2"],
+    "topics": ["Money B2", "Doubt, guessing and certainty B2", "Opinion and argument B2", "Doubt, guessing and certainty C2"]
+  },
+  "bubble": {
+    "level": []
+  },
+  "build": {
+    "level": ["A1", "A2"],
+    "topics": ["Buildings A1"]
+  },
+  "buy": {
+    "level": ["A1"],
+    "topics": ["Shopping A1", "Money A1", "Houses and homes A1"]
+  },
+  "calculate": {
+    "level": ["B2"],
+    "topics": ["Maths and measurement B2", "Opinion and argument C1", " Doubt, guessing and certainty C1"]
+  },
+  "change": {
+    "level": ["A1", "A2"]
+  },
+  "conduct": {
+    "level": ["B2"],
+    "topics": ["Scientific research B2", "Music B2", "Engineering C1"]
+  },
+  "consult": {
+    "level": ["B2"]
+  },
+  "contain": {
+    "level": ["A2"]
+  },
+  "convey": {
+    "level": ["B2"]
+  },
+  "cooperate": {
+    "level": ["C1"]
+  },
+  "dampen": {
+    "level": []
+  },
+  "decrease": {
+    "level": ["B2"]
+  },
+  "demonstrate": {
+    "level": ["B2"],
+    "topics": ["Social issues B2"]
+  },
+  "develop": {
+    "level": ["A2", "B1", "B2"]
+  },
+  "disappear": {
+    "level": ["A2"]
+  },
+  "discover": {
+    "level": ["A2"]
+  },
+
+  "elect": {
+    "level": ["B2"]
+  },
+  "emerge": {
+    "level": ["B2"]
+  },
+  "encourage": {
+    "level": ["B1"],
+    "topics": ["Discussion and agreement B1"]
+  },
+  "engage": {
+    "level": ["B2", "C2"],
+    "topics": ["War and conflict C2"]
+  },
+  "enhance": {
+    "level": ["B2"]
+  },
+  "ensure": {
+    "level": ["B2"],
+    "topics": ["Doubt, guessing and certainty B2"]
+  },
+  "equip": {
+    "level": ["B2"]
+  },
+  "establish": {
+    "level": ["B2"],
+    "topics": ["Success B2"]
+  },
+  "estimate": {
+    "level": ["B2"],
+    "topics":  ["Opinion and argument B2"]
+  },
+  "evaluate": {
+    "level": ["B2"],
+    "topics": [" Opinion and argument B2", "Scientific research B2"]
+  },
+  "evolve": {
+    "level": ["B2"]
+  },
+  "expand": {
+    "level": ["B1"]
+  },
+  "expect": {
+    "level": ["A2", "B1", "B2"],
+    "topics": ["Life stages A2", "Doubt, guessing and certainty B2"]
+  },
+  "express": {
+    "level": ["A2", "B1"],
+    "topics": ["Opinion and argument A2", "Maths and measurement C1"]
+  },
+  "fail": {
+    "level": ["A2", "B1", "B2", "C1"]
+  },
+  "feel": {
+    "level": ["A1", "A2", "B1"],
+    "topics": ["Feelings A1", "Opinion and argument A2", "Feelings C2", "Permission and obligation C1", "Doubt, guessing and certainty C2", "Permission and obligation C2"]
+  },
+  "fire": {
+    "level": ["B1"],
+    "topics": ["War and conflict B1", "Social issues B1", "Feelings C2", "Art C2"]
+  },
+  "forecast": {
+    "level": ["B2"],
+    "topics": ["Doubt, guessing and certainty B2", "Business B2"]
+  },
+  "generate": {
+    "level": ["B2"],
+    "topics": ["The environment B2", "Computers C2"]
+  },
+  "get": {
+    "level": ["A1", "A2", "B1", "B2"],
+    "topics": ["Illness A1", "Transport by bus and train A1", "Discussion and agreement B2", "Difficulty and failure C2", "Success C1", "Suggestions and advice C2"]
+  },
+  "give": {
+    "level": ["A1", "A2"],
+    "topics": ["Money A1", "Social issues A1", "Illness A1", "Discussion and agreement C2", "Preferences and decisions C2"]
+  },
+  "grow": {
+    "level": ["A1", "A2"],
+    "topics": ["Change, cause and effect A1", "Money A1", "Farming A1", "Gardens A1", "Change, cause and effect C1", "Success C2"]
+  },
+  "guarantee": {
+    "level": ["B2"],
+    "topics": ["Doubt, guessing and certainty B2", "Doubt, guessing and certainty C1", "Change, cause and effect C1"]
+  },
+  "have": {
+    "level": ["A1", "A2", "B1"],
+    "topics": ["Illness A1", "Opinion and argument C2"]
+  },
+  "help": {
+    "level": ["A1", "A2", "B1"],
+    "topics": ["Social issues A1", "Danger C2"]
+  },
+  "hesitate": {
+    "level": ["B2"],
+    "topics": ["Doubt, guessing and certainty B2"]
+  },
+  "hide": {
+    "level": ["A2", "B1"]
+  },
+  "hold": {
+    "level": ["A2", "B1", "B2"]
+  },
+  "improve": {
+      "level": ["A1"]
+  },
+  "increase": {
+    "level": ["A2"]
+  },
+  "indicate": {
+    "level": ["B1"],
+    "topics": ["Engineering B2", "Transport by car or lorry C1", "Suggestions and advice C2"]
+  },
+  "inherit": {
+    "level": ["B2", "C1"],
+    "topics": ["Money B2", "Family and relationships B2"]
+  },
+  "inspect": {
+    "level": ["C1"]
+  },
+  "launch": {
+    "level": ["B2"],
+    "topics": ["Business B2", "Transport by water B2", "Space B2"]
+  },
+  "leave": {
+    "level": ["A1", "A2", "B1", "B2"],
+    "topics": ["Family and relationships A1", "Opinion and argument C2"]
+  },
+  "look": {
+    "level": ["A1", "B1"],
+    "topics": [" Doubt, guessing and certainty B1", "Success C2"]
+  },
+  "loose": {
+    "level": []
+  },
+  "make": {
+    "level": ["A1", "A2", "B1"],
+    "topics": ["Money A2", "Success C2", "Illness C2", "Difficulty and failure C2"]
+  },
+  "need": {
+    "level": ["A1"],
+    "topics": ["Personal qualities C2"]
+  },
+  "obtain": {
+    "level": ["B2"]
+  },
+  "own": {
+    "level": ["A2"],
+    "topics": ["Business C2", "Success C2"]
+  },
+  "predict": {
+    "level": ["A2"],
+    "topics": ["Doubt, guessing and certainty A2"]
+  },
+  "produce": {
+    "level": ["A2", "B1"],
+    "topics": ["Farming A2", "Change, cause and effect B1", "Music B2", "Film and theatre B2"]
+  },
+  "provide": {
+    "level": ["A2"],
+    "topics": ["Permission and obligation C2"]
+  },
+  "pursue": {
+    "level": ["B2"],
+    "topics": ["Success B2", "Law and justice B2", "Crime and punishment B2"]
+  },
+  "re-emerge": {
+    "level": []
+  },
+  "read": {
+    "level": ["A1", "B2"],
+    "topics": ["Doubt, guessing and certainty B2", "Education C2"]
+  },
+  "receive": {
+    "level": ["A2", "B1", "B2"],
+    "topics": ["TV, radio and news C1", "Sports: ball and racket sports C2"]
+  },
+  "recover": {
+    "level": ["B2"]
+  },
+  "revise": {
+    "level": ["B1"],
+    "topics": ["Opinion and argument B1", "Education B1"]
+  },
+  "rise": {
+    "level": ["A2", "B2"]
+  },
+  "seek": {
+    "level": ["B2"],
+    "topics": ["Success B2"]
+  },
+  "send": {
+    "level": ["A1"],
+    "topics": ["Phones, email and the internet A1"]
+  },
+  "settle": {
+    "level": ["B2"],
+    "topics": ["Discussion and agreement B2", "Social issues B2", "Money C1", "Doubt, guessing and certainty C2"]
+  },
+  "share": {
+    "level": ["A1"]
+  },
+  "show": {
+    "level": ["A1", "A2", "B1"],
+    "topics": ["TV, radio and news B1"]
+  },
+  "speculate": {
+    "level": ["B2", "C1"],
+    "topics": ["Doubt, guessing and certainty B2", "Opinion and argument B2"]
+  },
+  "spread": {
+    "level": ["B1", "B2"]
+  },
+  "start": {
+    "level": ["A1", "A2", "B1"]
+  },
+  "submit": {
+    "level": ["B2"],
+    "topics": ["Discussion and agreement C1", "Suggestions and advice C2"]
+  },
+  "suggest": {
+    "level": ["A2", "B2"],
+    "topics": ["Opinion and argument A2", "Suggestions and advice A2"]
+  },
+  "support": {
+    "level": ["A2", "B1", "B2"]
+  },
+  "suspect": {
+    "level": ["B2"],
+    "topics": ["Doubt, guessing and certainty B2", "Crime and punishment B2"]
+  },
+  "transpire": {
+    "level": []
+  },
+  "try": {
+    "level": ["A1", "B2"],
+    "topics": ["Law and justice B2", "Success C2", "Difficulty and failure C2"]
+  },
+  "understand": {
+    "level": ["A1"]
+  },
+  "vary": {
+    "level": ["B2"]
+  }
+}

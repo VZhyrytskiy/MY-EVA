@@ -1,0 +1,13 @@
+<div class="breadcrumbs">
+  <div><a class="link" [routerLink]="['/home']">Главная</a></div>
+  <div>&nbsp;/&nbsp;</div>
+  <div>{{level}}</div>
+</div>
+
+<div class="letter-container">
+  <a  *ngFor="let letter of getAlphabet()"
+      class="letter-card"
+      (click)="onGotoLetterList(letter)">
+        <div class="letter-card-text">{{letter}}</div>
+  </a>
+</div>

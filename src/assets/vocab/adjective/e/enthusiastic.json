@@ -1,0 +1,125 @@
+{
+  "word": "enthusiastic",
+  "part": "adjective",
+  "transcription": "[ɪnˌθjuːziˈæstɪk]",
+  "level": ["B2"],
+  "translation": ["полный энтузиазма", "восторженный"],
+  "topics": ["Personal qualities B2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {},
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+              "en": "feeling or showing a lot of excitement and interest about somebody/something",
+              "ru": "чувство или проявление большого волнения и интереса к кому-то / чему-либо"
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+    "extremely",
+    "fairly",
+    "largely",
+    "particularly",
+    "quite",
+    "very",
+    "wildly"
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "applause",
+    "audience",
+    "reception",
+    "supporter",
+    "welcome"
+  ],
+  "patterns": [
+    "enthusiastic about doing something",
+    "enthusiastic about somebody/something"
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "to be less than enthusiastic about somebody/something"
+  ],
+  "prepositions": [
+    "about",
+    "in"
+  ],
+  "verbs": [
+    "be",
+    "feel",
+    "look"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "They gave her an enthusiastic <noun>reception</noun>.",
+          "ru": "Они дали ей восторженный прием.",
+          "meaning": 1
+      },
+      {
+          "en": "You don't sound very <pattern>enthusiastic about the idea</puttern>.",
+          "ru": "Вы не очень восторженно относитесь к этой идее.",
+          "meaning": 1,
+          "pattern": "enthusiastic about somebody/something"
+      },
+      {
+          "en": "Party members <phrase>were less than enthusiastic about the candidates on offer<phrase>.",
+          "ru": "Члены партии были не в восторге от предлагаемых кандидатов.",
+          "meaning": 1,
+          "phrase": "to be less than enthusiastic about somebody/something"
+      },
+      {
+          "en": "She was still really <pattern>enthusiastic about going to Spain</pattern>.",
+          "ru": "Она все еще была в восторге от поездки в Испанию.",
+          "meaning": 1,
+          "pattern": "enthusiastic about doing something"
+      },
+      {
+          "en": "Film critics are <adv>largely</adv> <pattern>enthusiastic about the thriller</pattern>.",
+          "ru": "Кинокритики в значительной степени в восторге от триллера.",
+          "meaning": 1,
+          "pattern":"enthusiastic about somebody/something"
+      },
+      {
+          "en": "He was <adv>quite</adv> <pattern>enthusiastic about the idea</pattern>.",
+          "ru": "Он был в восторге от этой идеи.",
+          "meaning": 1,
+          "pattern": "enthusiastic about somebody/something"
+      },
+      {
+          "en": "Mrs. Neil did not seem <adv>particularly</adv> <pattern>enthusiastic about her job</pattern>.",
+          "ru": "Миссис Нил не выглядела особенно восторженной по поводу своей работы.",
+          "meaning": 1,
+          "pattern": "enthusiastic about somebody/something"
+      },
+      {
+          "en": "The audience was <adv>wildly</adv> enthusiastic.",
+          "ru": "Аудитория была дико восторженной.",
+          "meaning": 1
+      },
+      {
+          "en": "We were enthusiastic <prep>in</prep> our support of him.",
+          "ru": "Мы с энтузиазмом поддержали его.",
+          "meaning": 1
+      },
+      {
+          "en": "I love playing to such an enthusiastic <noun>audience</noun>.",
+          "ru": "Я люблю играть для такой восторженной публики.",
+          "meaning": 1
+      },
+      {
+        "en": "The men returned to an enthusiastic <noun>welcome</noun>.",
+        "ru": "Мужчины вернулись с энтузиазмом.",
+        "meaning": 1
+      }
+  ]
+}

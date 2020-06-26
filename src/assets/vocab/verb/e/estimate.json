@@ -1,0 +1,179 @@
+{
+  "word": "estimate",
+  "part": "verb",
+  "transcription": "[ˈestɪmeɪt]",
+  "level": ["B2"],
+  "translation": ["оценивать", "расчитывать", "предполагать"],
+  "topics": ["Opinion and argument B2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "estimate",
+    "presentSimple_3": "estimates",
+    "pastSimple": "estimated",
+    "pastParticiple": "estimated",
+    "ingForm": "estimating"
+  },
+  "pronunciation changes by part of speech": true,
+  "use": "often passive",
+  "meanings": [
+      {
+          "1": {
+            "en": "to form an idea of the cost, size, value etc. of something, but without calculating it exactly",
+            "ru": "сформировать представление о стоимости, размере, стоимости и т. д. чего-либо, но без точного расчета"
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+    "conservatively",
+    "currently",
+    "initially",
+    "officially",
+    "originally"
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "cost",
+    "crowd",
+    "deal",
+    "effect",
+    "number",
+    "parameter",
+    "preference",
+    "time",
+    "value",
+    "variable"
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+    "estimate (that)...",
+    "estimate how many, large, etc...",
+    "estimate something as something",
+    "estimate something at something",
+    "estimate something from something",
+    "estimate something to do something",
+    "estimate something",
+    "it is estimated (that)..."
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "be difficult to estimate",
+    "be hard to estimate",
+    "be impossible to estimate"
+  ],
+  "prepositions": [
+    "at"
+  ],
+  "verbs": [
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "The satellite will <noun>cost</noun> an estimated £400 million.",
+          "ru": "Спутник будет стоить примерно 400 миллионов фунтов стерлингов.",
+          "meaning": 1
+      },
+      {
+          "en": "Police <pattern>estimate the <noun>crowd</noun> <prep>at</prep> 30 000</pattern>.",
+          "ru": "Полиция оценивает толпу в 30 000 человек.",
+          "meaning": 1,
+          "pattern": "estimate something at something"
+
+      },
+      {
+          "en": "All <noun>variables</noun> can be <pattern>estimated from the data</pattern>.",
+          "ru": "Все переменные могут быть оценены по данным.",
+          "meaning": 1,
+          "pattern":"estimate something from something",
+          "noun": "variable"
+      },
+      {
+          "en": "The <noun>number</noun> of breeding pairs was <pattern>estimated as the number of pairs</pattern> building nests.",
+          "ru": "Количество гнездящихся пар оценивалось как количество пар, строящих гнезда.",
+          "meaning": 1,
+          "pattern": "estimate something as something"
+      },
+      {
+          "en": "The <pattern><noun>deal</noun> is estimated to be worth</pattern> around $1.5 million.",
+          "ru": "Стоимость сделки оценивается примерно в 1,5 миллиона долларов.",
+          "meaning": 1,
+          "pattern": "estimate something to do something"
+      },
+      {
+          "en": "We <pattern>estimated (that)</pattern> it would cost about €5 000.",
+          "ru": "Мы рассчитали (что) это будет стоить около 5 000 евро.",
+          "meaning": 1,
+          "pattern": "estimate (that)..."
+      },
+      {
+          "en": "<pattern>It is estimated (that)</pattern> the project will last four years.",
+          "ru": "Предполагается, что проект продлится четыре года.",
+          "meaning": 1,
+          "pattern": "it is estimated (that)..."
+      },
+      {
+          "en": "<phrase>It is hard to <pattern>estimate how many</pattern></phrase> children suffer from dyslexia.",
+          "ru": "Трудно оценить, сколько детей страдают дислексией.",
+          "meaning": 1,
+          "pattern": "estimate how many, large, etc...",
+          "phrase": "be hard to estimate"
+      },
+      {
+          "en": "<pattern>Estimate the <noun>time</noun></pattern> it will take to complete each section.",
+          "ru": "Оцените время, необходимое для завершения каждого раздела.",
+          "meaning": 1,
+          "pattern": "estimate something"
+      },
+      {
+          "en": "Samples are usually used to <pattern>estimate <noun>paramaters</noun></pattern>.",
+          "ru": "Образцы обычно используются для оценки параметров.",
+          "meaning": 1,
+          "pattern": "estimate something",
+          "noun": "parameter"
+      },
+      {
+          "en": "The <pattern><noun>scale</noun> of the problem has been estimated</pattern> by a number of different surveys.",
+          "ru": "Масштабы проблемы были оценены рядом различных исследований.",
+          "meaning": 1,
+          "pattern": "estimate something"
+      },
+      {
+          "en": "This made it possible to <pattern>estimate the <noun>effect</noun></pattern> of workplace ventilation.",
+          "ru": "Это позволило оценить эффект вентиляции рабочего места.",
+          "meaning": 1,
+          "pattern": "estimate something"
+      },
+      {
+          "en": "The results of the survey were used to <pattern>estimate the <noun>preferences</noun></pattern> of the population at large.",
+          "ru": "Результаты опроса были использованы для оценки предпочтений населения в целом.",
+          "meaning": 1,
+          "pattern": "estimate something",
+          "noun": "preference"
+      },
+      {
+          "en": "The strike was <adv>officially</adv> estimated to have cost $80 million.",
+          "ru": "По официальным оценкам, забастовка обошлась в 80 миллионов долларов.",
+          "meaning": 1
+      },
+      {
+          "en": "We <pattern>estimated that</pattern> the distance would be roughly 200 km.",
+          "ru": "Мы подсчитали, что расстояние будет примерно 200 км.",
+          "meaning": 1,
+          "pattern":"estimate (that)..."
+      },
+      {
+          "en": "It is <adv>conservatively</adv> <pattern>estimated that</pattern> not less than half a million people died in the famine.",
+          "ru": "По самым скромным подсчетам, от голода погибло не менее полумиллиона человек.",
+          "meaning": 1,
+          "pattern":"estimate (that)..."
+      }
+  ]
+}

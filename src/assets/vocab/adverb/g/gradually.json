@@ -1,0 +1,59 @@
+{
+    "word": "gradually",
+    "part": "adverb",
+    "transcription": "[ˈɡrædʒuəli]",
+    "level": ["B2"],
+    "translation": ["постепенно"],
+    "type": [],
+    "verbForms": {},
+    "meanings": [
+        {
+            "1": {
+                "en": "​slowly, over a long period of time",
+                "ru": "постепенно"
+            }
+        }
+    ],
+    "verbs": [
+        "abandon",
+        "absorb",
+        "accumulate",
+        "become",
+        "begin",
+        "decrease",
+        "improve",
+        "increase"
+    ],
+    "examples": [
+        {
+            "en": "to gradually <verb>increase</verb>",
+            "ru": "постепенно увеличивать",
+            "meaning": 1,
+            "verb": "increase"
+        },
+        {
+            "en": "to gradually <verb>decrease</verb>",
+            "ru": "постепенно уменьшать",
+            "meaning": 1,
+            "verb": "decrease"
+        },
+        {
+            "en": "The weather gradually <verb>improved<verb>.",
+            "ru": "Погода постепенно улучшается.",
+            "meaning": 1,
+            "verb": "improve"
+        },
+        {
+            "en": "Gradually, the children <verb>began</verb> to understand.",
+            "ru": "Постепенно дети начали понимать.",
+            "meaning": 1,
+            "verb": "begin"
+        },
+        {
+            "en": "Women have gradually <verb>become</verb> more involved in the decision-making process.",
+            "ru": "Женщины постепенно стали активнее участвовать в процессе принятия решений.",
+            "meaning": 1,
+            "verb": "become"
+        }
+    ]
+}

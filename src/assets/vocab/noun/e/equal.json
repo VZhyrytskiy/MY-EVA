@@ -1,0 +1,114 @@
+{
+  "word": "equal",
+  "part": "noun",
+  "transcription": "[ˈiːkwəl]",
+  "level": ["B2"],
+  "translation": ["равный", "ровня", "аналог"],
+  "topics": ["Social issues B2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {},
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+              "en": "a person or thing of the same quality or with the same status, rights, etc. as another",
+              "ru": "человек или вещь того же качества или того же статуса, прав и т. д., что и у другого"
+          }
+      }
+  ],
+  "adjectives": [
+    "intellectual",
+    "social"
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+    {
+      "phrase": "be without equal | have no equal | have no/few equals",
+      "explanation": "(formal) to be better than anything else or anyone else of the same type",
+      "translation": "(формально), быть лучше, чем что-либо еще или кто-либо еще того же типа",
+      "examples": [
+        {
+          "en": "As a family holiday destination, the seaside <idiom>has no equal</idiom>.",
+          "ru": "Как место для семейного отдыха, море не имеет себе равных."
+        },
+        {
+          "en": "His guitar playing <idiom>is without equal</idiom>.",
+          "ru": "Его игра на гитаре не имеет себе равных."
+        },
+        {
+          "en": "As a poet, he <idiom>had few equals</idiom>.",
+          "ru": "Как поэт, у него было мало равных."
+        }
+      ]
+    },
+    {
+      "phrase": "first among equals",
+      "explanation": "the person or thing with the highest status in a group",
+      "translation": "человек или вещь с наивысшим статусом в группе",
+      "examples": [
+        {
+          "en": "He was regarded as the <idiom>first among equals</idiom> by the other office clerks.",
+          "ru": "Другие офисные клерки считали его «первым среди равных»."
+        }
+      ]
+    }
+  ],
+  "nouns": [
+  ],
+  "patterns": [
+    "be the equal of somebody/something",
+    "consider somebody (as)",
+    "regard somebody as",
+    "treat somebody as"
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "be somebody’s equal"
+  ],
+  "prepositions": [
+    "as",
+    "between",
+    "without"
+  ],
+  "verbs": [
+    "be"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "She <pattern>treats the people who work for her <prep>as</prep></pattern> her equals.",
+          "ru": "Она относится к людям, которые работают на нее, как к ее ровне.",
+          "meaning": 1,
+          "pattern": "treat somebody as"
+      },
+      {
+          "en": "Our cars <pattern>are the equal of those</pattern> produced anywhere in the world.",
+          "ru": "Наши автомобили ровня тем, которые производятся в любой точке мира.",
+          "meaning": 1,
+          "pattern": "be the equal of somebody/something"
+      },
+      {
+          "en": "An interview should be a conversation <prep>between</prep> equals.",
+          "ru": "Интервью должно быть разговором между равными.",
+          "meaning": 1
+      },
+      {
+          "en": "He did not <pattern>regard himself <prep>as</prep></pattern> her <adj>intellectual</adj> equal.",
+          "ru": "Он не считал себя ее интеллектуальным равным.",
+          "meaning": 1,
+          "pattern": "regard somebody as"
+      },
+      {
+          "en": "I shall never <phrase>be his equal</phrase> at chess.",
+          "ru": "Я никогда не буду равным ему в шахматах.",
+          "meaning": 1,
+          "phrase": "be somebody’s equal"
+      }
+  ]
+}

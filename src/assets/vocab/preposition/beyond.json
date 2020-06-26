@@ -1,0 +1,105 @@
+{
+    "word": "beyond",
+    "part": "preposition",
+    "transcription": "[bɪˈjɒnd]",
+    "level": ["B2"],
+    "translation": ["за", "кроме", "после", "вне", "за пределами"],
+    "topics": ["Time-B2"],
+    "type": [],
+    "verbForms": {},
+    "use": "",
+    "meanings": [
+        {
+            "1": {
+                "en": "on or to the further side of something",
+                "ru": "на или на другую сторону чего-то"
+            },
+            "2": {
+                "en": "more than something",
+                "ru": "больше чем что-то"
+            },
+            "3": {
+                "en": "later than a particular time",
+                "ru": "позже определенного времени"
+            },
+            "4": {
+                "en": "used to say that something is not possible",
+                "ru": "используется, чтобы сказать, что что-то не возможно"
+            },
+            "5": {
+                "en": "too far or too advanced for somebody/something",
+                "ru": "слишком далеко или слишком продвинут для кого-то/чего-то"
+            }
+        }
+    ],
+    "adjectives": [
+    ],
+    "adverbs": [
+        "far"
+    ],
+    "noun": [
+        "control"
+    ],
+    "phrases": [
+    ],
+    "verbs": [
+    ],
+    "idioms": [
+        {
+            "phrase": "be beyond somebody",
+            "explanation": "​(informal) to be impossible for somebody to imagine, understand or do",
+            "translation": "(неформально) быть невозможным для кого-то представить, понять или сделать",
+            "examples": [{
+                "en": "It's beyond me why she wants to marry Jeff.",
+                "ru": "Не понимаю, почему она хочет выйти замуж за Джеффа."
+            }]
+        }
+    ],
+    "examples": [
+        {
+            "en": "The road continues beyond the village up into the hills.",
+            "ru": "Дорога продолжается за деревней на холмы.",
+            "meaning": 1
+        },
+        {
+            "en": "Our success was <adv>far</adv> beyond what we thought possible.",
+            "ru": "Наш успех был намного больше того, что мы считали возможным.",
+            "meaning": 2
+        },
+        {
+            "en": "She's got nothing beyond her state pension.",
+            "ru": "У нее нет ничего, кроме ее государственной пенсии.",
+            "meaning": 2
+        },
+        {
+            "en": "It won't go on beyond midnight.",
+            "ru": "Это не будет продолжаться после полуночи.",
+            "meaning": 3
+        },
+        {
+            "en": "I know what I'll be doing for the next three weeks but I haven't thought beyond that.",
+            "ru": "Я знаю, что буду делать в течение следующих трех недель, но я не думал, что будет после них",
+            "meaning": 3
+        },
+        {
+            "en": "The bicycle was beyond repair (= is too badly damaged to repair).",
+            "ru": "Велосипед не подлежал ремонту (= слишком сильно поврежден для ремонта).",
+            "meaning": 4
+        },
+        {
+            "en": "The situation is beyond our <noun>control</noun>.",
+            "ru": "Ситуация вне нашего контроля.",
+            "meaning": 4
+        },
+        {
+            "en": "The handle was just beyond my reach.",
+            "ru": "Ручка была вне моей досягаемости.",
+            "meaning": 5
+        },
+        {
+            "en": "The exercise was beyond the abilities of most of the class.",
+            "ru": "Упражнение было за пределами способностей большинства класса.",
+            "meaning": 5
+        }
+    ]
+}

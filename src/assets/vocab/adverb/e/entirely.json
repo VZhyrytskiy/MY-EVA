@@ -1,0 +1,97 @@
+{
+  "word": "entirely",
+  "part": "adverb",
+  "transcription": "[ɪnˈtaɪəli]",
+  "level": ["B2"],
+  "translation": ["полностью", "совершенно", "совсем"],
+  "topics": [],
+  "type": [],
+  "plural": [],
+  "verbForms": {},
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+              "en": "​in every way possible; completely",
+              "ru": "всеми возможными способами; полностью"
+          }
+      }
+  ],
+  "adjectives": [
+    "absent",
+    "abstract",
+    "acceptable",
+    "different",
+    "happy",
+    "justified",
+    "new",
+    "sure"
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+  ],
+  "patterns": [
+    "consist almost entirely of somebody/something"
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "depend entirely on"
+  ],
+  "prepositions": [
+  ],
+  "verbs": [
+    "agree"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "The experience was entirely <adj>new</adj> to me.",
+          "ru": "Опыт был совершенно новым для меня.",
+          "meaning": 1
+      },
+      {
+          "en": "That's an entirely <adj>different</adj> matter.",
+          "ru": "Это совершенно другой вопрос.",
+          "meaning": 1
+      },
+      {
+          "en": "We're not entirely <adj>sure</adj> what to do next.",
+          "ru": "Мы не совсем уверены, что делать дальше.",
+          "meaning": 1
+      },
+      {
+          "en": "The approach taken will <phrase>depend entirely on</phrase> the individual.",
+          "ru": "Выбранный подход будет полностью зависеть от личности.",
+          "meaning": 1,
+          "phrase": "depend entirely on"
+      },
+      {
+          "en": "The audience <pattern>consisted almost entirely of children</pattern>.",
+          "ru": "Аудитория состояла почти полностью из детей.",
+          "meaning": 1,
+          "pattern": "consist almost entirely of somebody/something"
+      },
+      {
+          "en": "I entirely <adj>agree</adj> with you.",
+          "ru": "Я полностью согласен с вами.",
+          "meaning": 1
+      },
+      {
+          "en": "I'm not entirely <adj>happy</adj> about the proposal.",
+          "ru": "Я не совсем доволен этим предложением.",
+          "meaning": 1
+      },
+      {
+          "en": "Public anger at this abuse of power is entirely <adj>justified</adj>.",
+          "ru": "Общественный гнев на это злоупотребление властью полностью оправдан.",
+          "meaning": 1
+      }
+  ]
+}

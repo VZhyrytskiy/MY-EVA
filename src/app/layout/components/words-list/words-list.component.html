@@ -1,0 +1,56 @@
+<div class="breadcrumbs">
+  <div><a class="link" [routerLink]="['/home']">Главная</a></div>
+  <div>&nbsp;/&nbsp;</div>
+  <div><a class="link" (click)="onGotoAlphabet(level)">{{level}}</a></div>
+  <div>&nbsp;/&nbsp;</div>
+  <div>{{letter}}</div>
+</div>
+
+<div *ngIf="countOfNouns > 0">
+  <h5>Существительные</h5>
+  <ul>
+    <li *ngFor="let o of listOfNouns"><a class="link" [routerLink]="buildPath('noun', o[0])">{{o[0]}}</a> - {{o | json}}</li>
+  </ul>
+</div>
+
+<div *ngIf="countOfAdjectives > 0">
+  <h5>Прилагательные</h5>
+  <ul>
+    <li *ngFor="let o of listOfAdjectives"><a class="link" [routerLink]="buildPath('adjective', o[0])">{{o[0]}}</a> - {{o | json}}</li>
+  </ul>
+</div>
+
+<div *ngIf="countOfAdverbs > 0">
+  <h5>Наречия</h5>
+  <ul>
+    <li *ngFor="let o of listOfAdverbs"><a class="link" [routerLink]="buildPath('adverb', o[0])">{{o[0]}}</a> - {{o | json}}</li>
+  </ul>
+</div>
+
+<div *ngIf="countOfVerbs > 0">
+  <h5>Глаголы</h5>
+  <ul>
+    <li *ngFor="let o of listOfVerbs"><a class="link" [routerLink]="buildPath('verb', o[0])">{{o[0]}}</a> - {{o | json}}</li>
+  </ul>
+</div>
+
+<div *ngIf="countOfModalVerbs > 0">
+  <h5>Модальные Глаголы</h5>
+  <ul>
+    <li *ngFor="let o of listOfModalVerbs"><a class="link" [routerLink]="buildPath('modal_verb', o[0])">{{o[0]}}</a> - {{o | json}}</li>
+  </ul>
+</div>
+
+<div *ngIf="countOfPhrasalVerbs > 0">
+  <h5>Фразеологические Глаголы</h5>
+  <ul>
+    <li *ngFor="let o of listOfPhrasalVerbs"><a class="link" [routerLink]="buildPath('phrasal_verb', o[0])">{{o[0]}}</a> - {{o | json}}</li>
+  </ul>
+</div>
+
+<div *ngIf="countOfPrepositions > 0">
+  <h5>Предлоги</h5>
+  <ul>
+    <li *ngFor="let o of listOfPrepositions"><a class="link" [routerLink]="buildPath('preposition',o[0])">{{o[0]}}</a> - {{o | json}}</li>
+  </ul>
+</div>

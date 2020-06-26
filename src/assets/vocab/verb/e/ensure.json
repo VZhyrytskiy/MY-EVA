@@ -1,0 +1,152 @@
+{
+  "word": "enshure",
+  "part": "verb",
+  "transcription": "[ɪnˈʃʊə(r)]",
+  "level": "B2",
+  "translation": ["обеспечить (что-либо)", "убедиться (в чем-либо)", "гарантировать (что-либо)"],
+  "type": ["transitive"],
+  "verbForms": {
+      "presentSimple_1_2": "ensure",
+      "presentSimple_3": "ensures",
+      "pastSimple": "ensured",
+      "pastParticiple": "ensured",
+      "ingForm": "ensuring"
+  },
+  "use": "(also insure especially in North American English)",
+  "meanings": [
+      {
+          "1": {
+              "en": "to make sure that something happens or is definite",
+              "ru": "убедиться, что что-то происходит или является определенным"
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+    "effectively",
+    "practically",
+    "virtually"
+  ],
+  "noun": [
+    "access",
+    "condition",
+    "discount",
+    "place",
+    "safety",
+    "success",
+    "survival",
+    "symptom"
+  ],
+  "phrase": [
+    "an attempt to ensure something",
+    "efforts to ensure something",
+    "measures to ensure something"
+  ],
+  "phrasal verbs": [
+  ],
+  "prepositions": [
+  ],
+  "pattern": [
+    "ensure (that)...",
+    "ensure somebody something",
+    "ensure something for somebody",
+    "ensure something"
+  ],
+  "modal verbs": [
+    "must"
+  ],
+  "verb": [
+    "aim to",
+    "try to"
+  ],
+  "examples": [
+      {
+          "en": "We are working to <pattern>ensure the <noun>safety</noun></pattern> of people in the city.",
+          "ru": "Мы работаем над тем, чтобы обеспечить безопасность людей в городе.",
+          "meaning": 1,
+          "pattern": "ensure something"
+      },
+      {
+          "en": "The book <pattern>ensured his <noun>success</noun></pattern>.",
+          "ru": "Книга обеспечила его успех.",
+          "meaning": 1,
+          "pattern": "ensure something"
+      },
+      {
+          "en": "We must take steps now to <pattern>ensure the <noun>survival</noun></pattern> of these animals.",
+          "ru": "Мы должны предпринять шаги сейчас, чтобы обеспечить выживание этих животных.",
+          "meaning": 1,
+          "pattern": "ensure something"
+      },
+      {
+          "en": "Victory <pattern>ensured them a <noun>place</noun></pattern> in the final.",
+          "ru": "Победа обеспечила им место в финале.",
+          "meaning": 1,
+          "pattern": "ensure somebody something"
+      },
+      {
+          "en": "The system <pattern>ensures all children equal <noun>access</noun></pattern> to education.",
+          "ru": "Система обеспечивает всем детям равный доступ к образованию.",
+          "meaning": 1,
+          "pattern": "ensure somebody something"
+      },
+      {
+          "en": "The system <pattern>ensures equal access to education for all children</pattern>.",
+          "ru": "Система обеспечивает равный доступ к образованию для всех детей.",
+          "meaning": 1,
+          "pattern": "ensure something for somebody"
+      },
+      {
+          "en": "The government needs to <pattern>ensure (that)</pattern> workers' rights are respected.",
+          "ru": "Правительство должно обеспечить соблюдение прав трудящихся.",
+          "meaning": 1,
+          "pattern": "ensure (that)..."
+      },
+      {
+          "en": "Rent rises were limited in order to <pattern>ensure that</pattern> housing remained affordable.",
+          "ru": "Повышение арендной платы было ограничено с целью обеспечения доступности жилья.",
+          "meaning": 1
+      },
+      {
+          "en": "Forces were brought in to <pattern>ensure <noun>security</noun> for tourists</pattern>.",
+          "ru": "Были введены силы для обеспечения безопасности туристов.",
+          "meaning": 1,
+          "pattern":"ensure something for somebody"
+      },
+      {
+          "en": "Please <pattern>ensure (that)</pattern> all lights are switched off.",
+          "ru": "Пожалуйста, убедитесь, что все огни выключены.",
+          "meaning": 1,
+          "pattern":"ensure (that)..."
+      },
+      {
+          "en": "The system not only <pattern>ensures maximum <noun>discounts</noun></pattern>, but also helps the company track usage.",
+          "ru": "Система не только обеспечивает максимальные скидки, но и помогает компании отслеживать использование.",
+          "meaning": 1,
+          "pattern":"ensure something",
+          "noun": "discount"
+
+      },
+      {
+          "en": "provisions designed to <pattern>ensure safe <noun>conditions</noun></pattern> of work",
+          "ru": "положения, предназначенные для обеспечения безопасных условий труда",
+          "meaning": 1,
+          "pattern": "ensure something",
+          "noun": "condition"
+      },
+      {
+        "en": "The therapist must treat the cause of the problem, thereby <pattern>ensuring the <noun>symptoms</noun></pattern> do not return.",
+        "ru": "Терапевт должен устранить причину проблемы, тем самым гарантируя, что симптомы не вернутся.",
+        "meaning": 1,
+        "pattern":"ensure something",
+        "noun": "symptom"
+      },
+      {
+        "en": "The alternative simply <pattern>ensures that</pattern> the problem will get worse.",
+        "ru": "Альтернатива просто гарантирует, что проблема усугубится.",
+        "meaning": 1,
+        "pattern":"ensure (that)..."
+      }
+  ]
+}

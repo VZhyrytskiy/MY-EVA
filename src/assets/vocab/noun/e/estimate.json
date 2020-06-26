@@ -1,0 +1,219 @@
+{
+  "word": "estimate",
+  "part": "noun",
+  "transcription": "[ˈestɪmət]",
+  "level": ["B2"],
+  "translation": ["оценка", "смета"],
+  "topics": ["Opinion and argument B2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "a judgement that you make without having the exact details or figures about the size, amount, cost, etc. of something",
+            "ru": "суждение, которое вы делаете, не имея точных деталей или цифр о размере, сумме, стоимости и т. д. чего-либо"
+          },
+          "2": {
+            "en": "a statement of how much a piece of work will probably cost",
+            "ru": "заявление о том, сколько, вероятно, будет стоить произведение"
+          }
+      }
+  ],
+  "adjectives": [
+    "conservative",
+    "current",
+    "good",
+    "high",
+    "inaccurate",
+    "late",
+    "low",
+    "official",
+    "precise",
+    "rough",
+    "unofficial"
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "ballpack",
+    "government"
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+    "estimate of something",
+    "estimate for something",
+    "estimate from something"
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "by one estimate",
+    "estimate based on",
+    "estimate can lead to",
+    "estimate of the amount of",
+    "estimate of the number of"
+  ],
+  "prepositions": [
+    "according to",
+    "at",
+    "in"
+  ],
+  "verbs": [
+    "be",
+    "calculate",
+    "generate",
+    "get",
+    "give",
+    "make",
+    "obtain",
+    "produce",
+    "provide",
+    "revise",
+    "send",
+    "submit"
+  ],
+  "+verbs": [
+    "indicate",
+    "predict",
+    "suggest",
+    "vary"
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "I can give you a <adj>rough</adj> <phrase><pattern>estimate of the amount</pattern> of</phrase> wood you will need.",
+          "ru": "Я могу дать вам приблизительную оценку количества древесины, которая вам понадобится.",
+          "meaning": 1,
+          "pattern": "estimate of something",
+          "phrase": "estimate of the amount of"
+      },
+      {
+          "en": "What is the <adj>latest</adj> <phrase><pattern>estimate of the number</pattern> of</phrase> chimpanzees in the wild?",
+          "ru": "Какова последняя оценка численности шимпанзе в дикой природе?",
+          "meaning": 1,
+          "pattern": "estimate of something",
+          "phrase": "estimate of the number of"
+
+      },
+      {
+          "en": "At least 5 000 people were killed, and that's a <adj>conservative</adj> estimate",
+          "ru": "По крайней мере, 5 000 человек были убиты, и это консервативная оценка",
+          "meaning": 1
+      },
+      {
+          "en": "Using this index would <verb>produce</verb> a <adj>lower</adj> <pattern>estimate for the rate</pattern> of inflation.",
+          "ru": "Использование этого индекса даст более низкую оценку уровня инфляции.",
+          "meaning": 1,
+          "adj": "low",
+          "pattern": "estimate for something"
+      },
+      {
+          "en": "The map is <adj>the best</adj> <pattern>estimate from the data</pattern> available.",
+          "ru": "Карта - лучшая оценка из доступных данных.",
+          "meaning": 1,
+          "pattern": "estimate from something",
+          "adj": "good"
+      },
+      {
+          "en": "Losses totalled $1.87 billion last year, <prep>according to</prep> estimates.",
+          "ru": "По оценкам, потери в прошлом году составили 1,87 млрд долларов.",
+          "meaning": 1
+      },
+      {
+          "en": "The paper presents <phrase>estimates based on</phrase> census figures.",
+          "ru": "В документе представлены оценки, основанные на данных переписи.",
+          "meaning": 1,
+          "phrase": "estimate based on"
+      },
+      {
+          "en": "<prep>According to</prep> <adj>the highest</adj> estimate, over 100 000 men died in the battle.",
+          "ru": "По самым высоким оценкам, в битве погибло более 100 000 человек.",
+          "meaning": 1,
+          "adj": "high"
+      },
+      {
+          "en": "<phrase>By one estimate</phrase> she earns $80 million a year.",
+          "ru": "По одной оценке, она зарабатывает 80 миллионов долларов в год.",
+          "meaning": 1,
+          "phrase": "by one estimate"
+      },
+      {
+          "en": "Can you <verb>make</verb> an <phrase>estimate of the numbers</phrase> involved?",
+          "ru": "Можете ли вы сделать оценку числа участвующих?",
+          "meaning": 1,
+          "phrase": "estimate of the number"
+      },
+      {
+          "en": "Casualty estimates <+verb>vary</+verb> considerably.",
+          "ru": "Оценки жертв значительно различаются.",
+          "meaning": 1
+      },
+      {
+          "en": "<adj>Current</adj> estimates <+verb>suggest<+verb> that supplies will run out within six months.",
+          "ru": "Текущие оценки предполагают, что поставки закончатся в течение шести месяцев.",
+          "meaning": 1,
+          "adj": "current"
+      },
+      {
+          "en": "<adj>Inaccurate</adj> <phrase>estimates can lead to</phrase> overproduction.",
+          "ru": "Неточные оценки могут привести к перепроизводству.",
+          "meaning": 1,
+          "adj": "inaccurate",
+          "phrase": "estimate can lead to"
+      },
+      {
+          "en": "Inflation could rise by 15 per cent <prep>according to</prep> <adj>the latest</adj> estimate.",
+          "ru": "По последним оценкам, инфляция может возрасти на 15 процентов.",
+          "meaning": 1,
+          "adj": "late"
+      },
+      {
+          "en": "The manufacturers will not <verb>make</verb> <adj>precise</adj> estimates.",
+          "ru": "Производители не будут делать точных оценок.",
+          "meaning": 1
+      },
+      {
+          "en": "The slump is causing analysts to <verb>revise</verb> earnings <pattern>estimates for next year</pattern>.",
+          "ru": "Спад заставляет аналитиков пересмотреть оценки прибыли на следующий год.",
+          "meaning": 1,
+          "pattern": "estimate for something"
+      },
+      {
+          "en": "I asked a couple of local builders for estimates.",
+          "ru": "Я попросил пару местных строителей для оценки.",
+          "meaning": 2
+      },
+      {
+          "en": "We <verb>got</verb> estimates from three firms and accepted the lowest.",
+          "ru": "Мы получили оценки от трех фирм и приняли самые низкие.",
+          "meaning": 2,
+          "verb": "get"
+      },
+      {
+          "en": "Two companies <verb>submitted</verb> <pattern>estimates for the work</pattern>.",
+          "ru": "Две компании представили смету на работу.",
+          "meaning": 2,
+          "verb": "submit",
+          "pattern": "estimate for something"
+      },
+      {
+          "en": "We'll <verb>send</verb> you an <pattern>estimate for the repairs</pattern>.",
+          "ru": "Мы вышлем вам смету на ремонт.",
+          "meaning": 2,
+          "verb": "send",
+          "pattern": "estimate for something"
+      }
+  ]
+}

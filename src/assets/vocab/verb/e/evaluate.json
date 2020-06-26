@@ -1,0 +1,149 @@
+{
+  "word": "evaluate",
+  "part": "verb",
+  "transcription": "[ɪˈvæljueɪt]",
+  "level": ["B2"],
+  "translation": ["оценивать"],
+  "topics": [" Opinion and argument B2", "Scientific research B2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "evaluate",
+    "presentSimple_3": "evaluates",
+    "pastSimple": "evaluated",
+    "pastParticiple": "evaluated",
+    "ingForm": "evaluating"
+  },
+  "pronunciation changes by part of speech": false,
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "​to form an opinion of the amount, value or quality of something after thinking about it carefully",
+            "ru": "cформировать мнение о количестве, стоимости или качестве чего-либо, тщательно обдумав это",
+            "synonyms": ["assess"],
+            "seeAlso": ["re-evaluate"]
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+    "carefully",
+    "critically",
+    "effectively",
+    "fully",
+    "positively",
+    "properly"
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "candidate",
+    "cheese",
+    "effectiveness",
+    "evidence",
+    "performance",
+    "policy",
+    "role",
+    "technology"
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+    "evaluate how, whether, etc...",
+    "evaluate somebody/something for something",
+    "evaluate somebody/something on something",
+    "evaluate something"
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "be designed to evaluate",
+    "it doesn't seem an accurate way of evaluating something"
+  ],
+  "prepositions": [
+    "for",
+    "on"
+  ],
+  "verbs": [
+    "aim",
+    "attempt",
+    "need"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+    "analysis",
+    "evaluate",
+    "evidence",
+    "experiment",
+    "hypothesis",
+    "laboratory",
+    "research",
+    "result",
+    "science",
+    "study"
+  ],
+  "examples": [
+      {
+          "en": "The trial will <pattern>evaluate the <noun>effectiveness</noun></pattern> of the different drugs.",
+          "ru": "Испытание оценит эффективность различных препаратов.",
+          "meaning": 1,
+          "pattern": "evaluate something"
+      },
+      {
+          "en": "Researchers <pattern>evaluated teaching <noun>performance</noun></pattern> by comparing students' exam results.",
+          "ru": "Исследователи оценивали эффективность преподавания, сравнивая результаты экзаменов студентов.",
+          "meaning": 1,
+          "pattern": "evaluate something"
+      },
+      {
+          "en": "The study will <adv>critically</adv> <pattern>evaluate whether this <noun>technology</noun></pattern> is useful.",
+          "ru": "Исследование критически оценит, полезна ли эта технология.",
+          "meaning": 1,
+          "pattern": "evaluate how, whether, etc..."
+      },
+      {
+          "en": "We <verb>need</verb> to <pattern>evaluate how well the <noun>policy</noun></pattern> is working.",
+          "ru": "Нам нужно оценить, насколько хорошо работает политика.",
+          "meaning": 1,
+          "pattern": "evaluate how, whether, etc..."
+      },
+      {
+          "en": "The <pattern><noun>cheeses</noun> are evaluated <prep>for</prep> flavour</pattern>, texture and colour.",
+          "ru": "Сыры оцениваются на вкус, текстуру и цвет.",
+          "meaning": 1,
+          "pattern": "evaluate somebody/something for something",
+          "noun": "cheese"
+      },
+      {
+          "en": "<pattern><noun>Candidates</noun> are evaluated <prep>on</prep> their ability</pattern> to think independently.",
+          "ru": "Кандидаты оцениваются по их способности мыслить самостоятельно.",
+          "meaning": 1,
+          "pattern": "evaluate somebody/something on something",
+          "noun": "candidate"
+      },
+      {
+          "en": "The effects of changes in land use can be evaluated by analysis of flooding patterns.",
+          "ru": "Влияние изменений в землепользовании можно оценить путем анализа характера наводнений.",
+          "meaning": 1
+      },
+      {
+          "en": "The <noun>evidence</noun> should be <adv>carefully</adv> evaluated.",
+          "ru": "Доказательства должны быть тщательно оценены.",
+          "meaning": 1
+      },
+      {
+          "en": "The <noun>role</noun> of stay-at-home mother is more <adv>positively</adv> evaluated in working-class communities.",
+          "ru": "Роль матери, сидящей дома, более позитивно оценивается в рабочих сообществах.",
+          "meaning": 1
+      },
+      {
+          "en": "<phrase>This does not seem an accurate way of evaluating employees' performance</phrase>.",
+          "ru": "Это не кажется точным способом оценки работы сотрудников.",
+          "meaning": 1,
+          "phrase": "it doesn't seem an accurate way of evaluating something"
+      }
+  ]
+}

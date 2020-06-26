@@ -1,0 +1,632 @@
+{
+    "access": {
+      "level": ["B1"]
+    },
+    "adrenaline": {
+      "level": [],
+      "topics": ["Body C1", "Feelings C1"]
+    },
+    "adventure": {
+      "level": ["A2"],
+      "topics": ["Danger A2", "Holidays A2"]
+    },
+    "age": {
+        "level": ["A1", "B1", "B2"],
+        "topics": ["Time B2"]
+    },
+    "analysis": {
+      "level": ["B1"],
+      "topics": ["Scientific research B1"]
+    },
+    "applause": {
+      "level": []
+    },
+    "argument": {
+      "level": ["A2", "B1"],
+      "topics": ["Opinion and argument A2", "Feelings A2", "Opinion and argument B1", "Language B1", "Opinion and argument B2", "Language B2"]
+    },
+    "attempt": {
+      "level": ["B2"],
+      "topics": ["Difficulty and failure B2"]
+    },
+    "audience": {
+      "level": ["A2"],
+      "topics": ["Music A2", "Film and theatre A2"]
+    },
+    "ballpack": {
+      "level": ["B2"],
+      "topics": ["Sports: ball and racket sports B2"]
+    },
+    "base": {
+      "level": ["B1"],
+      "topics": ["War and conflict B1", "Sports: ball and racket sports C1", "Difficulty and failure C2"]
+    },
+    "basis": {
+        "level": ["B1", "B2"]
+    },
+    "body": {
+      "level": ["A1", "B2"],
+      "topics": ["Body A1", "Crime and punishment A1", "Transport by car or lorry B2", "Appearance C2", "Clothes and Fashion C2"]
+    },
+    "budget": {
+        "level": ["B2"]
+    },
+    "building": {
+      "level": ["A1", "B1"],
+      "topics": ["Buildings A1", "Buildings B1"]
+    },
+    "calendar": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "candidate": {
+      "level": ["B1"],
+      "topics": ["Working life B1", "Education B1"]
+    },
+    "career": {
+      "level": ["A1"],
+      "topics": ["Working life A1"]
+    },
+    "cause": {
+      "level": ["A2", "B2"],
+      "topics": ["Change, cause and effect A2", "Discussion and agreement C2"]
+    },
+    "centre": {
+      "level": ["A1", "B1"],
+      "topics": ["Shopping A1", "Buildings A1", "Politics B2"]
+    },
+    "certainty": {
+      "level": ["B2", "C1"],
+      "topics": ["Doubt, guessing and certainty B2", "Doubt, guessing and certainty C1"]
+    },
+    "challenge": {
+      "level": []
+    },
+    "check-up": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2", "Medicine B2"]
+    },
+    "cheese": {
+      "level": ["A1"],
+      "topics": ["Food A1"]
+    },
+    "city": {
+      "level": ["A1"],
+      "topics": ["Money C2"]
+    },
+    "collection": {
+      "level": ["B1"],
+      "topics": ["Art B1", "Social issues B2", "Clothes and Fashion B2"]
+    },
+    "colony": {
+      "level": ["B2"],
+      "topics": ["History B2", "Animals C1"]
+    },
+    "committee": {
+      "level": ["B2"],
+      "topics": ["Working life B2", "People in society B2"]
+    },
+    "community": {
+      "level": ["A2", "B1"],
+      "topics": ["People in society A2", "People in society B1", "People in society C1", "Biology C2"]
+    },
+    "company": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Opinion and argument C2"]
+    },
+    "condition": {
+      "level": ["A2", "B1", "B2"],
+      "topics": ["Shopping A2", "Illness A2", "Illness B1", "Working life B1", "Discussion and agreement B1", "Permission and obligation B1"]
+    },
+    "confidence": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2", "Personal qualities B2"]
+    },
+    "confusion": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2"]
+    },
+    "connection": {
+      "level": ["B1"],
+      "topics": ["Phones, email and the internet B1", "Transport by bus and train B2", "Transport by air B2"]
+    },
+    "contact": {
+      "level": ["B1"]
+    },
+    "convent": {
+      "level": ["C2"],
+      "topics": ["Religion and festivals C2", "Buildings C2"]
+    },
+    "cost": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Money A1", "Money A2", "Money C1"]
+    },
+    "council": {
+      "level": ["B2"],
+      "topics": ["Politics B2"]
+    },
+    "country": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Geography A1", "Music B2"]
+    },
+    "crowd": {
+      "level": ["A2"]
+    },
+    "day": {
+      "level": ["A1", "A2", "B1", "B2"],
+      "topics": ["Time A1", "Time B1", "History B1", "Success C1", "Feelings C1", "Success C2", "Time C2", "Difficulty and failure C2", "Cooking and eating C2", "Preferences and decisions C2", "Doubt, guessing and certainty C2"]
+    },
+    "deal": {
+      "level": ["A2", "B2"],
+      "topics": ["Games and toys C2", "Crime and punishment B2"]
+    },
+    "definite": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2"]
+    },
+    "desk": {
+      "level": ["A1"],
+      "topics": ["Working life A1", "Education A1", "Houses and homes A1", "Holidays A1"]
+    },
+    "dictatorship": {
+      "level": ["C1"],
+      "topics": ["Politics C1"]
+    },
+    "dilemmas": {
+      "level": ["C1"],
+      "topics": [" Preferences and decisions C1", " Preferences and decisions C2"]
+    },
+    "discount": {
+      "level": ["B1"],
+      "topics": ["Shopping B1", "Business B1", "Money B1"]
+    },
+    "doubt": {
+      "level": ["B1", "B2"],
+      "topics": ["Doubt, guessing and certainty B1", "Doubt, guessing and certainty B2", "Doubt, guessing and certainty C1", "Suggestions and advice C2"]
+    },
+    "dynasty": {
+      "level": ["C1"],
+      "topics": ["Family and relationships C1"]
+    },
+    "effect": {
+      "level": ["A2"],
+      "topics": ["Change, cause and effect A2", "Change, cause and effect C2", "Opinion and argument C1"]
+    },
+    "effectiveness": {
+      "level": ["C1"],
+      "topics": ["Success C1", "Change, cause and effect C1"]
+    },
+    "efficiency": {
+      "level": ["C1"]
+    },
+    "empire": {
+      "level": ["B2", "C1"],
+      "topics": ["History B2", "Business C1"]
+    },
+    "enquiry": {
+      "level": ["B2"]
+    },
+    "enthusiasm": {
+      "level": ["B2"],
+      "topics": ["Feelings B2"]
+    },
+    "equal": {
+      "level": ["B2"]
+    },
+    "era": {
+        "level": ["B2"],
+        "topics": ["Time B2", "History B2"]
+    },
+    "estate": {
+      "level": ["B2"],
+      "topics": ["Buildings B2"]
+    },
+    "estimate": {
+      "level": ["B2"],
+      "topics": ["Opinion and argument B2"]
+    },
+    "evidence": {
+      "level": ["A2"],
+      "topics": ["Scientific research A2", "Opinion and argument A2", "Crime and punishment A2", "Law and justice A2", "Opinion and argument C2"]
+    },
+    "experience": {
+        "level": ["A2", "B2"]
+    },
+    "experiment": {
+      "level": ["A2"]
+    },
+    "fact": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Scientific research A1", "Opinion and argument C1"]
+    },
+    "family": {
+      "level": ["A1", "A2"],
+      "topics": ["Family and relationships A1", "Life stages A1", "Animals A2"]
+    },
+    "fee": {
+        "level": ["B2"]
+    },
+    "forecast": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2", "Business B2", "Weather B2"]
+    },
+    "fortnight": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "framework": {
+      "level": ["B2"]
+    },
+    "fund": {
+      "level": ["B2"],
+      "topics": ["Social issues B2", "Money B2", "Business B2"]
+    },
+    "generation": {
+      "level": ["B1"],
+      "topics": ["People in society B1", "History B1", "Family and relationships B1", "The environment B2"]
+    },
+    "government": {
+      "level": ["A2", "B1"],
+      "topics": ["Politics A2", "Politics B1"]
+    },
+    "ground": {
+      "level": ["A2", "B1", "B2"],
+      "topics": ["Geography A2", "Engineering C2", "Opinion and argument C2", " Difficulty and failure C2", "Success C1", "Success C2"]
+    },
+    "group": {
+      "level": ["A1"],
+      "topics": ["People in society A1", "Business B1", "Music A1"]
+    },
+    "guarantee": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2", "Change, cause and effect B2"]
+    },
+    "guessing game": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2", "Games and toys B2"]
+    },
+    "guideline": {
+      "level": ["B2"],
+      "topics": ["Permission and obligation B2"]
+    },
+    "guilt": {
+      "level": ["C1"],
+      "topics": ["Feelings C1", "Law and justice C1"]
+    },
+    "housing": {
+      "level": ["B2"]
+    },
+    "hypothesis": {
+      "level": ["B2", "C1"],
+      "topics": ["Scientific research B2", "Doubt, guessing and certainty C1"]
+    },
+    "identity": {
+      "level": ["B1"]
+    },
+    "income": {
+        "level": ["B2"]
+    },
+    "industry": {
+      "level": ["A2"],
+      "topics": ["Business A2", "Working life A2"]
+    },
+    "internet": {
+      "level": ["A1"],
+      "topics": ["Phones, email and the internet A1", "Shopping A1"]
+    },
+    "investment": {
+      "level": ["B2"],
+      "topics": ["Money B2", "Success C1"]
+    },
+    "issue": {
+      "level": ["B1", "B2"],
+      "topics": ["Opinion and argument B1", "Social issues B1", "Preferences and decisions C2", "Opinion and argument C2"]
+    },
+    "laboratory": {
+      "level": ["B1"],
+      "topics": ["Education B1", " Scientific research B1"]
+    },
+    "land": {
+      "level": ["A1"]
+    },
+    "league": {
+      "level": ["B2"],
+      "topics": ["Sports: ball and racket sports B2", "Politics B2"]
+    },
+    "leave": {
+      "level": ["B2"]
+    },
+    "length": {
+      "level": ["B1"],
+      "topics": ["Maths and measurement B1", "Sports: water sports C1", "Sports: other sports C2"]
+    },
+    "lateness": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "life": {
+      "level": ["A1", "B1"],
+      "topics": ["Crime and punishment B2", "Life stages C2", "Illness C1", "Feelings C2", "Difficulty and failure B2", "Doubt, guessing and certainty C2"]
+    },
+    "link": {
+      "level": ["A2"],
+      "topics": ["Phones, email and the internet A2", "Opinion and argument C2", "Difficulty and failure C2"]
+    },
+    "local time": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "manager": {
+      "level": ["A2"],
+      "topics": ["Jobs A2", "Business A2", "Shopping A2", "Film and theatre B2"]
+    },
+    "millennium": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "murder": {
+      "level": ["B1"],
+      "topics": ["Crime and punishment B1"]
+    },
+    "nation": {
+      "level": ["B1"]
+    },
+    "network": {
+      "level": ["A2", "B1"],
+      "topics": ["Business A2", "Computers A2", "TV, radio and news B1"]
+    },
+    "number": {
+      "level": ["A1"],
+      "topics": ["Maths and measurement A1", "Phones, email and the internet A1", "Language B2"]
+    },
+    "office": {
+      "level": ["A1", "A2", "B2"],
+      "topics": ["Working life A1", "Houses and homes A1", "Transport by bus and train A1", "Politics A2", "Politics B2"]
+    },
+    "owner": {
+      "level": ["A2"]
+    },
+    "parameter": {
+      "level": ["C1"]
+    },
+    "performance": {
+      "level": ["B1"],
+      "toopics": ["Film and theatre B1", "Music B1"]
+    },
+    "place": {
+      "level": ["A1", "B1", "B2"],
+      "topics": ["Education B1", "Math and measurement C1", "Success C2", "Suggestions and advice C1", "Opinion and argument B2", "Medicine C2", "The environment C2"]
+    },
+    "policy": {
+      "level": ["B1"],
+      "topics": ["Politics B1"]
+    },
+    "population": {
+      "level": ["A2"]
+    },
+    "position": {
+      "level": ["A2", "B1", "B2"],
+      "topics": ["Opinion and argument B2", "Working life B2"]
+    },
+    "practice": {
+      "level": ["A1", "B2"],
+      "topics": ["Music A1", "Medicine B2", "Jobs B2"]
+    },
+    "preference": {
+      "level": ["B2"],
+      "topics": ["Preferences and decisions B2"]
+    },
+    "principle": {
+      "level": ["B2"],
+      "topics": ["Personal qualities B2", "Scientific research B2"]
+    },
+    "probability": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2", "Math and measurement B2", "Opinion and argument C2"]
+    },
+    "problem": {
+      "level": ["A1"],
+      "topics": ["Difficulty and failure A1", "Social issues A1", "Maths and measurement B2", "Opinion and argument C1"]
+    },
+    "process": {
+      "level": ["A2"],
+      "topics": ["Law and justice A2"]
+    },
+    "prospect": {
+      "level": ["B2"],
+      "topics": ["Success B2", "Success C2"]
+    },
+    "question": {
+      "level": ["A1", "B1", "B2"],
+      "topics": ["Opinion and argument C2", "Permission and obligation C1", "Doubt, guessing and certainty C1"]
+    },
+    "range": {
+      "level": ["B1", "B2"],
+      "topics": ["Shopping B2", "Geography C1", "Cooking and eating C2"]
+    },
+    "reception": {
+      "level": ["A2", "B1", "B2"],
+      "topics": ["Holidays A2", "Working life A2", "Life stages B1", "TV, radio and news C1", "Education C2"]
+    },
+    "region": {
+      "level": ["A2"],
+      "topics": ["Geography A2"]
+    },
+    "relation": {
+      "level": ["B1"],
+      "topics": ["Politics B1", "Family and relationships B1"]
+    },
+    "relationship": {
+      "level": ["A2", "B1"],
+      "topics": ["Politics A2", "Family and relationships B1"]
+    },
+    "report": {
+      "level": ["A1", "B1"],
+      "topics": ["Literature and writing A1", "TV, radio and news A1", "Education B1"]
+    },
+    "reputation": {
+      "level": ["B2"],
+      "topics": ["Opinion and argument B2"]
+    },
+    "research": {
+      "level": ["A2"],
+      "topics": ["Education A2", " Scientific research A2"]
+    },
+    "result": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Change, cause and effect A1", "Sports: ball and racket sports A1", "Politics A1", "Sports: ball and racket sports A2", " Education A1", "Scientific research A1", "Success A2", "Business B1"]
+    },
+    "revenue": {
+        "level": ["B2"]
+    },
+    "role": {
+      "level": ["A2", "B1"],
+      "topics": ["Film and theatre A2"]
+    },
+    "rule": {
+      "level": ["A1", "B1", "B2"],
+      "topics": ["Permission and obligation A1", "Games and toys A1", "Suggestions and advice B1", "Politics B2", "Permission and obligation C1", "Permission and obligation C2"]
+    },
+    "safety": {
+      "level": ["B1"],
+      "topics": ["Sports: ball and racket sports C2"]
+    },
+    "sale": {
+      "level": ["A2"],
+      "topics": ["Shopping A2", "Business A2", "Houses and homes B1", "Shopping C1"]
+    },
+    "school": {
+      "level": ["A1", "A2"],
+      "topics": ["Buildings A1", "Education A1", "Education A2", "Art C2", "Fish and shellfish C2"]
+    },
+    "science": {
+      "level": ["A1"],
+      "topics": ["Scientific research A1", "Education A1"]
+    },
+    "season": {
+      "level": ["A2", "B1"],
+      "topics": ["Time A2", "Time B1"]
+    },
+    "service": {
+      "level": ["A2", "B1", "B2"],
+      "topics": ["Business A2", "Cooking and eating B1", "Shopping B1", "War and conflict B2", "Transport by bus and train B2", "Transport by car or lorry C1", " Engineering C1", "Religion and festivals B2", "Sports: ball and racket sports C2"]
+    },
+    "session": {
+        "level": ["B2", "C2"],
+        "topics": ["Time B2"]
+    },
+    "settlement": {
+      "level": ["C1"],
+      "topics": ["Discussion and agreement C1", "Social issues C1", "Family and relationships C2", "Law and justice C2"]
+    },
+    "speculation": {
+      "level": ["B2", "C1"],
+      "topics": ["Doubt, guessing and certainty B2", "Opinion and argument B2"]
+    },
+    "standard": {
+      "level": ["B1", "B2"],
+      "topics": ["Music C2"]
+    },
+    "state": {
+      "level": ["A2", "B1", "B2"],
+      "topics": ["Politics A2", "Politics B1"]
+    },
+    "status": {
+      "level": ["B2"],
+      "topics": ["People in society B2"]
+    },
+    "study": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Education A1", "Scientific research B1", "Art C2", "Music C2"]
+    },
+    "success": {
+      "level": ["A1", "A2"],
+      "topics": ["Success A1", "Success A2"]
+    },
+    "sunrise": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "sunset": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "supporter": {
+      "level": ["B1"],
+      "topics": ["Politics B1"]
+    },
+    "survival": {
+      "level": ["B2"],
+      "topics": ["Biology C2"]
+    },
+    "symptom": {
+      "level": ["B1", "B2"],
+      "topics": ["Illness B1"]
+    },
+    "system": {
+      "level": ["A2", "B1"],
+      "topics": ["Computers B1"]
+    },
+    "tax": {
+      "level": ["B1"],
+      "topics": ["Money B1", "Shopping B1"]
+    },
+    "team": {
+      "level": ["A1"],
+      "topics": ["Games and toys A1", "Sports: ball and racket sports A1", "Farming C2"]
+    },
+    "technology": {
+      "level": ["A2"],
+      "topics": ["Scientific research A2", "Shopping A2"]
+    },
+    "term time": {
+        "level": ["B2"],
+        "topics": ["Time B2", "Education B2"]
+    },
+    "time": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Time A1", "Time A2", "Time B1", "Time B2", "Time C1", "Time C2", "History A2", "Success C1", "Success C2", "Crime and punishment C2", "Preferences and decisions C2", "Difficulty and failure C2", "Doubt, guessing and certainty C1"]
+    },
+    "time zone": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "trading": {
+      "level": ["B2"],
+      "topics": ["Money B2"]
+    },
+    "tradition": {
+      "level": ["A2"],
+      "topics": ["Religion and festivals A2"]
+    },
+    "turnover": {
+        "level": ["C1"]
+    },
+    "value": {
+      "level": ["B1", "B2"],
+      "topics": ["Money B1", "Shopping B1", "Maths and measurement C1"]
+    },
+    "variable": {
+      "level": ["C1"],
+      "topics": ["Maths and measurement C1"]
+    },
+    "village": {
+      "level": ["A1"],
+      "topics": ["Geography A1"]
+    },
+    "welcome": {
+      "level": ["A1"]
+    },
+    "worker": {
+      "level": ["A1", "A2"],
+      "topics": ["Working life A1"]
+    },
+    "world": {
+      "level": ["A1", "B1", "B2"],
+      "topics": ["Games and toys B2", "Opinion and argument C2", "Success C2", "Difficulty and failure C2", "Feelings C1"]
+    },
+    "zone": {
+      "level": ["B2"],
+      "topics": ["Geography B2"]
+    }
+}

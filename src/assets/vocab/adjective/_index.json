@@ -1,0 +1,287 @@
+{
+    "absent": {
+      "level": ["C1"]
+    },
+    "abstract": {
+      "level": ["B2"],
+      "topics": ["Art B2"]
+    },
+    "acceptable": {
+      "level": ["B2"],
+      "topics": ["Discussion and agreement B2", "Permission and obligation B2"]
+    },
+    "annual": {
+        "level": ["B2"],
+        "topics": ["Time B2", "Money B2"]
+    },
+    "aware": {
+        "level": ["B1"]
+    },
+    "biannual": {
+        "level": []
+    },
+    "big": {
+      "level": ["A1", "A2"],
+      "topics": ["Difficulty and failure B2", "Success C1", "Personal qualities C2"]
+    },
+    "bound": {
+      "level": ["B2", "C1"],
+      "topics": ["Doubt, guessing and certainty B2", "Doubt, guessing and certainty C2", "Permission and obligation C2"]
+    },
+    "boundless": {
+      "level": []
+    },
+    "boyish": {
+      "level": [],
+      "topics": ["Appearance C2"]
+    },
+    "burning": {
+      "level": []
+    },
+    "careful": {
+      "level": ["A2"],
+      "topics": ["Personal qualities A2"]
+    },
+    "conservative": {
+      "level": ["B2"],
+      "topics": ["Politics B2"]
+    },
+    "convinced": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2"]
+    },
+    "current": {
+      "level": ["B1"]
+    },
+    "day-to-day": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "detailed": {
+      "level": ["B2"]
+    },
+    "different": {
+      "level": ["A1"],
+      "topics": ["Opinion and argument A1", "Opinion and argument C2"]
+    },
+    "direct": {
+      "level": ["A2", "B1"]
+    },
+    "enormous": {
+      "level": ["A2"]
+    },
+    "enthusiastic": {
+      "level": ["B2"],
+      "topics": ["Personal qualities B2"]
+    },
+    "entire": {
+      "level": ["B2"]
+    },
+    "ethical": {
+      "level": ["B2"],
+      "topics": ["Personal qualities B2"]
+    },
+    "exhaustive": {
+      "level": []
+    },
+    "extensive": {
+      "level": ["B2"]
+    },
+    "extraordinary": {
+      "level": ["B2"]
+    },
+    "family": {
+      "level": ["A1", "A2"]
+    },
+    "feigned": {
+      "level": []
+    },
+    "frequent": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "full": {
+      "level": ["A1", "A2", "B1"]
+    },
+    "further": {
+      "level": ["A2"]
+    },
+    "good": {
+      "level": ["A1"],
+      "topics": ["Weather A1", "Personal qualities A1", "Health and Fitness A1"]
+    },
+    "great": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Success C2", "Opinion and argument C2"]
+    },
+    "growing": {
+        "level": []
+    },
+    "happy": {
+      "level": ["A1", "A2"],
+      "topics": ["Feelings A1", "Feelings A2", "Success C1"]
+    },
+    "high": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Opinion and argument C2"]
+    },
+    "hourly": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "huge": {
+      "level": ["A2"],
+      "topics": ["Success C2"]
+    },
+    "immense": {
+      "level": ["C1"]
+    },
+    "inaccurate": {
+      "level": []
+    },
+    "industrial": {
+      "level": ["B2"],
+      "topics": ["Business B2", "Jobs B2"]
+    },
+    "inevitable": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2"]
+    },
+    "initial": {
+      "level": ["B2"]
+    },
+    "instant": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "intellectual": {
+      "level": ["B2", "C1"],
+      "topics": ["Working life B2"]
+    },
+    "justified": {
+      "level": []
+    },
+    "landed": {
+      "level": []
+    },
+    "large": {
+      "level": ["A1"]
+    },
+    "late": {
+      "level": ["A1"],
+      "topics": ["Time A1"]
+    },
+    "little": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Success C2"]
+    },
+    "long-term": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "low": {
+      "level": ["A2", "B1", "B2"],
+      "topics": ["Houses and homes A2", "Games and toys B1"]
+    },
+    "many": {
+      "level": ["A1"]
+    },
+    "massive": {
+      "level": ["B2"]
+    },
+    "monthly": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "new": {
+      "level": ["A1"]
+    },
+    "official": {
+      "level": ["B1"]
+    },
+    "palatial": {
+      "level": ["C2"],
+      "topics": ["Buildings C2"]
+    },
+    "pending": {
+      "level": []
+    },
+    "personal": {
+      "level": ["A1", "A2", "B1"]
+    },
+    "positive": {
+      "level": ["A1", "A2", "B1", "B2"],
+      "topics": ["Opinion and argument A2", "Language A1", "Math and measurement B2", "Success B1", "Personal qualities B1", "Doubt, guessing and certainty B2"]
+    },
+    "precise": {
+      "level": ["B2", "C1"]
+    },
+    "probable": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2"]
+    },
+    "public": {
+      "level": ["A2", "B1"],
+      "topics": ["People in society A2"]
+    },
+    "real": {
+      "level": ["A1", "B1"]
+    },
+    "renewed": {
+      "level": []
+    },
+    "rough": {
+      "level": ["B1", "B2"],
+      "topics": ["Buildings B2", "Transport by water B2"]
+    },
+    "semi-annual": {
+        "level": []
+    },
+    "short-term": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "small": {
+      "level": ["A1", "A2"],
+      "topics": ["Feelings C2", "Time C2"]
+    },
+    "social": {
+      "level": ["A2", "B1"],
+      "topics": ["Social issues B1", "People in society B1"]
+    },
+    "sporting": {
+        "level": ["B2"]
+    },
+    "sure": {
+      "level": ["A1", "A2", "B1"],
+      "topics": ["Personal qualities A1", "Doubt, guessing and certainty A2", "Suggestions and advice C1", "Doubt, guessing and certainty B1", "Doubt, guessing and certainty C2"]
+    },
+    "systematic": {
+      "level": ["C1"]
+    },
+    "taxable": {
+      "level": ["C2"],
+      "topics": ["Money C2"]
+    },
+    "term-time": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    },
+    "thorough": {
+      "level": ["B2"]
+    },
+    "unconvinced": {
+      "level": ["B2"],
+      "topics": ["Doubt, guessing and certainty B2"]
+    },
+    "underway": {
+      "level": []
+    },
+    "unofficial": {
+      "level": []
+    },
+    "weekly": {
+        "level": ["B2"],
+        "topics": ["Time B2"]
+    }
+}

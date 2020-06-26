@@ -1,0 +1,86 @@
+{
+    "word": "rapidly",
+    "part": "adverb",
+    "transcription": "[ˈræpɪdli]",
+    "level": ["B2"],
+    "translation": ["быстро"],
+    "type": [],
+    "verbForms": {},
+    "meanings": [
+        {
+            "1": {
+                "en": "very quickly; at a great rate",
+                "ru": "очень быстро; с большим темпом"
+            }
+        }
+    ],
+    "adjectives": [
+        "growing"
+    ],
+    "phrases": [
+        "it rapidly became apparent that"
+    ],
+    "verbs": [
+        "change",
+        "develop",
+        "evolve",
+        "expand",
+        "increase",
+        "rise",
+        "spread"
+    ],
+    "examples": [
+        {
+            "en": "to <verb>increase</verb> rapidly",
+            "ru": "быстро увеличивать",
+            "meaning": 1,
+            "verb": "increase"
+        },
+        {
+            "en": "to <verb>spread</verb> rapidly",
+            "ru": "быстро распространять",
+            "meaning": 1,
+            "verb": "spread"
+        },
+        {
+            "en": "to <verb>expand</verb> rapidly",
+            "ru": "быстро расширять",
+            "meaning": 1,
+            "verb": "expand"
+        },
+        {
+            "en": "to <verb>change</verb> rapidly",
+            "ru": "быстро меняться",
+            "meaning": 1,
+            "verb": "change"
+        },
+        {
+            "en": "to <verb>develop</verb> rapidly",
+            "ru": "быстро развиваться",
+            "meaning": 1,
+            "verb": "develop"
+        },
+        {
+            "en": "to <verb>evolve</verb> rapidly",
+            "ru": "быстро развиваться",
+            "meaning": 1,
+            "verb": "evolve"
+        },
+        {
+            "en": "a rapidly <adj>growing</adj> economy",
+            "ru": "быстро растущая экономика",
+            "meaning": 1
+        },
+        {
+            "en": "Crime figures are <verb>rising</verb> rapidly.",
+            "ru": "Показатели преступности быстро растут.",
+            "meaning": 1,
+            "verb": "rise"
+        },
+        {
+            "en": "<phrase>It rapidly became apparent that</phrase> there were insufficient officers to maintain control.",
+            "ru": "Быстро стало очевидно, что не хватает офицеров для поддержания контроля.",
+            "meaning": 1
+        }
+    ]
+}
