@@ -180,6 +180,14 @@
       "level": ["B1"],
       "topics": ["Shopping B1", "Business B1", "Money B1"]
     },
+    "distribution": {
+      "level": ["B2"],
+      "topics": ["Business B2"]
+    },
+    "division": {
+      "level": ["B2"],
+      "topics": ["Biology B2", "Maths and measurement B2", "Opinion and argument B2", "Sports: ball and racket sports C2"]
+    },
     "doubt": {
       "level": ["B1", "B2"],
       "topics": ["Doubt, guessing and certainty B1", "Doubt, guessing and certainty B2", "Doubt, guessing and certainty C1", "Suggestions and advice C2"]
@@ -225,6 +233,10 @@
       "level": ["B2"],
       "topics": ["Opinion and argument B2"]
     },
+    "evaluation": {
+      "level": ["B2"],
+      "topics": ["Opinion and argument B2", "Scientific research B2"]
+    },
     "evidence": {
       "level": ["A2"],
       "topics": ["Scientific research A2", "Opinion and argument A2", "Crime and punishment A2", "Law and justice A2", "Opinion and argument C2"]
@@ -242,6 +254,10 @@
     "family": {
       "level": ["A1", "A2"],
       "topics": ["Family and relationships A1", "Life stages A1", "Animals A2"]
+    },
+    "feature": {
+      "level": ["A2", "B1"],
+      "topics": ["TV, radio and news C1", "Film and theatre C1"]
     },
     "fee": {
         "level": ["B2"]
@@ -364,6 +380,9 @@
         "level": ["B2"],
         "topics": ["Time B2"]
     },
+    "mix": {
+      "level": ["B1", "B2"]
+    },
     "murder": {
       "level": ["B1"],
       "topics": ["Crime and punishment B1"]
@@ -385,6 +404,10 @@
     },
     "owner": {
       "level": ["A2"]
+    },
+    "pace": {
+      "level": ["B2"],
+      "topics": ["Sports: other sports B2", "Maths and measurement C1"]
     },
     "parameter": {
       "level": ["C1"]
@@ -523,6 +546,10 @@
       "level": ["B2", "C1"],
       "topics": ["Doubt, guessing and certainty B2", "Opinion and argument B2"]
     },
+    "split": {
+      "level": ["B2"],
+      "topics": ["Opinion and argument B2"]
+    },
     "standard": {
       "level": ["B1", "B2"],
       "topics": ["Music C2"]
@@ -555,6 +582,10 @@
       "level": ["B1"],
       "topics": ["Politics B1"]
     },
+    "surface": {
+      "level": ["B1", "B2"],
+      "topics": ["Colours and Shapes B1", "Transport by car or lorry B1"]
+    },
     "survival": {
       "level": ["B2"],
       "topics": ["Biology C2"]
@@ -579,6 +610,18 @@
       "level": ["A2"],
       "topics": ["Scientific research A2", "Shopping A2"]
     },
+    "temperament": {
+      "level": ["C2"],
+      "topics": ["Personal qualities C2"]
+    },
+    "temperature": {
+      "level": ["A2"],
+      "topics": ["Weather A2", "Illness A2"]
+    },
+    "tenor": {
+      "level": ["C2"],
+      "topics": ["Music C2"]
+    },
     "term time": {
         "level": ["B2"],
         "topics": ["Time B2", "Education B2"]
@@ -590,6 +633,10 @@
     "time zone": {
         "level": ["B2"],
         "topics": ["Time B2"]
+    },
+    "tooth": {
+      "level": ["A1"],
+      "topics": ["Body A1", "Feelings C2", "Preferences and decisions C2"]
     },
     "trading": {
       "level": ["B2"],
@@ -613,6 +660,10 @@
     "village": {
       "level": ["A1"],
       "topics": ["Geography A1"]
+    },
+    "voice": {
+      "level": ["A2"],
+      "topics": ["Music A2", "Opinion and argument C1", "Language B2", "Language C1", "Opinion and argument C2"]
     },
     "welcome": {
       "level": ["A1"]

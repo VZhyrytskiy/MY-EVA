@@ -1,0 +1,257 @@
+{
+  "word": "even",
+  "part": "adjective",
+  "transcription": "[ˈiːvn]",
+  "level": ["B2"],
+  "translation": ["четный", "одинаковый", "равномерный"],
+  "topics": ["Business C2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "pronunciation changes by part of speech": false,
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "numbers that can be divided exactly by two",
+            "ru": "числа, которые можно разделить ровно на два",
+            "opposite": ["odd"]
+          },
+          "2": {
+            "en": "(of an amount of something) equal or the same for each person, team, place, etc.",
+            "ru": "(количества чего-либо) равного или одинакового для каждого человека, команды, места и т. д.",
+            "opposite": ["uneven"]
+          },
+          "3": {
+            "en": "(of two people or teams) equally balanced or of an equal standard",
+            "ru": "(из двух человек или команд) одинаково сбалансированы или одинакового стандарта",
+            "opposite": ["uneven"]
+          },
+          "4": {
+            "en": "not changing very much in amount, speed, etc.",
+            "ru": "не сильно меняются в количестве, скорости и т. д.",
+            "opposite": ["uneven"]
+          },
+          "5": {
+            "en": "​smooth, level and flat",
+            "ru": "Гладкий, ровный и плоский",
+            "opposite": ["uneven"]
+          },
+          "6": {
+            "en": "equally spaced and the same size",
+            "ru": "равномерно распределенные и одинакового размера",
+            "opposite": ["uneven"]
+          },
+          "7": {
+            "en": "​calm; not changing or becoming upset",
+            "ru": "успокаивать; не меняется или расстраивается"
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+    "absolutely",
+    "completely",
+    "fairly",
+    "more or less",
+    "pretty",
+    "very"
+  ],
+  "idioms": [
+    {
+      "phrase": "be even",
+      "explanation": "(informal) to no longer owe somebody money or a favour",
+      "translation": "(неформально) больше не должен кому-то денег или одолжения",
+      "examples": [
+        {
+          "en": "If I pay for the meals then <idiom>we’re even</idiom>.",
+          "ru": "Если я заплачу за еду, то мы равны."
+        }
+      ]
+    },
+    {
+      "phrase": "be/get even (with somebody)",
+      "explanation": "(informal) to cause somebody the same amount of trouble or harm as they have caused you",
+      "translation": "(неформально) причинить кому-либо столько же неприятностей или вреда, сколько они",
+      "examples": [
+        {
+          "en": "I'll <idiom>get even with you</idiom> for this, just you wait.",
+          "ru": "Я отомщу тебе, только подожди."
+        }
+      ]
+    },
+    {
+      "phrase": "break even",
+      "explanation": "​to complete a piece of business, etc. without either losing money or making a profit",
+      "translation": "завершить часть бизнеса и т. д. без потери денег или получения прибыли",
+      "examples": [
+        {
+          "en": "The company just about <idiom>broke even</idiom> last year.",
+          "ru": "Компания почти закрылась в прошлом году."
+        }
+      ]
+    },
+    {
+      "phrase": "have an even chance (of doing something)",
+      "explanation": "​to be equally likely to do or not do something",
+      "translation": "с одинаковой вероятностью делать или не делать что-то",
+      "examples": [
+        {
+          "en": "She <idiom>has more than an even chance of winning</idiom> tomorrow.",
+          "ru": "У нее больше, чем даже шанс, выиграть завтра."
+        },
+        {
+          "en": "<idiom>There’s an even chance</idiom> that the jury will find him guilty.",
+          "ru": "Есть даже шанс, что присяжные признают его виновным."
+        }
+      ]
+    },
+    {
+      "phrase": "the honours are even",
+      "explanation": "​​no particular person, team, etc. is doing better than the others in a competition, an argument, etc.",
+      "translation": "Ни один конкретный человек, команда и т. д. не делают лучше, чем другие в соревнованиях, спорах и т. Д.",
+      "examples": []
+    },
+    {
+      "phrase": "on an even keel",
+      "explanation": "​​living, working or happening in a calm way, with no sudden changes, especially after a difficult time",
+      "translation": "Жить, работать или происходить спокойно, без резких изменений, особенно после трудного времени",
+      "examples": [
+        {
+          "en": "Business is now back <idiom>on an even keel</idiom> after the strike.",
+          "ru": "После забастовки бизнес вернулся к равновесию."
+        },
+        {
+          "en": "Setting her life back <idiom>on an even keel</idiom> after their break-up had been incredibly difficult.",
+          "ru": "Привести ее жизнь в порядок после их распада было невероятно сложно."
+        }
+      ]
+    }
+  ],
+  "nouns": [
+    "distribution",
+    "division",
+    "feature",
+    "mix",
+    "number",
+    "pace",
+    "split",
+    "surface",
+    "temperament",
+    "temperature",
+    "tenor",
+    "tooth",
+    "voice"
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "keep something even"
+  ],
+  "prepositions": [
+  ],
+  "verbs": [
+    "be",
+    "become",
+    "look",
+    "remain",
+    "seem"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "4, 6, 8 and 10 are all even <noun>numbers</noun>.",
+          "ru": "4, 6, 8 и 10 - четные числа.",
+          "meaning": 1
+      },
+      {
+          "en": "Our scores are now even.",
+          "ru": "Наши оценки теперь равны.",
+          "meaning": 2
+      },
+      {
+          "en": "the even <noun>distribution</noun> of food",
+          "ru": "равномерное распределение еды",
+          "meaning": 2
+      },
+      {
+          "en": "There is a more even <noun>division</noun> in the contest for the deputy leadership.",
+          "ru": "В конкурсе на депутатское руководство существует более равномерное разделение.",
+          "meaning": 2
+      },
+      {
+          "en": "There was an even <noun>split</noun> between male and female students.",
+          "ru": "Был даже раскол между студентами мужского и женского пола.",
+          "meaning": 2
+      },
+      {
+          "en": "The agency's 35 000 employees are an even <noun>mix</noun> of military and civilians.",
+          "ru": "35 000 сотрудников агентства - это равномерное сочетание военных и гражданских лиц.",
+          "meaning": 2
+      },
+      {
+          "en": "The two players were <adv>pretty</adv> even.",
+          "ru": "Два игрока были довольно похожи.",
+          "meaning": 3
+      },
+      {
+          "en": "Until then the match looked <adv>fairly</adv> even.",
+          "ru": "До тех пор матч выглядел довольно равномерно.",
+          "meaning": 3
+      },
+      {
+          "en": "Children do not learn at an even <noun>pace</noun>.",
+          "ru": "Дети не учатся равномерно.",
+          "meaning": 4
+      },
+      {
+          "en": "Try to keep your baby's room at an even <noun>temperature</noun>.",
+          "ru": "Постарайтесь, чтобы в комнате вашего ребенка была ровная температура.",
+          "meaning": 4
+      },
+      {
+          "en": "You need an even <noun>surface</noun> to work on.",
+          "ru": "Вам нужна ровная поверхность для работы.",
+          "meaning": 5
+      },
+      {
+          "en": "The floor isn't <adv>completely</adv> even.",
+          "ru": "Пол не совсем ровный.",
+          "meaning": 5
+      },
+      {
+          "en": "Try to keep your stitches <adv>absolutely</adv> even.",
+          "ru": "Старайтесь, чтобы ваши швы были абсолютно ровными.",
+          "meaning": 6
+      },
+      {
+          "en": "She has a very even <noun>temperament</noun>.",
+          "ru": "У нее очень ровный характер.",
+          "meaning": 7
+      },
+      {
+          "en": "He spoke in a steady, even <noun>voice</noun>.",
+          "ru": "Он говорил спокойным, ровным голосом.",
+          "meaning": 7
+      },
+      {
+          "en": "Nothing disturbed the even <noun>tenor</noun> of our life.",
+          "ru": "Ничто не мешало ровному течению нашей жизни.",
+          "meaning": 7
+      }
+  ]
+}

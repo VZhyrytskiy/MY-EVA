@@ -1,4 +1,8 @@
 {
+  "absolutely": {
+    "level": ["B1"],
+    "topics": ["Opinion and argument B1"]
+  },
   "afterwards": {
     "level": ["B2"],
     "topics": ["Time B2"]
@@ -11,6 +15,9 @@
     "level": ["A2"]
   },
   "clearly": {
+    "level": ["A2"]
+  },
+  "completely": {
     "level": ["A2"]
   },
   "conclusively": {
@@ -109,6 +116,9 @@
     "level": ["B2"],
     "topics": ["Time B2"]
   },
+  "more or less": {
+    "level": ["B2"]
+  },
   "much": {
     "level": ["A1"]
   },
@@ -139,6 +149,9 @@
   },
   "practically": {
     "level": []
+  },
+  "pretty": {
+    "level": ["A1"]
   },
   "properly": {
     "level": ["B1"]

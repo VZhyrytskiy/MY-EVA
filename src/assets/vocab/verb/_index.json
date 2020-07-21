@@ -277,6 +277,9 @@
   "recover": {
     "level": ["B2"]
   },
+  "remain": {
+    "level": ["B1", "B2"]
+  },
   "revise": {
     "level": ["B1"],
     "topics": ["Opinion and argument B1", "Education B1"]
@@ -287,6 +290,9 @@
   "seek": {
     "level": ["B2"],
     "topics": ["Success B2"]
+  },
+  "seem": {
+    "level": ["A2", "B2"]
   },
   "send": {
     "level": ["A1"],

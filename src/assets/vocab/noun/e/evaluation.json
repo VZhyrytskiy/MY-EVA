@@ -1,0 +1,66 @@
+{
+  "word": "evaluation",
+  "part": "noun",
+  "transcription": "[ɪˌvæljuˈeɪʃn]",
+  "level": ["B2"],
+  "translation": ["оценка"],
+  "topics": [" Opinion and argument B2", "Scientific research B2"],
+  "type": ["countable", "uncountable"],
+  "plural": ["evaluations"],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "pronunciation changes by part of speech": false,
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "​the act of forming an opinion of the amount, value or quality of something after thinking about it carefully",
+            "ru": "акт формирования мнения о количестве, ценности или качестве чего-либо после тщательного обдумывания",
+            "seeAlso": ["re-evaluation"]
+          }
+      }
+  ],
+  "adjectives": [
+    "further",
+    "critical"
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+  ],
+  "prepositions": [
+  ],
+  "verbs": [
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "The technique is not widely practised and requires <adj>further</adj> evaluation.",
+          "ru": "Техника широко не практикуется и требует дальнейшей оценки.",
+          "meaning": 1
+      },
+      {
+          "en": "The discussion includes a <adj>critical</adj> evaluation of the documentary sources.",
+          "ru": "Обсуждение включает в себя критическую оценку документальных источников.",
+          "meaning": 1
+      }
+  ]
+}

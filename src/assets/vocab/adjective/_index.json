@@ -50,6 +50,10 @@
       "level": ["B2"],
       "topics": ["Doubt, guessing and certainty B2"]
     },
+    "critical": {
+      "level": ["B2"],
+      "topics": ["Danger B2"]
+    },
     "current": {
       "level": ["B1"]
     },
@@ -80,6 +84,10 @@
     "ethical": {
       "level": ["B2"],
       "topics": ["Personal qualities B2"]
+    },
+    "even": {
+      "level": ["B2", "C2"],
+      "topics": ["Business C2"]
     },
     "exhaustive": {
       "level": []
