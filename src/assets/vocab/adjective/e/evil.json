@@ -1,0 +1,164 @@
+{
+  "word": "evil",
+  "part": "adjective",
+  "transcription": "[ˈiːvl]",
+  "level": ["B2"],
+  "translation": ["злонамеренный", "зловещий", "злостный", "злой", "зловонный"],
+  "topics": ["Personal qualities B2", "Religion and festivals B2"],
+  "type": [],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "pronunciation changes by part of speech": false,
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "(of people) enjoying harming others; morally bad and cruel",
+            "ru": "(люди) наслаждающиеся вредом другим; морально плохо и жестоко"
+          },
+          "2": {
+            "en": "having a harmful effect on people; morally bad",
+            "ru": "оказывает вредное воздействие на людей; морально плохо"
+          },
+          "3": {
+            "en": "connected with the devil and with what is bad in the world",
+            "ru": "связано с дьяволом и с тем, что плохо в мире"
+          },
+          "4": {
+            "en": "extremely unpleasant",
+            "ru": "крайне неприятно"
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+    "particularly",
+    "really",
+    "truly"
+  ],
+  "idioms": [
+    {
+      "phrase": "the evil hour/day",
+      "explanation": "(often humorous) the time when you have to do something difficult or unpleasant",
+      "translation": "(часто с юмором) время, когда нужно делать что-то сложное или неприятное",
+      "examples": [
+        {
+          "en": "I'd better go and see the dentist — I can't put off the <idiom>evil hour</idiom> any longer.",
+          "ru": "Я лучше пойду к стоматологу - я больше не могу откладывать злой час."
+        },
+        {
+          "en": "If you keep on borrowing, you are only postponing the <idiom>evil day</idiom> when you have to pay it all back.",
+          "ru": "Если вы продолжаете брать взаймы, вы откладываете только тот злой день, когда вам нужно все вернуть."
+        }
+      ]
+    },
+    {
+      "phrase": "somebody's good/evil genius",
+      "explanation": "(especially British English) a person or spirit who is thought to have a good/bad influence over you",
+      "translation": "(особенно британский английский) человек или дух, который, как считается, оказывает на вас хорошее / плохое влияние",
+      "examples": []
+    },
+    {
+      "phrase": "a witch's/an evil brew",
+      "explanation": "(British English, informal) an unpleasant drink that is a mixture of different things",
+      "translation": "(Британский английский, неофициальный) неприятный напиток, представляющий собой смесь разных вещей",
+      "examples": []
+    }
+  ],
+  "nouns": [
+    "deed",
+    "demon",
+    "dictator",
+    "effect",
+    "empire",
+    "genius",
+    "grin",
+    "intent",
+    "intention",
+    "laugh",
+    "man",
+    "smell",
+    "smile",
+    "spirit"
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+  ],
+  "prepositions": [
+  ],
+  "verbs": [
+    "be",
+    "look",
+    "seem"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "Police described the killer as ‘a desperate and evil <noun>man</noun>’.",
+          "ru": "Полиция описала убийцу как 'отчаянного и злого человека'.",
+          "meaning": 1
+      },
+      {
+          "en": "President Reagan referred to the Soviet Union as the 'evil <noun>empire</noun>'.",
+          "ru": "Президент Рейган назвал Советский Союз 'империей зла'.",
+          "meaning": 1
+      },
+      {
+          "en": "Her face was full of evil <noun>intent</noun>.",
+          "ru": "Ее лицо было полно злых намерений.",
+          "meaning": 1
+      },
+      {
+          "en": "Kristin smiled a <adv>particularly</adv> evil <noun>smile</noun>.",
+          "ru": "Кристин улыбнулась особенно злой улыбкой."
+      },
+      {
+          "en": "He gave an evil <noun>laugh</noun>.",
+          "ru": "Он злобно рассмеялся.",
+          "meaning": 1
+      },
+      {
+          "en": "A broad smile hid his evil <noun>intentions</noun>.",
+          "ru": "Широкая улыбка скрывала его злые намерения.",
+          "meaning": 1,
+          "noun": "intention"
+      },
+      {
+          "en": "In his speech he described the evil <noun>effects</noun> of racism.",
+          "ru": "В своей речи он описал злые последствия расизма.",
+          "meaning": 2,
+          "noun": "effect"
+      },
+      {
+          "en": "It was an ancient charm to ward off evil <noun>spirits</noun>.",
+          "ru": "Это был древний шарм, чтобы отогнать злых духов.",
+          "meaning": 3,
+          "noun": "spirit"
+      },
+      {
+          "en": "She had been deceived by an evil <noun>demon</noun>.",
+          "ru": "Она была обманута злым демоном.",
+          "meaning": 3
+      },
+      {
+          "en": "The rubbish bin was giving off an evil <noun>smell</noun>.",
+          "ru": "Мусорное ведро испускало зловонный запах.",
+          "meaning": 4
+      }
+  ]
+}

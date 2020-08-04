@@ -160,13 +160,24 @@
       "level": ["A2", "B2"],
       "topics": ["Games and toys C2", "Crime and punishment B2"]
     },
+    "deed": {
+      "level": ["C1"],
+      "topics": ["Law and justice C2", "Houses and homes C2"]
+    },
     "definite": {
       "level": ["B2"],
       "topics": ["Doubt, guessing and certainty B2"]
     },
+    "demon": {
+      "level": ["C1"]
+    },
     "desk": {
       "level": ["A1"],
       "topics": ["Working life A1", "Education A1", "Houses and homes A1", "Holidays A1"]
+    },
+    "dictator": {
+      "level": ["C1"],
+      "topics": ["Politics C1"]
     },
     "dictatorship": {
       "level": ["C1"],
@@ -210,6 +221,10 @@
     "empire": {
       "level": ["B2", "C1"],
       "topics": ["History B2", "Business C1"]
+    },
+    "enjoyment": {
+      "level": ["B2"],
+      "topics": ["Feelings B2"]
     },
     "enquiry": {
       "level": ["B2"]
@@ -281,9 +296,17 @@
       "level": ["B1"],
       "topics": ["People in society B1", "History B1", "Family and relationships B1", "The environment B2"]
     },
+    "genius": {
+      "level": ["B2"],
+      "topics": ["Personal qualities B2"]
+    },
     "government": {
       "level": ["A2", "B1"],
       "topics": ["Politics A2", "Politics B1"]
+    },
+    "grin": {
+      "level": ["C1"],
+      "topics": ["Appearance C1"]
     },
     "ground": {
       "level": ["A2", "B1", "B2"],
@@ -326,6 +349,12 @@
       "level": ["A2"],
       "topics": ["Business A2", "Working life A2"]
     },
+    "intent": {
+      "level": ["C1"]
+    },
+    "intention": {
+      "level": ["B1"]
+    },
     "internet": {
       "level": ["A1"],
       "topics": ["Phones, email and the internet A1", "Shopping A1"]
@@ -344,6 +373,10 @@
     },
     "land": {
       "level": ["A1"]
+    },
+    "laugh": {
+      "level": ["A1"],
+      "topics": ["Feelings A1", "Success C2"]
     },
     "league": {
       "level": ["B2"],
@@ -371,6 +404,10 @@
     "local time": {
         "level": ["B2"],
         "topics": ["Time B2"]
+    },
+    "man": {
+      "level": ["A1", "B1"],
+      "topics": ["Life stages A1", "People in society A1", "Personal qualities C1", "Discussion and agreement C2", "Opinion and argument C2", "Danger C2", "Success C2"]
     },
     "manager": {
       "level": ["A2"],
@@ -542,9 +579,20 @@
       "level": ["C1"],
       "topics": ["Discussion and agreement C1", "Social issues C1", "Family and relationships C2", "Law and justice C2"]
     },
+    "smell": {
+      "level": ["A2"]
+    },
+    "smile": {
+      "level": ["A2"],
+      "topics": ["Feelings A2", "Appearance A2", "Feelings C2"]
+    },
     "speculation": {
       "level": ["B2", "C1"],
       "topics": ["Doubt, guessing and certainty B2", "Opinion and argument B2"]
+    },
+    "spirit": {
+      "level": ["B1", "B2"],
+      "topics": ["Personal qualities B2", "Religion and festivals B2", "Drinks B2"]
     },
     "split": {
       "level": ["B2"],

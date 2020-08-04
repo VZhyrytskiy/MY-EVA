@@ -1,0 +1,140 @@
+{
+  "word": "evident",
+  "part": "adjective",
+  "transcription": "[ˈevɪdənt]",
+  "level": ["B2"],
+  "translation": ["очевидный", "явный", "ясный", "наглядный", "налицо"],
+  "topics": [],
+  "type": [],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "pronunciation changes by part of speech": false,
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "(rather formal) easy to see or understand",
+            "ru": "(довольно формально) легко увидеть или понять",
+            "synonym": ["obvious", "clear", "apparent", "plain"],
+            "seeAlso": ["self-evident"]
+          }
+      }
+  ],
+  "adjectives": [
+  ],
+  "adverbs": [
+    "abundantly",
+    "already",
+    "clearly",
+    "equally",
+    "extremely",
+    "fairly",
+    "less",
+    "painfully",
+    "perfectly",
+    "quite",
+    "very"
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+    "enjoyment"
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+    "evident (to somebody) (that...)",
+    "evident in/from something",
+    "evident that/what/who/how/where/why...",
+    "to make something evident"
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+  ],
+  "prepositions": [
+    "from",
+    "in",
+    "on",
+    "to"
+  ],
+  "verbs": [
+    "appear",
+    "be",
+    "become",
+    "seem"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "The orchestra played with evident <noun>enjoyment</noun>.",
+          "ru": "Оркестр играл с явным удовольствием.",
+          "meaning": 1
+      },
+      {
+          "en": "It has now <verb>become</verb> <pattern>evident <prep>to</prep> us that</pattern> a mistake has been made.",
+          "ru": "Теперь нам стало очевидно, что была допущена ошибка.",
+          "meaning": 1,
+          "pattern": "evident (to somebody) (that...)"
+      },
+      {
+          "en": "The growing interest in history <verb>is</verb> <adv>clearly</adv> <pattern>evident <prep>in</prep> the number of people</pattern> visiting museums and country houses.",
+          "ru": "Растущий интерес к истории отчетливо проявляется в количестве людей, посещающих музеи и загородные дома.",
+          "meaning": 1,
+          "pattern": "evident in/from something",
+          "verb": "be"
+      },
+      {
+          "en": "The commitment to local products <verb>is</verb> <adv>equally</adv> evident <prep>on</prep> the restaurant's wine list.",
+          "ru": "Приверженность местным продуктам также очевидна в винной карте ресторана.",
+          "meaning": 1,
+          "verb": "be"
+      },
+      {
+          "en": "<pattern>The silence of the forest was made evident</pattern> by the occasional snap of a twig.",
+          "ru": "Тишина леса стала очевидной из-за случайного щелчка ветки.",
+          "meaning": 1,
+          "pattern": "to make something evident"
+      },
+      {
+          "en": "The strain of her work schedule <verb>became</verb> <adv>painfully</adv> evident as she jetted from New York to London and on to Milan.",
+          "ru": "Напряжение ее рабочего графика стало болезненно очевидным, когда она вылетела из Нью-Йорка в Лондон и в Милан.",
+          "meaning": 1,
+          "verb": "become"
+      },
+      {
+          "en": "Their symptoms may <verb>be</verb> <adv>less</adv> evident <prep>to</prep> their caregivers.",
+          "ru": "Их симптомы могут быть менее очевидными для тех, кто за ними ухаживает.",
+          "meaning": 1
+      },
+      {
+          "en": "It <verb>is</verb> <adv>already</adv> <pattern>evident that</pattern> new roads only generate new traffic.",
+          "ru": "Уже очевидно, что новые дороги только генерируют новое движение.",
+          "meaning": 1,
+          "pattern":  "evident that/what/who/how/where/why...",
+          "verb": "be"
+      },
+      {
+          "en": "It <verb>was</verb> <adv>fairly</adv> <pattern>evident <prep>from</prep> her tone of voice</pattern> that she disapproved.",
+          "ru": "По ее тону было совершенно очевидно, что она не одобряет.",
+          "meaning": 1,
+          "pattern":"evident in/from something",
+          "verb": "be"
+      },
+      {
+          "en": "Those characteristics <verb>are</verb> <adv>abundantly</adv> evident <prep>in</prep> Webster's essay.",
+          "ru": "Эти характеристики совершенно очевидны в эссе Вебстера.",
+          "meaning": 1,
+          "verb": "be"
+      }
+  ]
+}

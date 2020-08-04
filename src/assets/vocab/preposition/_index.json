@@ -51,6 +51,9 @@
     "out": {
         "level": ["A1", "B1", "B2"]
     },
+    "to": {
+      "level": ["A1", "B1"]
+    },
     "with": {
       "level": ["A1", "A2", "B1"],
       "topics": ["Discussion and agreement C2"]

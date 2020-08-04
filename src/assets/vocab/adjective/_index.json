@@ -89,6 +89,13 @@
       "level": ["B2", "C2"],
       "topics": ["Business C2"]
     },
+    "evident": {
+      "level": ["B2"]
+    },
+    "evil": {
+      "level": ["B2"],
+      "topics": ["Personal qualities B2", "Religion and festivals B2"]
+    },
     "exhaustive": {
       "level": []
     },

@@ -16,6 +16,10 @@
     "level": ["B1", "B2"],
     "topics": ["Success B1"]
   },
+  "appear": {
+    "level": ["A2", "B1"],
+    "topics": ["TV, radio and news B2", "Film and theatre B2"]
+  },
   "arise": {
     "level": ["B2"],
     "topics": ["Change, cause and effect B2", "Social issues C2"]

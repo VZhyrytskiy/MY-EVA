@@ -3,9 +3,15 @@
     "level": ["B1"],
     "topics": ["Opinion and argument B1"]
   },
+  "abundantly": {
+    "level": []
+  },
   "afterwards": {
     "level": ["B2"],
     "topics": ["Time B2"]
+  },
+  "already": {
+    "level": ["A2", "B1"]
   },
   "annually": {
     "level": ["B2"],
@@ -52,6 +58,9 @@
   },
   "entirely": {
     "level": ["B2"]
+  },
+  "equally": {
+    "level": ["B1"]
   },
   "eventually": {
     "level": ["B1"]
@@ -112,6 +121,9 @@
     "level": ["A1", "B2"],
     "topics": ["Time B2"]
   },
+  "less": {
+    "level": ["A2", "B2"]
+  },
   "monthly": {
     "level": ["B2"],
     "topics": ["Time B2"]
@@ -140,7 +152,14 @@
   "originally": {
     "level": ["B1"]
   },
+  "painfully": {
+    "level": ["B1"],
+    "topics": ["Illness B1"]
+  },
   "particularly": {
+    "level": ["B1"]
+  },
+  "perfectly": {
     "level": ["B1"]
   },
   "positively": {
@@ -165,6 +184,10 @@
   },
   "rapidly": {
     "level": ["B2"]
+  },
+  "really": {
+    "level": ["A1"],
+    "topics": ["Opinion and argument A1"]
   },
   "regularly": {
     "level": ["B1", "B2"]
@@ -199,6 +222,9 @@
   },
   "suddenly": {
     "level": ["A2"]
+  },
+  "trully": {
+    "level": ["B2"]
   },
   "very": {
     "level": ["A1", "B2"]
