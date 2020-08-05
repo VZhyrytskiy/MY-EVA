@@ -109,7 +109,7 @@
   ],
   "examples": [
       {
-          "en": "Police described the killer as ‘a desperate and evil <noun>man</noun>’.",
+          "en": "Police described the killer as 'a desperate and evil <noun>man</noun>'.",
           "ru": "Полиция описала убийцу как 'отчаянного и злого человека'.",
           "meaning": 1
       },
@@ -125,7 +125,8 @@
       },
       {
           "en": "Kristin smiled a <adv>particularly</adv> evil <noun>smile</noun>.",
-          "ru": "Кристин улыбнулась особенно злой улыбкой."
+          "ru": "Кристин улыбнулась особенно злой улыбкой.",
+          "meaning": 1
       },
       {
           "en": "He gave an evil <noun>laugh</noun>.",

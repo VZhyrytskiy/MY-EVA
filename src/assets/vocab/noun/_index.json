@@ -44,6 +44,10 @@
     "basis": {
         "level": ["B1", "B2"]
     },
+    "battle": {
+      "level": ["B1"],
+      "topics": ["History B1", "War and conflict B1", "Opinion and argument B1", "Success B1", "Difficulty and failure B1", "Opinion and argument C2", "Difficulty and failure C2"]
+    },
     "body": {
       "level": ["A1", "B2"],
       "topics": ["Body A1", "Crime and punishment A1", "Transport by car or lorry B2", "Appearance C2", "Clothes and Fashion C2"]
@@ -256,6 +260,10 @@
       "level": ["A2"],
       "topics": ["Scientific research A2", "Opinion and argument A2", "Crime and punishment A2", "Law and justice A2", "Opinion and argument C2"]
     },
+    "evil": {
+      "level": ["B2"],
+      "topics": ["Preferences and decisions С2"]
+    },
     "experience": {
         "level": ["A2", "B2"]
     },
@@ -276,6 +284,10 @@
     },
     "fee": {
         "level": ["B2"]
+    },
+    "fight": {
+      "level": ["A2", "B1"],
+      "topics": ["Opinion and argument B1", "Success B1", "Sports: other sports A2", "Opinion and argument C2", "Illness C1", "Difficulty and failure C2"]
     },
     "forecast": {
       "level": ["B2"],
@@ -610,6 +622,10 @@
       "level": ["B2"],
       "topics": ["People in society B2"]
     },
+    "struggle": {
+      "level": ["B2"],
+      "topics": ["Difficulty and failure B2", "Opinion and argument B2"]
+    },
     "study": {
       "level": ["A1", "A2", "B1"],
       "topics": ["Education A1", "Scientific research B1", "Art C2", "Music C2"]
@@ -712,6 +728,10 @@
     "voice": {
       "level": ["A2"],
       "topics": ["Music A2", "Opinion and argument C1", "Language B2", "Language C1", "Opinion and argument C2"]
+    },
+    "war": {
+      "level": ["A2"],
+      "topics": ["War and conflict A2", "Opinion and argument C2"]
     },
     "welcome": {
       "level": ["A1"]

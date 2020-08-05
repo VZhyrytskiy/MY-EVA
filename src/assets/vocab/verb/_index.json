@@ -65,6 +65,14 @@
   "change": {
     "level": ["A1", "A2"]
   },
+  "combat": {
+    "level": ["C1"],
+    "topics": ["War and conflict C1"]
+  },
+  "commit": {
+    "level": ["B1"],
+    "topics": ["Crime and punishment B1", " Discussion and agreement B1", "Preferences and decisions C1", "Opinion and argument C1", "Crime and punishment C1", "Education C2"]
+  },
   "conduct": {
     "level": ["B2"],
     "topics": ["Scientific research B2", "Music B2", "Engineering C1"]
@@ -87,6 +95,10 @@
   "decrease": {
     "level": ["B2"]
   },
+  "defeat": {
+    "level": ["B2"],
+    "topics": ["War and conflict B2", "Sports: other sports B2", "Difficulty and failure B2"]
+  },
   "demonstrate": {
     "level": ["B2"],
     "topics": ["Social issues B2"]
@@ -100,7 +112,10 @@
   "discover": {
     "level": ["A2"]
   },
-
+  "do": {
+    "level": ["A1", "A2", "B1", "B2"],
+    "topics": ["Success A1"]
+  },
   "elect": {
     "level": ["B2"]
   },
@@ -157,6 +172,10 @@
   "feel": {
     "level": ["A1", "A2", "B1"],
     "topics": ["Feelings A1", "Opinion and argument A2", "Feelings C2", "Permission and obligation C1", "Doubt, guessing and certainty C2", "Permission and obligation C2"]
+  },
+  "fight": {
+    "level": ["A2", "B1"],
+    "topics": ["Opinion and argument B1", "Success B1", "Sports: other sports A2", "Opinion and argument C2", "Illness C1", "Difficulty and failure C2"]
   },
   "fire": {
     "level": ["B1"],
@@ -283,6 +302,9 @@
   },
   "remain": {
     "level": ["B1", "B2"]
+  },
+  "resist": {
+    "level": ["B2"]
   },
   "revise": {
     "level": ["B1"],

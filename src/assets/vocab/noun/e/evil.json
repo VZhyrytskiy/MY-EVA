@@ -1,0 +1,158 @@
+{
+  "word": "evil",
+  "part": "noun",
+  "transcription": "[ˈiːvl]",
+  "level": ["B2"],
+  "translation": ["зло", "вред", "грех", "несчастье", "изъян", "порок"],
+  "topics": ["Preferences and decisions С2"],
+  "type": ["countable", "uncountable"],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "pronunciation changes by part of speech": false,
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "[uncountable] a force that causes bad things to happen; morally bad behaviour",
+            "ru": "[неисчисляемое] сила, которая вызывает плохие вещи; морально плохое поведение",
+            "opposite": ["good"]
+          },
+          "2": {
+            "en": "​[countable, usually plural] a bad or harmful thing; the bad effect of something",
+            "ru": "[исчисляемое, обычно множественное число] плохая или вредная вещь; плохой эффект чего-то"
+          }
+      }
+  ],
+  "adjectives": [
+    "absolute",
+    "great",
+    "intrinsic",
+    "more",
+    "necessary",
+    "pure",
+    "social"
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+    {
+      "phrase": "the lesser of two evils | the lesser evil",
+      "explanation": "the less unpleasant of two unpleasant choices",
+      "translation": "менее неприятный из двух неприятных вариантов",
+      "examples": []
+    },
+    {
+      "phrase": "a necessary evil",
+      "explanation": "a thing that is bad or that you do not like but that you must accept for a particular reason",
+      "translation": "вещь, которая плохая или что вам не нравится, но которую вы должны принять по определенной причине",
+      "examples": [
+        {
+          "en": "The loss of jobs is regarded as a necessary evil in the fight against inflation.",
+          "ru": "Потеря работы рассматривается как неизбежное зло в борьбе с инфляцией."
+        }
+      ]
+    }
+  ],
+  "nouns": [
+    "battle",
+    "fight",
+    "struggle",
+    "war"
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "a necessary evil",
+    "good and evil",
+    "the evils of alcohol",
+    "the evils of drugs",
+    "the forces of evil"
+  ],
+  "prepositions": [
+    "against"
+  ],
+  "verbs": [
+    "combat",
+    "commit",
+    "defeat",
+    "do",
+    "fight",
+    "resist"
+  ],
+  "+verbs": [
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "The eternal struggle between <phrase>good and evil</phrase>",
+          "ru": "Вечная борьба между добром и злом",
+          "meaning": 1
+      },
+      {
+          "en": "He believed he could rid the world of <phrase>the forces of evil</phrase>.",
+          "ru": "Он верил, что сможет избавить мир от сил зла.",
+          "meaning": 1
+      },
+      {
+          "en": "He was a good man who was forced to <verb>do</verb> evil.",
+          "ru": "Он был хорошим человеком, которого заставляли делать зло.",
+          "meaning": 1
+      },
+      {
+          "en": "You cannot pretend there's no evil in the world.",
+          "ru": "Вы не можете притворяться, что в мире нет зла.",
+          "meaning": 1
+      },
+      {
+          "en": "He sees money as the root of all evil.",
+          "ru": "Он видит в деньгах корень всех зол.",
+          "meaning": 1
+      },
+      {
+          "en": "His simple message was that God will punish those that <verb>do</verb> evil.",
+          "ru": "Его простое послание заключалось в том, что Бог накажет тех, кто творит зло.",
+          "meaning": 1
+      },
+      {
+          "en": "You can always choose to <verb>resist</verb> evil.",
+          "ru": "Вы всегда можете выбрать сопротивление злу.",
+          "meaning": 1
+      },
+      {
+          "en": "a duty to <verb>defeat</verb> the evil of terrorism",
+          "ru": "долг победить зло терроризма",
+          "meaning": 1
+      },
+      {
+          "en": "the <adj>intrinsic</adj> evil of taking a human life",
+          "ru": "внутреннее зло лишить человека жизни",
+          "meaning": 1
+      },
+      {
+          "en": "the <adj>pure</adj> evil in his soul",
+          "ru": "чистое зло в его душе",
+          "meaning": 1
+      },
+      {
+          "en": "Humans have the capacity to <verb>do</verb> <adj>more</adj> evil than any other species on earth.",
+          "ru": "Люди способны творить больше зла, чем любой другой вид на Земле.",
+          "meaning": 1
+      },
+      {
+          "en": "They hardly mentioned such <adj>social</adj> evils as racism and sexism.",
+          "ru": "Они почти не упоминали такие социальные пороки, как расизм и сексизм.",
+          "meaning": 2
+      }
+  ]
+}

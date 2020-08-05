@@ -7,6 +7,10 @@
       "level": ["A2", "B2"],
       "topics": ["Opinion and argument A2", "Opinion and argument B2"]
     },
+    "against": {
+      "level": ["A2"],
+      "topics": ["Opinion and argument A2", "Difficulty and failure C2"]
+    },
     "as": {
       "level": ["A1"]
     },

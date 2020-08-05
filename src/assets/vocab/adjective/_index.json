@@ -2,6 +2,10 @@
     "absent": {
       "level": ["C1"]
     },
+    "absolute": {
+      "level": ["B2"],
+      "topics": ["Preferences and decisions C2"]
+    },
     "abstract": {
       "level": ["B2"],
       "topics": ["Art B2"]
@@ -173,6 +177,9 @@
       "level": ["B2", "C1"],
       "topics": ["Working life B2"]
     },
+    "intrinsic": {
+      "level": []
+    },
     "justified": {
       "level": []
     },
@@ -208,6 +215,13 @@
         "level": ["B2"],
         "topics": ["Time B2"]
     },
+    "more": {
+      "level": ["A1", "B1"]
+    },
+    "necessary": {
+      "level": ["A2", "B2"],
+      "topics": ["Permission and obligation B2"]
+    },
     "new": {
       "level": ["A1"]
     },
@@ -238,6 +252,9 @@
     "public": {
       "level": ["A2", "B1"],
       "topics": ["People in society A2"]
+    },
+    "pure": {
+      "level": ["B2"]
     },
     "real": {
       "level": ["A1", "B1"]
