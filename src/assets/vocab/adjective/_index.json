@@ -58,6 +58,9 @@
       "level": ["B2"],
       "topics": ["Danger B2"]
     },
+    "cultural": {
+      "level": ["B1"]
+    },
     "current": {
       "level": ["B1"]
     },
@@ -74,6 +77,10 @@
     },
     "direct": {
       "level": ["A2", "B1"]
+    },
+    "early": {
+      "level": ["A1"],
+      "topics": ["Time A1", "Doubt, guessing and certainty C2"]
     },
     "enormous": {
       "level": ["A2"]
@@ -129,6 +136,9 @@
       "level": ["A1"],
       "topics": ["Weather A1", "Personal qualities A1", "Health and Fitness A1"]
     },
+    "gradual": {
+      "level": []
+    },
     "great": {
       "level": ["A1", "A2", "B1"],
       "topics": ["Success C2", "Opinion and argument C2"]
@@ -151,6 +161,10 @@
     "huge": {
       "level": ["A2"],
       "topics": ["Success C2"]
+    },
+    "ideological": {
+      "level": ["C1"],
+      "topics": ["Politics C1"]
     },
     "immense": {
       "level": ["C1"]
@@ -228,6 +242,10 @@
     "official": {
       "level": ["B1"]
     },
+    "organic": {
+      "level": ["B2", "C1"],
+      "topics": ["Farming B2", "Cooking and eating B2", "Biology С1", "Physics and chemistry C1"]
+    },
     "palatial": {
       "level": ["C2"],
       "topics": ["Buildings C2"]
@@ -256,6 +274,9 @@
     "pure": {
       "level": ["B2"]
     },
+    "rapid": {
+      "level": ["B2"]
+    },
     "real": {
       "level": ["A1", "B1"]
     },
@@ -272,6 +293,10 @@
     "short-term": {
         "level": ["B2"],
         "topics": ["Time B2"]
+    },
+    "slow": {
+      "level": ["A1", "A2"],
+      "topics": ["Personal qualities B1"]
     },
     "small": {
       "level": ["A1", "A2"],

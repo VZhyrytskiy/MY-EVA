@@ -58,6 +58,12 @@
     "to": {
       "level": ["A1", "B1"]
     },
+    "toward": {
+      "level": ["A2"]
+    },
+    "towards": {
+      "level": ["A2"]
+    },
     "with": {
       "level": ["A1", "A2", "B1"],
       "topics": ["Discussion and agreement C2"]

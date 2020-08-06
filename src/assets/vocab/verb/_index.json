@@ -116,6 +116,10 @@
     "level": ["A1", "A2", "B1", "B2"],
     "topics": ["Success A1"]
   },
+  "drive": {
+    "level": ["A1", "A2", "B1"],
+    "topics": ["Transport by car or lorry A1", "Transport by car or lorry A2", " Discussion and agreement C2"]
+  },
   "elect": {
     "level": ["B2"]
   },
@@ -205,6 +209,10 @@
     "level": ["B2"],
     "topics": ["Doubt, guessing and certainty B2", "Doubt, guessing and certainty C1", "Change, cause and effect C1"]
   },
+  "happen": {
+    "level": ["A1"],
+    "topics": ["Change, cause and effect A1", "Opinion and argument C2", "Danger C2"]
+  },
   "have": {
     "level": ["A1", "A2", "B1"],
     "topics": ["Illness A1", "Opinion and argument C2"]
@@ -232,6 +240,10 @@
   "indicate": {
     "level": ["B1"],
     "topics": ["Engineering B2", "Transport by car or lorry C1", "Suggestions and advice C2"]
+  },
+  "influence": {
+    "level": ["B1"],
+    "topics": ["Social issues C2", "Illness C2"]
   },
   "inherit": {
     "level": ["B2", "C1"],
@@ -266,6 +278,9 @@
   "obtain": {
     "level": ["B2"]
   },
+  "occur": {
+    "level": ["B1", "B2"]
+  },
   "own": {
     "level": ["A2"],
     "topics": ["Business C2", "Success C2"]
@@ -273,6 +288,13 @@
   "predict": {
     "level": ["A2"],
     "topics": ["Doubt, guessing and certainty A2"]
+  },
+  "prefer": {
+    "level": ["A1"],
+    "topics": ["Preferences and decisions A1", "Law and justice C2"]
+  },
+  "proceed": {
+    "level": ["B2", "C1"]
   },
   "produce": {
     "level": ["A2", "B1"],
@@ -302,6 +324,10 @@
   },
   "remain": {
     "level": ["B1", "B2"]
+  },
+  "require": {
+    "level": ["B1", "B2"],
+    "topics": ["Permission and obligation B2"]
   },
   "resist": {
     "level": ["B2"]
@@ -360,6 +386,14 @@
     "level": ["B2"],
     "topics": ["Doubt, guessing and certainty B2", "Crime and punishment B2"]
   },
+  "teach": {
+    "level": ["A1"],
+    "topics": ["Education A1"]
+  },
+  "trace": {
+    "level": ["B2", "C1"],
+    "topics": ["Crime and punishment B2", "Phones, email and the internet B2", "Family and relationships B2"]
+  },
   "transpire": {
     "level": []
   },
@@ -372,5 +406,9 @@
   },
   "vary": {
     "level": ["B2"]
+  },
+  "work": {
+    "level": ["A1", "A2", "B1"],
+    "topics": ["Jobs A1", "Working life A1", "Art A2"]
   }
 }

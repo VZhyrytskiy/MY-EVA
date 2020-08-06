@@ -1,0 +1,157 @@
+{
+  "word": "evolution",
+  "part": "noun",
+  "transcription": "[ˌevəˈluːʃn]",
+  "level": ["B2"],
+  "translation": ["эволюция"],
+  "topics": ["Biology B2"],
+  "type": ["countable", "uncountable"],
+  "plural": [],
+  "verbForms": {
+    "presentSimple_1_2": "",
+    "presentSimple_3": "",
+    "pastSimple": "",
+    "pastParticiple": "",
+    "ingForm": ""
+  },
+  "pronunciation changes by part of speech": false,
+  "use": "",
+  "meanings": [
+      {
+          "1": {
+            "en": "[uncountable] (biology) the slow steady development of plants, animals, etc. during the history of the earth, as they adapt to changes in their environment",
+            "ru": "[неисчисляемое] (биология) медленное неуклонное развитие растений, животных и т. д. на протяжении истории Земли по мере их адаптации к изменениям в окружающей среде.",
+            "opposite": ["good"]
+          },
+          "2": {
+            "en": "[uncountable, countable] the slow steady development of something",
+            "ru": "[неисчисляемое, исчисляемое] медленное устойчивое развитие чего-то"
+          }
+      }
+  ],
+  "adjectives": [
+    "cultural",
+    "early",
+    "gradual",
+    "ideological",
+    "long-term",
+    "organic",
+    "rapid",
+    "slow"
+  ],
+  "adverbs": [
+  ],
+  "idioms": [
+  ],
+  "nouns": [
+  ],
+  "ordinal numbers": [
+  ],
+  "patterns": [
+    "evolution from... to..."
+  ],
+  "phrasal verbs": [
+  ],
+  "phrases": [
+    "the theory of evolution"
+  ],
+  "prepositions": [
+    "from",
+    "of",
+    "toward",
+    "towards"
+  ],
+  "verbs": [
+    "drive",
+    "influence",
+    "prefer",
+    "teach",
+    "trace"
+  ],
+  "+verbs": [
+    "happen",
+    "occur",
+    "proceed",
+    "require",
+    "work"
+  ],
+  "wordfinder": [
+  ],
+  "examples": [
+      {
+          "en": "Darwin’s <phrase>theory of evolution</phrase>",
+          "ru": "Теория эволюции Дарвина",
+          "meaning": 1
+      },
+      {
+          "en": "Finally it was legal to <verb>teach</verb> evolution everywhere in America.",
+          "ru": "Наконец, в Америке было законно обучать эволюции.",
+          "meaning": 1
+      },
+      {
+          "en": "Evolution <verb>requires</verb> intermediate forms between species.",
+          "ru": "Эволюция требует промежуточных форм между видами.",
+          "meaning": 1,
+          "+verbs": "require"
+      },
+      {
+          "en": "competing theories as to how evolution <verb>works</verb>",
+          "ru": "конкурирующие теории относительно того, как работает эволюция",
+          "meaning": 1,
+          "+verbs": "work"
+      },
+      {
+          "en": "the <adj>early</adj> evolution <prep>of</prep> animals",
+          "ru": "ранняя эволюция животных",
+          "meaning": 1
+      },
+      {
+          "en": "<adj>organic</adj> evolution by natural selection",
+          "ru": "органическая эволюция путем естественного отбора",
+          "meaning": 1
+      },
+      {
+          "en": "the <adj>long-term</adj> evolution <prep>of</prep> ecosystems",
+          "ru": "долгосрочное развитие экосистем",
+          "meaning": 1
+      },
+      {
+          "en": "In politics Britain has <verb>preferred</verb> evolution to revolution",
+          "ru": "В политике Британия предпочла эволюцию революции",
+          "meaning": 2,
+          "verb": "prefer"
+      },
+      {
+          "en": "<adj>cultural</adj> trends and evolutions",
+          "ru": "культурные тенденции и эволюции",
+          "meaning": 2
+      },
+      {
+          "en": "The movement is undergoing an <adj>ideological</adj> evolution.",
+          "ru": "Движение претерпевает идеологическую эволюцию.",
+          "meaning": 2
+      },
+      {
+          "en": "a book <verb>tracing</verb> the evolution <prep>of</prep> the English language",
+          "ru": "книга, прослеживающая эволюцию английского языка",
+          "meaning": 2,
+          "verb": "trace"
+      },
+      {
+          "en": "his <pattern>evolution from comedian to serious actor</pattern>",
+          "ru": "его эволюция от комика до серьезного актера",
+          "meaning": 2,
+          "pattern": "evolution from... to..."
+      },
+      {
+          "en": "the country's <adj>gradual</adj> evolution <prep>towards</prep> democracy",
+          "ru": "постепенная эволюция страны к демократии",
+          "meaning": 2
+      },
+      {
+          "en": "the <adj>parallel</adj> evolution <prep>of</prep> science and art",
+          "ru": "параллельная эволюция науки и искусства",
+          "meaning": 2
+      }
+  ]
+}
